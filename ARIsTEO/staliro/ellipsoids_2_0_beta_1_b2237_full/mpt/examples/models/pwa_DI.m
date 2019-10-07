@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %PWA_DI 2nd order PWA example with 4 PWA dynamics
 %
 % ---------------------------------------------------------------------------

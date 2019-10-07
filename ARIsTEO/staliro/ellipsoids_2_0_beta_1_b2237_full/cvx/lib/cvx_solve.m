@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_solve( presolve )
 global cvx___
 prob = evalin( 'caller', 'cvx_problem', '[]' );

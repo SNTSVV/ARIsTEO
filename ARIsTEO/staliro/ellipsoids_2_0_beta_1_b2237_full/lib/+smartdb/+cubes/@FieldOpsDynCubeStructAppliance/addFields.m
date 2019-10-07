@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function addFields(self,addFieldNameList,varargin)
 % ADDFIELD adds new of field to a given dynamic CubeStruct
 %

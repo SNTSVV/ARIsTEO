@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 function varargout = gan(varargin)
 % Author Johan Löfberg
 % $Id: gan.m,v 1.6 2007/08/21 14:49:42 joloef Exp $

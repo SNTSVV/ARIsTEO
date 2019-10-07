@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function changeMinDimInternal(self,minDim)
 % CHANGEMINDIM changes a dimensionality of CubeStruct object
 %

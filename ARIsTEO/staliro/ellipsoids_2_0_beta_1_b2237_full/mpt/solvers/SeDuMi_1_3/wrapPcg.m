@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %    [y,r,k, DAy] = normeqPcg(L,Lden,At,dense,d, DAt,K, b, cgpars, y0,rhs)
 %
 % WRAPPCG  Solve y from AP(d)A' * y = b

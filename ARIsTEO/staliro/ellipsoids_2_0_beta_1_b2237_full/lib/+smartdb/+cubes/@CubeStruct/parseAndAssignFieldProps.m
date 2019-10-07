@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function parseAndAssignFieldProps(self,varargin)
 % PARSEANDASSIGNFIELDPROPS parses field properties for CubeStruct object
 % and assignes them to the object

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Matlab MEX interface for the GLPK library
 %
 % [xopt, fmin, status, extra] = glpk (c, a, b, lb, ub, ctype, vartype,

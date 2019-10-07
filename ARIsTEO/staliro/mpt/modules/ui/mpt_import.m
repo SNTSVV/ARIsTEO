@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function out = mpt_import(varargin)
 %
 % imports sysStruct/probStruct/mptctrl/polytope objects from MPT 2.6

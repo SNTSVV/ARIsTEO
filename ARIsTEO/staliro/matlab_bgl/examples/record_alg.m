@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %% Recording algorithm behavior with MatlabBGL
 % In this example, we will write a simple visitor that outputs an
 % algorithm's behavior.  The algorithm we will examine is dijkstra_sp.  To

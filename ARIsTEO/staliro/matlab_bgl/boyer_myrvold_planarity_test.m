@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [is_planar ksubgraph EI]=boyer_myrvold_planarity_test(A,varargin)
 % BOYER_MYRVOLD_PLANARITY_TEST Test a graph for planarity
 %

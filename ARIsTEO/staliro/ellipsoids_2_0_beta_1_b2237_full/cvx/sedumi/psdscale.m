@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                           y = psdscale(ud,x,K [,transp])
 % PSDSCALE  Computes length lenud (=sum(K.s.^2)) vector y.
 %   !transp (default) then y[k] = vec(Ldk' * Xk * Ldk)

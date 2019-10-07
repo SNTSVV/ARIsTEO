@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiSysStruct(varargin)
 % MPT_GUISYSSTRUCT M-file for mpt_guiSysStruct.fig
 %      MPT_GUISYSSTRUCT, by itself, creates a new MPT_GUISYSSTRUCT or raises the existing

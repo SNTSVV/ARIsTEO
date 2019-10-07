@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Closest Toeplitz SDP search.
 %
 % This script finds a Toeplitz Hermitian PSD matrix that is closest to a

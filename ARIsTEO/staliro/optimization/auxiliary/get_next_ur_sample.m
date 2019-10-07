@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [x, sample_success] = get_next_ur_sample(space,gen_method)
 % SYNOPSYS
 %   [x, sample_success] = get_next_ur_sample(space)

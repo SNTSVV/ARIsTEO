@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                           perm = sortnnz(At,Ajc1,Ajc2)
 % SORTNNZ  Sorts columns in At
 %     in increasing order of nnzs; only the nnzs between Ajc1 and Ajc2

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Class definition for the Genetic algorithm
 % 
 % ga_params = GA_Taliro_parameters

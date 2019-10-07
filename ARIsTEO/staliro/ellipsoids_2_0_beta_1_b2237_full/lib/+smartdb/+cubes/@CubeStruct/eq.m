@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isEq,reportStr]=eq(self,otherObj,varargin)
 % EQ returns true if CubeStruct objects are equal and false
 % otherwise; EQ(A,B) overloads symbolic A == B

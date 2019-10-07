@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function h = fplot_internal(obj, function_name, options)
 %
 % Plot function over a single convex set

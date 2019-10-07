@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function hysdel(filename,simname,options)
 % hysdel(filename,simname,options)
 % Compiles the HYSDEL list <filename.hys>, 

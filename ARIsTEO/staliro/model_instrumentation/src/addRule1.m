@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ A, b ] = addRule1( info )
 %addRule1 : Every block must be assigned to a single core.
 % Creates Aeq and beq matrices for rule 1

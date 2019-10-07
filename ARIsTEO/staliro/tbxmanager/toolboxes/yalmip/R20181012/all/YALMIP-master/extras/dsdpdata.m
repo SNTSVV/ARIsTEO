@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [C,A,b,blk] = dsdpdata(F,h)
 %DSDPDATA Internal function create DSDP data
 

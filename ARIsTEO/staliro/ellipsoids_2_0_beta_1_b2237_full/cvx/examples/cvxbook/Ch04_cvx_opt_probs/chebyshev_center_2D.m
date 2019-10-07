@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 % Section 4.3.1: Compute and display the Chebyshev center of a 2D polyhedron
 % Boyd & Vandenberghe, "Convex Optimization"
 % Joëlle Skaf - 08/16/05

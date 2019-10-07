@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [varargout]=kolmogorov_max_flow(A,u,v,varargin)
 % KOLMOGOROV_MAX_FLOW Kolmogorov's max flow algorithm
 %

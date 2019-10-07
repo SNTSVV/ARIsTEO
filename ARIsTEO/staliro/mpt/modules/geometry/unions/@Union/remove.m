@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function obj = remove(obj, index)
 %
 %  Remove the object from the union based on the index

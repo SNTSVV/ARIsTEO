@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function H = deriveBasis(A_equ)
 [L,U,P] = lu(A_equ);
 [L,U,P] = lu(A_equ');

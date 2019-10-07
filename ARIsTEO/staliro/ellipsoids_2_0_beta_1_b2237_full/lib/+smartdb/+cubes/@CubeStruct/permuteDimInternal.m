@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function permuteDimInternal(self,dimOrderVec,isInvPermute)
 % PERMUTEDIM permutes dimensions of CubeStruct based on 
 % a specified dimension order vector

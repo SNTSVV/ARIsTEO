@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Pn,Fi,Gi,dynamics,probStruct]=mpt_computePWATset(sysStruct,probStruct,originindynamics,Options)
 %MPT_COMPUTEPWATSET Computes a stabilizing control invariant set (+ controllers) around the origin
 %

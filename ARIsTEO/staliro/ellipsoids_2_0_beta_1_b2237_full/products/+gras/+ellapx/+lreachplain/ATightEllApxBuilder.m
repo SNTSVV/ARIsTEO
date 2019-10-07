@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef ATightEllApxBuilder<gras.ellapx.gen.ATightEllApxBuilder
     properties (Constant,GetAccess=protected)
         N_TIME_POINTS=100;

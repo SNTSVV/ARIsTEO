@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % compute external and internal ellipsoidal approximations
 % of the intersections of ellipsoids in the first column of ellMat
 % with the halfspace x1 - x2 <= 2:

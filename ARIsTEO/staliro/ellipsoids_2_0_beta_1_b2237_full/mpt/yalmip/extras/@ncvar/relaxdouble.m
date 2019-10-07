@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sys=relaxdouble(X)
 %RELAXDOUBLE Return numerial value treating nonlinear variables as independent
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPositive = isbigger(fstEll, secEll)
 %
 % ISBIGGER - checks if one ellipsoid would contain the other if their

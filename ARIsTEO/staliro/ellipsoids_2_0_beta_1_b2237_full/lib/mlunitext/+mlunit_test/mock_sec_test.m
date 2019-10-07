@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef mock_sec_test < mlunitext.test_case
     % MOCK_TEST is a mock test_case used for the tests in test_test_case.
     %

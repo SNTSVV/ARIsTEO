@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function hpArr = fromRepMat(varargin)
 % FROMREPMAT - returns array of equal hyperplanes the same
 %              size as stated in sizeVec argument

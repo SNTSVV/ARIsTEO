@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sysStruct, probStruct] = mpt_prepareDU(sysStruct, probStruct)
 %MPT_PREPAREDU Extends system and problem matrices to deal with deltaU constraints
 %

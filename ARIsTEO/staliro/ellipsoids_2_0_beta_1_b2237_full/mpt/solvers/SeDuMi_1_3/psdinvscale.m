@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                           y = psdinvscale(ud,x,K ,transp)
 % PSDINVSCALE  Computes length lenud (=sum(K.s.^2)) vector y.
 %    Computes y = D(d^{-1}) x with d in K.

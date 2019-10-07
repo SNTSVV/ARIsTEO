@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = convert_perspective_log(p)
 
 p.kept = 1:length(p.c);

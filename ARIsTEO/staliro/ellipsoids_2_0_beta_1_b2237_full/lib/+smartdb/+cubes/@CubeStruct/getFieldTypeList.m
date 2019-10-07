@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function typeInfoList=getFieldTypeList(self,varargin)
 % GETFIELDTYPELIST - returns list of field types in given CubeStruct object
 %

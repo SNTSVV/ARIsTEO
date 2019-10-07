@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function copyFromInternal(self,obj,varargin)
 % COPYFROMINTERNAL creates a copy of CubeStruct object within a current object using the input
 % CubeStruct object as a prototype

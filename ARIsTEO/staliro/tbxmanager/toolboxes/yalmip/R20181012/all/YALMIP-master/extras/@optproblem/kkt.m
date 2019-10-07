@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [KKTConstraints, details] = kkt(P,x,ops)
 %KKT Create KKT system for optimization system P with parametric variables x
 %

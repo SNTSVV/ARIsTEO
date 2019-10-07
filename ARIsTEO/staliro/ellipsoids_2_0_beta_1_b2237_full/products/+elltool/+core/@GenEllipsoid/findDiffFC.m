@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ resEllMat ] = findDiffFC( fMethod, ellQ1Mat, ellQ2Mat,...
     curDirVec,absTol )
 % FINDDIFFFC - find approximation for Minkowsky difference

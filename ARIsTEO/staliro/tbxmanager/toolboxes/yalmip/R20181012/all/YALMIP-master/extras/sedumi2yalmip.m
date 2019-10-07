@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F,h,x] = sedumi2yalmip(At,b,c,K)
 
 nvars = length(b);

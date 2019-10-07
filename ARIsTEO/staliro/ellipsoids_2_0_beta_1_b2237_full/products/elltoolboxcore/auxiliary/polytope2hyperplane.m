@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function HA = polytope2hyperplane(P)
 %
 % POLYTOPE2HYPERPLANE - converts given polytope object into

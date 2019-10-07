@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function extApprEllVec = minksum_ea(inpEllArr, dirMat)
 %
 % MINKSUM_EA - computation of external approximating ellipsoids

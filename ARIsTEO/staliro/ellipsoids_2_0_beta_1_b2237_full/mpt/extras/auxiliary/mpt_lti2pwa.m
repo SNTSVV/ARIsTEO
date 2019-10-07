@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sysStruct = mpt_lti2pwa(sysStruct)
 %MPT_LTI2PWA Converts an LTI system to a PWA system
 %

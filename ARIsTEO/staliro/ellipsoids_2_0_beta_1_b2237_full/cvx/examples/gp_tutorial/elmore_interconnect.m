@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Elmore delay sizing for an interconnect network.
 % Boyd, Kim, Vandenberghe, and Hassibi, "A Tutorial on Geometric Programming"
 % Boyd, Kim, Patil, and Horowitz, "Digital circuit optimization via geometric programming"

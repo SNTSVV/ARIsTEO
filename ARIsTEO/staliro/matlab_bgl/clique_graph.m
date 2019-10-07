@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A] = clique_graph(n,varargin)
 % CLIQUE_GRAPH Generate the clique graph or bipartite clique graph
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function res = isstate(var)
 %ISSTATE Returns true if a given MPTVAR object is a state variable
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = ellipsoid(X)
 % polytope  Converts set object to ELLIPSOID object        
 %

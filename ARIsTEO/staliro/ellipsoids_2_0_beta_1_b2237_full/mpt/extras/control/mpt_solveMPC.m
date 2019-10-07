@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [U,feasible,fval,sysStruct,probStruct,Matrices,X]=mpt_solveMPC(x0,sysStruct,probStruct,Matrices,Options)
 %MPT_SOLVEMPC Solves the on line optimization MPC problem
 %

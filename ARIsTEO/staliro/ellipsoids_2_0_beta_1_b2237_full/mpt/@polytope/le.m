@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function status = le(P,Q,Options)
 %LE Checks if polytope P is a subset of polytope Q
 %

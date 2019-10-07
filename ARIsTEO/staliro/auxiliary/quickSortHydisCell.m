@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %Sort hydis object cell array
 %The function returns two rows, 1st row with the sorted values and the 2nd
 %row with the indices of the original cell array.

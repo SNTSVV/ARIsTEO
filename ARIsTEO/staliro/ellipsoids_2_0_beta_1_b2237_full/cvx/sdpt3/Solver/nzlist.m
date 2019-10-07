@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%***********************************************************************
 %% nzlist: find the combined list of non-zero elements
 %%         of Aj, j = 1:k, for each k,

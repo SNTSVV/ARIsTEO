@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = lambda_min(varargin)
 % LAMBDA_MIN Returns largest eigenvalue of Hermitian matrix.
 %

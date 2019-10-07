@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ dataSize, lookUpTableOut ] = getSizeOfDataType( dataType, lookUpTable )
 %UNTITLED10 Summary of this function goes here
 %   Detailed explanation goes here

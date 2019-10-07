@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 A = [0.9 1;0 0.7];
 B = [1 0; 0 1];
 G = [0.4 0.02; 0.02 0.4];

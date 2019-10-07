@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function self = subsasgn(self,subs,data)
 
 if isequal(subs(1).type,'.')

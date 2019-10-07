@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ret = mpt_call_enum_plcp(opt)
 %
 % a gateway routine to parametric ENUMPLCP solver

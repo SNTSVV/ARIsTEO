@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [vMat,fMat,SStats,eMat,f2eMat,f2eIsDirMat]=shrinkfacetri(vMat,...
     fMat,maxEdgeLength,nMaxSteps,fVertAdjustFunc)
 % SHRINKFACETRI shrinks faces of 3D triangulation space down to a

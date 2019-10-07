@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef IterableBehavior < handle
 	% Basic class which provides a forEach() method to iterate over an
 	% array

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figure 8.15: Linear placement problem
 % Section 8.7.3, Boyd & Vandenberghe "Convex Optimization"
 % Original by Lieven Vandenberghe

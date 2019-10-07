@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function expr = plus(expr1, expr2)
 %PLUS Sumation operator for MPTAFFEXPR objects
 

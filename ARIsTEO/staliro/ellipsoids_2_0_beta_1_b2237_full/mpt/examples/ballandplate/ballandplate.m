@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % this function only defines parameters of the "ball and plate" system,
 % for more complete description, execute "ballandplatedemo"
 

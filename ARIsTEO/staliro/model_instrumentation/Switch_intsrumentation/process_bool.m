@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  [bool_blocklist_cell,bool_conn_matrix_cell] = process_bool(blockList,connHandleList,Switchconnhandlebool,connMatrix,info)
   
   bool_blocklist_cell = {};

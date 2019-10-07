@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [X,U,Y,cost,trajectory]=mpt_plotTimeTrajectory(ctrl,x0,horizon,Options)
 %MPT_PLOTTIMETRAJECTORY Plots trajectories of states, inputs, outputs and disturbances
 %

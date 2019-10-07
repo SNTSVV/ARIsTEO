@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function reorderDataInternal(self,varargin)
 % REORDERDATA - reorders cells of CubeStruct object along the specified
 %               dimensions according to the specified index vectors

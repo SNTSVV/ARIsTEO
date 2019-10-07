@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Y = VEC(x)  Given an m x n matrix x, this produces the vector Y of length
 %   m*n that contains the columns of the matrix x, stacked below each other.
 %

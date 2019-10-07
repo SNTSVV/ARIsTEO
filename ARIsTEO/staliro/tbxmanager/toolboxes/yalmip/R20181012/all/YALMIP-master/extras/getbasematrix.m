@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = getbasematrix(x,ind)
 %GETBASEMATRIX (overloaded sdpvar/getbasematrix on double)
 

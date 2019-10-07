@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%
 %To visualize ellipsoids of high dimensions, projections are used:',
 %

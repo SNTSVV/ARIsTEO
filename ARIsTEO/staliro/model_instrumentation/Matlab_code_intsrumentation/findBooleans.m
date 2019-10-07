@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % 'findBooleans' extracts the boolean formula from the If-Then-Else 
 % conditions. This function creates the predicates of the boolean formulas
 % based on the condition. Each predicate corresponds to an inequality of

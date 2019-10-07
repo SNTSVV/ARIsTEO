@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [dQ,dL,dC,feasible,drho,runtime]=mpt_getPWQLyapFct(ctrl,Options)
 %MPT_GETPWQLYAPFCT Calculates PWQ Lyapunov function
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function reorderFieldsInternal(self,newFieldNameList)
 % REORDERFIELDSINTERNAL reorders CubeStruct fields according to 
 % the specified field name list

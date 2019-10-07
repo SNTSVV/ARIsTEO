@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = semicont(x)
 %SEMICONT Constrains variables to be semi-continuous 
 %

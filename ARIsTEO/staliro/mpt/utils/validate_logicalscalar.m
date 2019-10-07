@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y=validate_logicalscalar(v)
 %
 % check if the argument is a logical scalar, otherwise throw an error

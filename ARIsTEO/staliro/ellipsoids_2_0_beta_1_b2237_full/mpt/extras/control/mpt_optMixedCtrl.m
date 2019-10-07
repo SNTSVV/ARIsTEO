@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrlStruct = mpt_optMixedCtrl(sysStruct, probStruct, Options)
 %MPT_OPTMIXEDCTRL Computes optimal controller for systems discrete and continuous inputs
 %

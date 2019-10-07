@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [how] = isredundant(P,row,Options)
 %ISREDUNDANT Check if a constraint is redundant
 %

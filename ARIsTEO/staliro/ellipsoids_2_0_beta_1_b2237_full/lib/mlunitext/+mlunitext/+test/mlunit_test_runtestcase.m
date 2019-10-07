@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef mlunit_test_runtestcase < mlunitext.test_case
     % $Authors: Peter Gagarinov <pgagarinov@gmail.com>
     % $Date: March-2013 $

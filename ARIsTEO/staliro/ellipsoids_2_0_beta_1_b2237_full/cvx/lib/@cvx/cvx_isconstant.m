@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_isconstant( x, full )
 error( nargchk( 1, 2, nargin ) );
 b = x.basis_;

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = rel_entr( x, y )
 
 %REL_ENTR   Internal cvx version.

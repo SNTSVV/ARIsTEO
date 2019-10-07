@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef GoodDirsContinuousLTI<gras.ellapx.lreachplain.AGoodDirs
     methods
         function self = GoodDirsContinuousLTI(pDynObj, sTime, ...

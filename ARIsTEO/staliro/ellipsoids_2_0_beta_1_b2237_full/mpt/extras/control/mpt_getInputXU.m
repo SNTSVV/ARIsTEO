@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [U,feasible,region,XU_region]=mpt_getInputXU(ctrlStruct,x0,Options)
 %MPT_GETINPUTXU For a given state, extracts the an output from an XUset
 %

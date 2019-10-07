@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 sdpvar x y z
 F = set(max(1,x)+max(y^2,z) < 3)+set(max(1,-min(x,y)) < 5)+set(norm([x;y],2) < z);
 sol = solvesdp(F,max(x,z)-min(y,z)-z);

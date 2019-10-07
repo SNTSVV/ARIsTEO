@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Minimize sidelobe level of a uniform linear array via spectral factorization
 % "FIR Filter Design via Spectral Factorization and Convex Optimization" example
 % by S.-P. Wu, S. Boyd, and L. Vandenberghe

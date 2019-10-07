@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % assign parameter values:
 v1 = 65; v2 = 60; v3 = 63; v4 = 65;  % mph
 w1 = 10; w2 = 10; w3 = 10; w4 = 10;  % mph

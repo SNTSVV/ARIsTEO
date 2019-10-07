@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function applySetFunc(self,varargin)
 % APPLYSETFUNC - applies some function to each cell of the specified fields
 %                of a given CubeStruct object

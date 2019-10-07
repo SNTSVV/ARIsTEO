@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
  function poly = tri2polytope(vMat,fMat)
 % TRI2POLYTOPE -- makes polytope object represanting the 
 %                 triangulation of convex nondegenerate 

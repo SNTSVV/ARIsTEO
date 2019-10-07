@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % FROMPACK Converts a cone problem in SDPPACK format to SEDUMI format.
 %
 % [At,c] = frompack(A,b,C,blk)  Given a problem (A,b,C,blk) in the

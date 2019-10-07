@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Implements an n-dimensional ball
 % b = ball(center, radius, opts);
 % opts.strict = 1 indicates the use of strict inequalities when

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % CVX_CLEAR   Clears all active CVX data.
 %    CVX_CLEAR clears the current CVX model in progress. This is useful if, for
 %    example, you have made an error typing in your model and wish to start 

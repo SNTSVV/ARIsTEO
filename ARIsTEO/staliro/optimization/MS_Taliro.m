@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [run, history, sigData] = MS_Taliro(inpRanges,opt)
 % MS_Taliro - Performs Multi-Start with local gradient descent starting 
 % from each point. Currenlty, MS_Taliro works only with hybrid automata of

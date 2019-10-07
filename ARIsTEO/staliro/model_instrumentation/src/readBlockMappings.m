@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ mappingOfBlocks ] = readBlockMappings( blockList )
 %readBlockTypes List of strings of block types of each block
 

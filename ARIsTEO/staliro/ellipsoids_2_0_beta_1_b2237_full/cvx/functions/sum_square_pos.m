@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = sum_square_pos( x, dim )
 
 %SUM_SQUARE_POS   Sum of squares of the positive parts.

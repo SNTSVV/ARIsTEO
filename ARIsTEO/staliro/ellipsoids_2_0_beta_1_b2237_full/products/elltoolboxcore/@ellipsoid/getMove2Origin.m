@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outEllArr = getMove2Origin(inpEllArr)
 %
 % GETMOVE2ORIGIN - do the same as MOVE2ORIGIN method: moves ellipsoids in 

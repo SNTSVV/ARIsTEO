@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function displayUsageInformation( toolName )
 %displayUsageInformation Gives information on how to use the tool
 fprintf('\n USAGE: %s(''modelName'',''modelInitFile'', debugMode, modelDepth, doMapping, numOfProc);\n', toolName);

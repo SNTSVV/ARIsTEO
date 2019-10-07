@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef ReflectionHelper<handle
     %REFLECTIONHELPER - serves a single purpose: retrieving a name of 
     %                   currently constructed object

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ sampleTimeList ] = readCompiledSampleTimes( blockList )
 %readCompiledSampleTimes Read compiled sample time information of all blocks.
 

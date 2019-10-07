@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [rob_saved, u_saved, n_sim] = Apply_Opt_GD_default(curSample, curVal, tmc, max_T, opt)
 % This function applies a local optimal search to an initial input and returns
 % the results. It is optionally used inside SA_Taliro. It can be used

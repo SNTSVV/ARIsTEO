@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % ifThenElseModel2BBox function extracts the branch conditions of Simulink 
 % blocks with Matlab embedded code. ifThenElseModel2BBox instruments the 
 % If-Then-Else blocks of the MATLAB embedded code (MATLAB function block). 

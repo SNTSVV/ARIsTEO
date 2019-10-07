@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = pwq_yalmip(varargin)
 %PWQ_YALMIP Defines a piecewise quadratic function using data from MPT
 %

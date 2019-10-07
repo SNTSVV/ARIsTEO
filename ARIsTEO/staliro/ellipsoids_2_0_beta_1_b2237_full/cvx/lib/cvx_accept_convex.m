@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = cvx_accept_convex( x )
 global cvx___
 if isa( x, 'cvx' ),

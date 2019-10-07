@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [model,output] = normalizeExponentialCone(model)
 
 % N.B: YALMIP Definition % x2*exp(x1/x2)  <= x3

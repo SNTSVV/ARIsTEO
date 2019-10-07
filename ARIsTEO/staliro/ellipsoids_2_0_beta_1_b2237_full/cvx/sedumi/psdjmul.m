@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                    y = psdmul(x,y, K)
 % PSDMUL  for full x,y. Computes (XY+YX)/2
 %

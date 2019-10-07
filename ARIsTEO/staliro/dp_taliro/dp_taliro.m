@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % function dp_taliro - Computing the robustness estimate of timed state
 % sequences of Metric Temporal Logic (MTL) formulas
 %

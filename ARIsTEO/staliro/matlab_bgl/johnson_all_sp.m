@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function D = johnson_all_sp(A,varargin)
 % JOHNSON_ALL_SP Compute the weighted all-pairs shortest path problem.
 %

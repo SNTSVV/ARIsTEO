@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Pn,Fi,Gi,activeConstraints, Phard,details]=mpt_mplp_ver3(Matrices,Options)
 %MPT_MPLP Explicitly solves the given linear program (LP)
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Fconv,no_changed,infeasible,Forigquad] = convertquadratics(F)
 %CONVERTQUADRATICS Internal function to extract quadratic constraints
 

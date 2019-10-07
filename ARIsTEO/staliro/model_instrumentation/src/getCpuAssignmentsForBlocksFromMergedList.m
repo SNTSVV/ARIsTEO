@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info ] = getCpuAssignmentsForBlocksFromMergedList( infoIn )
 %getCpuAssignmentsForBlocksFromMergedList Reads the cpu assignments of merged 
 % blocks and transfers the assignments to the blocks.

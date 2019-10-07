@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function info = addInterCoreCommBlocks( infoIn, config )
 %addInterCoreCommBlocks add InterCore Comm Blocks between blocks of different cores.
 

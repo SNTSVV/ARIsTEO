@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Get function for hydis class
 %   get(hd,1) returns the 1st member of the pair
 %   get(hd,2) returns the 2nd member of the pair

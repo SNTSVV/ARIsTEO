@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [varargout]=push_relabel_max_flow(A,u,v,varargin)
 % PUSH_RELABEL_MAX_FLOW Goldberg's push-relabel max flow algorithm
 %

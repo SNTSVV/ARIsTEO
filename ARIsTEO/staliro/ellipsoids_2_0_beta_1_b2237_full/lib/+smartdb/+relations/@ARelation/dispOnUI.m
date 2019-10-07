@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [hFigure,gridObj]=dispOnUI(self,varargin)
 % DISPONUI - displays a content of the given relation as a data grid UI
 %            component.

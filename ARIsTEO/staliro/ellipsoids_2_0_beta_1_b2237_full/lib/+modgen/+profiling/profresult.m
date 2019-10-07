@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resTime=profresult(varargin)
 % PROFRESULT takes info obtaining during profiling and displays a profiling
 % report using the specified name as a marker

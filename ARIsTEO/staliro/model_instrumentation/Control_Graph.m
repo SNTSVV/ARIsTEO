@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ CLG,new_guardsize] = Control_Graph(switch_block_info,saturate_block_info,projection_mode)
 % Generates the Hybrid Automata representaion for the switch and saturate
 % blocks in the model.

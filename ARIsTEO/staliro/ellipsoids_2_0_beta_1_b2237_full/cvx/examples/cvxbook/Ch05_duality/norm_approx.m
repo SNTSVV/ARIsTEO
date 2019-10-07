@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 % Examples 5.6,5.8: An l_p norm approximation problem
 % Boyd & Vandenberghe "Convex Optimization"
 % Joëlle Skaf - 08/23/05

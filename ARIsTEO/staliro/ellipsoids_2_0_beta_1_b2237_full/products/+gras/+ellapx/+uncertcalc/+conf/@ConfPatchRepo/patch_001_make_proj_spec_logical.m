@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SInput = patch_001_make_proj_spec_logical(~,SInput)
 SInput=update(SInput,'op_iap');
 end

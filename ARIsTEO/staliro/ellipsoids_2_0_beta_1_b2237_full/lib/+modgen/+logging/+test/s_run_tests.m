@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 curLoc=fileparts(mfilename('fullpath'));
 testFileName=[curLoc,filesep,'test_file.txt'];
 obj=modgen.logging.EmailLogger(...

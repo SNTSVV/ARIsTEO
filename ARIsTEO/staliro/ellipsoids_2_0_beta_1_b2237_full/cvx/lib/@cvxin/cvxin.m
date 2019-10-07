@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function v = cvxin
 superiorto('cell','struct','cvx','cvxtuple');
 v = class( struct( 'active', false, 'value', [] ), 'cvxin' );

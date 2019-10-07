@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                     [L.L, L.d, L.skip, L.add] = blkchol(L,X,pars,absd)
 % BLKCHOL Fast block sparse Cholesky factorization.
 %    The sparse Cholesky factor will be placed in the fields L.L, L.d;

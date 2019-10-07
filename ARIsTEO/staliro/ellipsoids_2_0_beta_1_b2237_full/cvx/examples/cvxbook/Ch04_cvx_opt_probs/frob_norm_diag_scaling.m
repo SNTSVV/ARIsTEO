@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Section 4.5.4: Frobenius norm diagonal scaling (GP)
 % Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf - 01/29/06

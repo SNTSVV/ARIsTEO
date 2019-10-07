@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_default_dimension( sx )
 
 %CVX_DEFAULT_DIMENSION   Default dimension for SUM, MAX, etc. 

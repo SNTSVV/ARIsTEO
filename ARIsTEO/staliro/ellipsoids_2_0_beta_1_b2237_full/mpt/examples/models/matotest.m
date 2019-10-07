@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % example with mpqp degeneracy
 
 sysStruct.A = {[0.7 0.74; -0.44 -0.89], [-0.78 0.74; 0.81 -0.89]};

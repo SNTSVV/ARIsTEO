@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_guiCenter(hObject)
 %Computes coordinates of a GUI object such that it is in the center
 

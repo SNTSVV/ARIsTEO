@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %   THERMDAT
 %   This script runs in conjunction with the "thermo"
 %   house thermodynamics example.

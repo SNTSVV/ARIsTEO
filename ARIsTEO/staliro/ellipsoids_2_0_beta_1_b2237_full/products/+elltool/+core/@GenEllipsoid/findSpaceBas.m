@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ spaceBasMat,  oSpaceBasMat, spaceIndVec, oSpaceIndVec] = ...
     findSpaceBas( dirMat,absTol )
 % FINDSPACEBAS - find basis of linear hull of  specified vectors and

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figure 6.15: A comparison of stochastic and worst-case robust approximation
 % Section 6.4.2
 % Boyd & Vandenberghe "Convex Optimization"

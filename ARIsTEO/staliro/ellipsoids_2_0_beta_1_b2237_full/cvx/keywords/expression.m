@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = expression( nm, varargin )
 
 %EXPRESSION Declares a single CVX object for storing subexpressions.

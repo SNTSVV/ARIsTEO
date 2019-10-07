@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef StructChangeTracker<modgen.struct.changetracking.AStructChangeTracker
     % STRUCTCHANGETRACKER keeps a list of structure patches and provide
     % tools for applying them to any arbitrary structure. Patches can be

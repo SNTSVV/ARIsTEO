@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Example 6.2: Robust regression using the Huber penalty
 % Section 6.1.2, Figure 6.5
 % Boyd & Vandenberghe "Convex Optimization"

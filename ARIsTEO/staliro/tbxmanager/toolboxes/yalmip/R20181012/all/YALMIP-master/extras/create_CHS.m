@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [H,S]=create_CHS(A,B,C,N,M);
 % CREATE_CHS Internal function to define matrices for MPC problem
 

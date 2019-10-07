@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SRes=structgetpath(SInp,pathStr)
 % STRUCTGETPATH for given a path '.a.b.c.d.'
 % and a structB, returns value, so that

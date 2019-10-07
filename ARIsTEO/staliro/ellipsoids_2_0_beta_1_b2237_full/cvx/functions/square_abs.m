@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = square_abs( x )
 
 %SQUARE_ABS   Square of absolute value.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function identifyRegion(P,Idx)
 %IDENTIFYREGION plots the number of the polytopes into the current figure
 %

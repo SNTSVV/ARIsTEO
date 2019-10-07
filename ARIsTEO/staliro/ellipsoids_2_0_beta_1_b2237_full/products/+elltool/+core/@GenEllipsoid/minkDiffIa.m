@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ resEllVec ] = minkDiffIa( ellObj1, ellObj2, dirMat)
 % MINKDIFFIA - computes tight internal ellipsoidal approximation for
 %              Minkowsky difference of two generalized ellipsoids

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ cycleCount, pathsList, cycleBlocks ] = detectCycles( connMatrix )
 %detectCycles Detects any cycles in the given adjacency matrix.
 % Each entry of returned pathslist contains sources and destinations of paths at each length

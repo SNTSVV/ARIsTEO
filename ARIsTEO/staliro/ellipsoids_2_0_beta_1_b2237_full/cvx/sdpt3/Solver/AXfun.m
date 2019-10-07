@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*************************************************************************
 %% AXfun: compute AX(k) = <Ak,X>, k = 1:m
 %%

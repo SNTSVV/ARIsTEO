@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Z = esp_null(A,nonempty)
 %
 % N = esp_null(A,nonempty)

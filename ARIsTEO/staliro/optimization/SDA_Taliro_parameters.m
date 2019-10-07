@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef SDA_Taliro_parameters
     
 % Class definition for SDA_Taliro parameters

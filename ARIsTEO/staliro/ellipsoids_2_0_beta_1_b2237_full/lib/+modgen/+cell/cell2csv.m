@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cell2csv(datName,cellArray,seperator,excelVersion)
 % Writes cell array content into a *.csv file.
 % 

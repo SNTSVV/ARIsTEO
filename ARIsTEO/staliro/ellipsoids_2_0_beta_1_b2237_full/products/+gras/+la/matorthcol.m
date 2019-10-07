@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function oMat=matorthcol(srcMat)
 % MATORTHCOL builds a matrix with columns composed of orthogonalized
 % columns of srcMat

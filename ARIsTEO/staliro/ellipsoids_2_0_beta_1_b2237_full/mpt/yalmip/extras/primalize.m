@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Fdual,objdual,y,X] = primalize(F,obj)
 % PRIMALIZE Create the dual of an SDP given in dual form
 %

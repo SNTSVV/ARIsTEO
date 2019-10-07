@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Example 8.4: One free point localization
 % Section 8.7.1, Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf - 10/23/05

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                  y = sqrtinv(q,vlab,K)
 % SQRTINV  Computes for PSD-cone, y = (Q / diag(sqrt(vlab)))', so that
 %   Y'*Y = inv(Q * diag(vlab) * Q').

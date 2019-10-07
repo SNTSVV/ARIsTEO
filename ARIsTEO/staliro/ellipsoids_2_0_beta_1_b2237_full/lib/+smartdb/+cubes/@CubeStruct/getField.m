@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function propVal=getField(self,fieldName,varargin)
 % GETFIELD - returns values of given field 
 %

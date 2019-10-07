@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPositiveVec = isinternal(myEllArr, matrixOfVecMat, mode)
 %
 % ISINTERNAL - checks if given points belong to the union or intersection

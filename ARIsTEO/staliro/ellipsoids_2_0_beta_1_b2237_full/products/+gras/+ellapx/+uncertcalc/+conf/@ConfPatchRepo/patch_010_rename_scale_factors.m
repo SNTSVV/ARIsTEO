@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SInput = patch_010_rename_scale_factors(~,SInput)
 SInput.ellipsoidalApxProps.internalApx.dispScaleFactor=...
     SInput.ellipsoidalApxProps.internalApx.scaleFactor;

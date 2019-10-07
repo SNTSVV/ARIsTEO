@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % ACO_Taliro - Performs stochastic optimization using Extended Ant Colony 
 % Optimization (EACO). This is a wrapper for calling a mex implementation 
 % of EACO.

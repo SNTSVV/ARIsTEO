@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%***************************************************************
 %% logchebyRcone: logarithmic Chebyshev approximation problem. 
 %%                Rotated cone formulation. 

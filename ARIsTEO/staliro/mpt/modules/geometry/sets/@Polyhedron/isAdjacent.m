@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ts, iP, iQ] = isAdjacent(P,Q,fP,fQ)
 %
 % test if regions P and Q share a common facet - or if the facet to facet

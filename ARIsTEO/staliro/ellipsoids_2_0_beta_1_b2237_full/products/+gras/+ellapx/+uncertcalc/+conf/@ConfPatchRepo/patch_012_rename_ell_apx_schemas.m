@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SInput = patch_012_rename_ell_apx_schemas(~,SInput)
 SsqrtQ=SInput.ellipsoidalApxProps.internalApx.schemas.sqrtQ;
 SjustQ=SInput.ellipsoidalApxProps.internalApx.schemas.justQ;

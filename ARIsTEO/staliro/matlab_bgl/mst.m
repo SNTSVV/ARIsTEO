@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [out1 out2 out3] = mst(A,varargin)
 % MST Compute a minimum spanning tree for an undirected graph A.
 %

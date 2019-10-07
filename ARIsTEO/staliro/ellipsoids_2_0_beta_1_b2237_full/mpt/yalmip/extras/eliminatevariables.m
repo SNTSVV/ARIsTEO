@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [model,keptvariables,infeasible] = eliminatevariable(model,varindex,value)
 
 keptvariables = 1:length(model.c);

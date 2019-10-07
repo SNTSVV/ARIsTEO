@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 function output = callipqp(varargin)
 % Author Johan Löfberg 
 % $Id: callipqp.m,v 1.2 2004-06-30 07:37:03 johanl Exp $

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ execTime ] = findExecutionTimeOfBlock( newInfo, blockIndex, portIndex )
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here

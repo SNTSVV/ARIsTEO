@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ts = validate_realmatrix3D(v)
 %
 % validates real 3D matrix H(:,:,:)

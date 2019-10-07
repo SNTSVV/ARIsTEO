@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function inpArray=checkcellofstr(inpArray,flagVec)
 % CHECKCELLOFSTR checks that input variable is either a char or cell of
 % strings (char is converted to a cell), in case validation fails an

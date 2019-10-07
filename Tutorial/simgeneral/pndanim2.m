@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,x0,str,ts,simStateCompliance]=pndanim2(t,x,u,flag,ts)%#ok
 %PNDANIM2 S-function for animating the motion of a double pendulum.
 

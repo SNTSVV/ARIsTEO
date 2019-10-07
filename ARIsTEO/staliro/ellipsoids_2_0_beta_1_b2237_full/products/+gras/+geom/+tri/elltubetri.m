@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [vMat,fMat]=elltubetri(QArray,aMat,timeVec,nSPoints)
 % ELLTUBETRI builds a triangulation of ellipsoidal tube
 %

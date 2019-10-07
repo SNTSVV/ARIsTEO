@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Minimum volume ellipsoid covering a finite set
 % Section 8.4.1, Boyd & Vandenberghe "Convex Optimization"
 % Almir Mutapcic - 10/05

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [solverOutputs, assignmentArr, solveMilpGlobal] = solveMILP(problem, solver, debugMode, isReport)
 %solveMILP - Formulates the MILP problem and solves using intlinprog()
 % * return value x is the optimized vector for variables.

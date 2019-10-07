@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,values] = double(X,allextended,allevaluators,allStruct,mt,variabletype,solution,values)
 %DOUBLE Returns current numerical value
 

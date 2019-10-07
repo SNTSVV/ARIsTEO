@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function relatedIndex = getIndexFromHandle(blockHandle, handleArr)
 %getIndexFromHandle Returns index of block with given handle, 0 if handle is not found
 

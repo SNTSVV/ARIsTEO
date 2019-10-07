@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef EllipsoidIntUnionTC < mlunitext.test_case
     %$Author: Vadim Kaushanskiy <vkaushanskiy@gmail.com>$
     %$Date: 2012-12-24 $

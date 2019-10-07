@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*********************************************************************
 %% sortA: sort columns of At{p} in ascending order according to the 
 %%        number of nonzero elements. 

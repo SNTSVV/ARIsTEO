@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [info] = findSameCoreBlocks(infoIn)
 %findSameCoreBlocks marks the blocks that must go to same core
 

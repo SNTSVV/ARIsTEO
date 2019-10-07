@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function YESNONA = isconvex(p)
 %ISCONVEX Tries to determine if a scalar expression is convex
 %

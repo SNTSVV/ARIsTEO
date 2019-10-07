@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ts = eq(P, S)
 % EQUAL Test if the polyhedron is equal to this one.
 %

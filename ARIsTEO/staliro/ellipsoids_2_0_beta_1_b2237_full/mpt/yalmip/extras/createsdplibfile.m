@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function createsdplibfile(F_struc,K, c, filename)
 %CREATESDPLIBFILE Internal function to create SDPA data files  
 

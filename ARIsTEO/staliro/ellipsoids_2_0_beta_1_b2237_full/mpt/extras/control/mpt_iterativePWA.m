@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrlStruct=mpt_iterativePWA(sysStruct,probStruct,Options)
 %MPT_ITERATIVEPWA Computes a time-optimal or low-complexity explicit controller for PWA systems
 %

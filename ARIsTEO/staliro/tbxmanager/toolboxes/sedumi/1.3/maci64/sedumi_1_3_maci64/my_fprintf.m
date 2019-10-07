@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function my_fprintf(fid, varargin)
 %This function is needed because Matlab R2006B does not support fprintf with
 %fid=0, i.e., no output. This is a workaround.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*******************************************************************
 %% randsdp.m : creates random feasible SDP problems with various block
 %%              diagonal structures.

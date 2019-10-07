@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function shortName=shortcapstr(longName)
 isTakenVec=isstrprop(longName,'upper');
 isUscrVec=longName=='_';

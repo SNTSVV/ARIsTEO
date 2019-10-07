@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function toMatlab(obj, filename, function_to_export, varargin)
 % Generates pure Matlab code for evaluation of a particular function
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %MPT_PROBSTRUCT Description of the problem structure
 %
 % Problem structure (probStruct) is a structure which states an optimization

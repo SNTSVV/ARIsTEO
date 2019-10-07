@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [uuidStr, leastSignificantBits, mostSignificantBits] = getuuid()
 % GETUUID returns a random UUID (Universally Unique IDentifier)
 %

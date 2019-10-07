@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ w, cvx_optval ] = fmmc(A)
 
 % Computes fastest mixing Markov chain (FMMC) edge weights

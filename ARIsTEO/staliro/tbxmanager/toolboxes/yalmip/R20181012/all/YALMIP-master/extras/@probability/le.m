@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ChanceConstraint = le(level,P)
 
 if isa(P,'double') & isa(level,'probability')

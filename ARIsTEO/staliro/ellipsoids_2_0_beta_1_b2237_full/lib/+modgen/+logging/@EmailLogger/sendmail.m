@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sendmail(self,to,subject,message,attachments)
 %SENDMAIL Send e-mail.
 %   SENDMAIL(TO,SUBJECT,MESSAGE,ATTACHMENTS) sends an e-mail.  TO is either a

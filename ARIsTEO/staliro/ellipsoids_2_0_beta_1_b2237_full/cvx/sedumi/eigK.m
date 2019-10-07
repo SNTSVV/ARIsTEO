@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                     [lab,q,f] = eigK(x,K)
 %
 % EIGK  Computes the spectral values ("eigenvalues") or even the complete

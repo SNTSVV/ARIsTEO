@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function output = callbonmin(model)
 
 model = yalmip2nonlinearsolver(model);

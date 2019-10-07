@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [model,changed] = convert_sigmonial_to_sdpfun(model)
 
 % Always add this dummy struct

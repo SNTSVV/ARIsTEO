@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_error
 %MPT_ERROR Function called if MPT toolbox is not initialized
 %

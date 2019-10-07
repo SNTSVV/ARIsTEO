@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function filter = filter_deltaMax(obj)
 % Upper bound on the slew rate
 

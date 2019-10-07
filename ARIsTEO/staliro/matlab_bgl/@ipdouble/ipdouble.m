@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ipd = ipdouble(a)
 % IPDOUBLE Create a double type that supports inplace modification
 % ipd = ipdouble(v) creates an inplace double object from any double

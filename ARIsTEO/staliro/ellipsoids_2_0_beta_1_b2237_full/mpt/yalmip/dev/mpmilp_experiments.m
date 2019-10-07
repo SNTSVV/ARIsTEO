@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = bb_mpmilp(Matrices,OriginalModel,model,options,ExploreSpace)
 
 nu = Matrices.nu;

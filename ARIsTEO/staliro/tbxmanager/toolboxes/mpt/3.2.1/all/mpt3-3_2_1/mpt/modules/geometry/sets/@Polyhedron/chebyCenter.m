@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sol = chebyCenter(P, facetI, bound)
 % Compute the cheby-center
 %

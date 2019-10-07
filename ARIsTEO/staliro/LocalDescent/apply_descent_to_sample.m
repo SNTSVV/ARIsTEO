@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outargv = apply_descent_to_sample(curSample, argv, opt)
 % Adapter:
 % Sets up structures for minimize_robustness and runs it, then

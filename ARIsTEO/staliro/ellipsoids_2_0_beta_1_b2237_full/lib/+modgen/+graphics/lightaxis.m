@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function hLightVec=lightaxis(hAxes,lightCoordList,powerVec,lightStyleList)
 % LIGHTAXIS creates a set of light objects surrounding patch and surface
 % objects from the specified axis

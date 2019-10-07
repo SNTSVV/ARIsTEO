@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % FIELDNAMES for hydis class
 % It returns empty. No direct access to fields is allowed.
 

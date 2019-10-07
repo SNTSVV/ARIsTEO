@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sdpvarExpr = parseLMI(X)
 %PARSELMI Internal function for dirty parsing of lmi string
 

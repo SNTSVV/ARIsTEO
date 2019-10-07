@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 function output = callnage04naf(varargin)
 % Author Johan Löfberg 
 % $Id: callnage04naf.m,v 1.12 2006-04-10 09:34:47 joloef Exp $

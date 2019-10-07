@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function results=run_tests(varargin)
 suite = mlunitext.test_loader().load_tests_from_test_case(...
     'gras.geom.test.mlunit.SuiteBasic');

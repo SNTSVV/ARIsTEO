@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Euclidean projection on the semidefinite cone
 % Sec. 8.1.1, Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf - 10/07/05

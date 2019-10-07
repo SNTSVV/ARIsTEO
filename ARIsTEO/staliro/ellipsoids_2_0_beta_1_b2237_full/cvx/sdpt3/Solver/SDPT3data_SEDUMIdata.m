@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%**********************************************************
 %% SDPT3data_SEDUMIdata: convert SQLP data in SDPT3 format to 
 %%                       SeDuMi format

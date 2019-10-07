@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %   VDPDEMO
 %   This example is designed to be run with the VDP Simulink(R) example.  
 

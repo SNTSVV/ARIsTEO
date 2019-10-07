@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ firingTimeBlockSets, blocksInHyperPeriod, sampleTimesInHyperPeriod, blocksInHyperPeriodForSampleTime ] = createFiringTimeSets(firingTimes, sampleTimes, sampleTimeSets)
 %createFiringTimeSets Create set of blocks for each firing time
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % perm = ordmmdmex(adjncy)
 %   Computes multiple-minimum-degree permutation, for sparse
 %   Cholesky. Adjncy is  a sparse symmetric matrix; its diagonal

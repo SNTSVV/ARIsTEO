@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % GETPROBLEM  Script for locating, reading and convert to SeDuMi, a problem
 %   with the name specified by the variable `pname'. You have to define the
 %   variable 'pname' before using this script.

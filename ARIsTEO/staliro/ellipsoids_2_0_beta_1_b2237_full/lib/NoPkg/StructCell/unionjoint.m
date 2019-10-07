@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [unionCell,indLeft,indRight,indLocLeftVec,indLocRightVec]=unionjoint(leftCell,rightCell)
 % UNIONJOINT calculates union of corresponding elements of two cell arrays
 % jointly accross all cell array elements

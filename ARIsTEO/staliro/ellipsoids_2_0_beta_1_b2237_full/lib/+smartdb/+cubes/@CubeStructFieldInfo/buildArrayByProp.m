@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resArray=buildArrayByProp(self,cubeStructRefList,varargin)
 % BUILDARRAYBYPROP is a helper method for filling an object array with
 % the specified properties

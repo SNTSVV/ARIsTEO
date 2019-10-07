@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [equalities,redundant] = mpt_detect_fixed_rows(Matrices)
 
 A = [ Matrices.G -Matrices.E];

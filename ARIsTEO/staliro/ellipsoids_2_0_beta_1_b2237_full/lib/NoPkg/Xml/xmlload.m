@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [X,metaData] = xmlload( file )
 % XMLLOAD loads XML file and converts it into Matlab structure or variable.
 %

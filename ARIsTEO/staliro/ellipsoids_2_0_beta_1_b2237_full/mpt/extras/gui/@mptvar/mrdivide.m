@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function var = mrdivide(var1, var2)
 %MRDIVIDE Division operator for MPTVAR objects
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isin, inwhich, closest] = isInside(Pn, x0, Options)
 %
 % Containment test for H-polyhedron (automatically replaced by

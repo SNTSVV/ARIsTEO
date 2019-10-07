@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 % Section 4.6.3: Find the fastest mixing Markov chain on a graph
 % Boyd & Vandenberghe "Convex Optimization"
 % Joëlle Skaf - 09/26/05

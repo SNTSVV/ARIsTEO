@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sysStruct, msg] = mpt_sys(obj, varargin)
 % MPT_SYS Converts an object to sysStruct structure
 %

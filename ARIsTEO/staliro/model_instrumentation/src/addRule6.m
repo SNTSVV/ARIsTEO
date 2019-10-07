@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A, b] = addRule6( info )
 %addRule6 : A block cannot start execution before its predecessors
 %finishes execution.

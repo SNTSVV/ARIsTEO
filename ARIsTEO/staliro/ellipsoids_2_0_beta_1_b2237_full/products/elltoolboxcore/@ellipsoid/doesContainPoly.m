@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function doesContain = doesContainPoly(ellArr,poly,varargin)
 % DOESELLCONTAINPOLY -- privat function, used by doesContain and
 %   doesIntersection contain, to check, if intersection of ellipsids in

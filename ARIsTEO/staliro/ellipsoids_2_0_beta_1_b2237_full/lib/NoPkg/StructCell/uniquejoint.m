@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [uniqueCell,indRight2LeftVec,indLeft2RightVec,isSorted]=uniquejoint(inpCell,varargin)
 % UNIQUEJOINT perform joint unique operation for cell array
 % 

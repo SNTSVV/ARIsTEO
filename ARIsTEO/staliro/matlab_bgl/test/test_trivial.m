@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 msgid='matlab_bgl:test_trivial';
 
 %% Test functions on empty or trivial input

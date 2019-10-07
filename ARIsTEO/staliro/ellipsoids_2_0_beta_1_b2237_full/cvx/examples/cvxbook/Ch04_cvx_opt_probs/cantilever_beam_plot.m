@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Plots a cantilever beam as a 3D figure.
 % This is a helper function for the optimal cantilever beam example.
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [nnz,ind,val] = pennonm_callback_df(x,model_in)
 
 global latest_x

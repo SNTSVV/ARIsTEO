@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ChanceConstraint = gt(P,level)
 if isa(P,'double') & isa(level,'probability')
     error('Currently only supports p(F) >= level')

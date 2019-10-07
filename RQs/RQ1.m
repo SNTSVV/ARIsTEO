@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%
 % selectedexperiment: folder that contains the experiment (name of the
 % benchmark)

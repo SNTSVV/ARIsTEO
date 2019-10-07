@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = roundn(x, n)
 %ROUNDN  Round to multiple of 10^n
 %

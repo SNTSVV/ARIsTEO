@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [g,geq,dg,dgeq] = fmincon_congp(x,prob)
 
 z = prob.A*x;

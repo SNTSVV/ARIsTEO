@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function nHe = mpt_minAffineRep(He)
 % Compute a minimum representation for the affine set
 

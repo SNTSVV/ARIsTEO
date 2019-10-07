@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Psets, Vsets, PreachN, VreachN] = mpt_reachSets(structure, X0, U0, N, Options)
 %MPT_REACHSETS Computes sets of reachable states for a given system / controller
 %

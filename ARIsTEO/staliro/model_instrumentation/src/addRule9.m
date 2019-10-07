@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A, b, info] = addRule9( infoIn )
 %addRule9 : Makes a decision on execution order of independent blocks i and
 %j for the case they are mapped on to same core.

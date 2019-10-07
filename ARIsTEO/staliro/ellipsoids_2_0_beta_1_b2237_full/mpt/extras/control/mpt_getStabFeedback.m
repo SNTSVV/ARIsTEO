@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F,P,feasible] = mpt_getStabFeedback(A,B,Q1,R,Options)
 %MPT_GETSTABFEEDBACK Computes a stabilizing feedback law for a PWA system
 %

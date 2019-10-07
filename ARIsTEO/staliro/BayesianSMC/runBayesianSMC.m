@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 clear;
 phi = '!<>_[0,100] []_[0,1]a';
 preds.str='a';

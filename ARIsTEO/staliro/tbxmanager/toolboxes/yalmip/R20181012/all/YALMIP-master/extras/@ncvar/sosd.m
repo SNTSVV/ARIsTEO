@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [h,parvar,Q,v] = sosd(X)
 %SOSD Returns sum-of-squares decomposition
 %

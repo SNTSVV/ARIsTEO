@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function slexOpen(model)
 % SLEX add help/toolbox/simulink/examples to the path, then open MODEL
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef ADispStructTC < mlunitext.test_case
     %
     %$Author: Alexander Karev <Alexander.Karev.30@gmail.com> $

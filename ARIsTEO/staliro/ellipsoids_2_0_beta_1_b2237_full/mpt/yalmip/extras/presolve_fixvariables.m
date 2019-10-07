@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [fix_up,fix_down] = presolve_fixvariables(A,b,c,lb,ub,monotinicity)
 
 % These are optimally (or w.l.o.g) set to upper bound

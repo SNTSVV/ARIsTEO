@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [cost,XC,X0,Xinfeas] = mpt_performance(ctrl,gridpoints,Options)
 %MPT_PERFORMANCE Computes performance (i.e. sum of closed-loop costs) associated to a given controller
 %

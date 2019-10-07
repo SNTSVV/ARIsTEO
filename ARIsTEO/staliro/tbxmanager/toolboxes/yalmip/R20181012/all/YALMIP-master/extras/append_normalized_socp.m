@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F_struc,K,c,Q,UB,LB,x0,Qi,Li,ri] = append_normalized_socp(F_struc,K,c,Q,UB,LB,x0)
 
 if K.q(1)>0

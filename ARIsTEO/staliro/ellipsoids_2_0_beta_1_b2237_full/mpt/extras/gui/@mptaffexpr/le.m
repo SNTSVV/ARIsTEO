@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function expr = le(expr1, expr2)
 %LE Less-or-equal operator for MPTAFFEXPR objects
 

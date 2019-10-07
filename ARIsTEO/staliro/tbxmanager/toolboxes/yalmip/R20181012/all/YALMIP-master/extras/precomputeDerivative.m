@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function precompute = precomputeDerivative(model,requested)
 
 Z = double(model.monomtable | model.monomtable);

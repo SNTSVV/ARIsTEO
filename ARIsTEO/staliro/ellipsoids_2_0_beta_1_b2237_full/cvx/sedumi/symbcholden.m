@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                            Lden = symbcholden(L,dense,DAt)
 % SYMBCHOLDEN  Creates Lden.{LAD, perm,dz, sign, first}
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Exercise 4.31: Design of a cantilever beam (GP)
 % Boyd & Vandenberghe "Convex Optimization"
 % Almir Mutapcic - 01/30/06

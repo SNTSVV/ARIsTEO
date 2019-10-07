@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Fhull,t] = hull(varargin)
 % HULL  Construct a model of the convex hull
 %

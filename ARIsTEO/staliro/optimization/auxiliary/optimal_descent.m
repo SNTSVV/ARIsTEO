@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function du = optimal_descent(linsys, T, samp_T, pf)
 % This function calculates the optimal control based descent direction
 % for the cost function 0.5*(x(t*)-z*)'(x(t*)-z*), given system's local

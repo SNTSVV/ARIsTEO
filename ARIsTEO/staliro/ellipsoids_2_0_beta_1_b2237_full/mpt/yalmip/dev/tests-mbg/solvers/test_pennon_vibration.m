@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  test_pennon_vibration%(file, upper, rank, lambda_bar, resx, resy)
 
 draw = 1;

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % tp_taliro_casting class: Instantiates tp_taliro_casting objects
 % for hybrid distance robustness and best iteration and best predicate
 % computations.

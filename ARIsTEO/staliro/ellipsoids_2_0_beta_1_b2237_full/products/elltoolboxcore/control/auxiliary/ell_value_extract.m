@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function res = ell_value_extract(X, t, dims)
 %
 % ELL_VALUE_EXTRACT - extracts matrix value from ppform or 

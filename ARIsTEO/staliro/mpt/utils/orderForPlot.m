@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function I = orderForPlot(v, n)
 % Compute an ordering of the points v, which lie on a hyperplane with
 % normal n s.t. they form a closed surface as a patch object.

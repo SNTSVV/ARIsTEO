@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Floor planning
 % Section 8.8.1/2, Example 8.7, Boyd & Vandenberghe "Convex Optimization"
 % Original by Lieven Vandenberghe

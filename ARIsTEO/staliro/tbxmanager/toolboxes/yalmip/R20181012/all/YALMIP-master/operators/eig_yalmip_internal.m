@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = eig_yalmip_internal(varargin)
 
 switch class(varargin{1})

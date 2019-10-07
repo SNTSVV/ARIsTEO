@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Quadratic programming solver using a null-space active-set method.
 % 
 % [x, obj, lambda, info] = qpng (H, q, A, b, ctype, lb, ub, x0)

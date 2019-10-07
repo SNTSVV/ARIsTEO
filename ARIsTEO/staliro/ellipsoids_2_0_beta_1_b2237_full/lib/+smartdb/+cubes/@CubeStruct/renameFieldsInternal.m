@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function renameFieldsInternal(self,fromFieldNameList,toFieldNameList,...
     toFieldDescrList)
 % RENAMEFIELDSINTERNAL renames names of fields for given object

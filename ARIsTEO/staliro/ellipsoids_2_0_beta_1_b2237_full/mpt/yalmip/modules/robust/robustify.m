@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F,h,failure] = robustify(F,h,ops,w)
 %ROBUSTIFY  Derives robust counterpart.
 %

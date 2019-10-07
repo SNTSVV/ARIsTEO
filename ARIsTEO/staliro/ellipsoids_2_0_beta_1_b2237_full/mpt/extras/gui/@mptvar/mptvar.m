@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function obj = mptvar(vartype, varlength, varname, varindex, fromvar)
 %MPTVAR Constructor of MPTVAR objects
 

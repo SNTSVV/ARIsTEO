@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Quadratic discrimination (separating ellipsoid)
 % Section 8.6.2, Boyd & Vandenberghe "Convex Optimization"
 % Original by Lieven Vandenberghe

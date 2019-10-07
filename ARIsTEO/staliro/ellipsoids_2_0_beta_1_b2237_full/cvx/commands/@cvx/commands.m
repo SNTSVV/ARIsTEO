@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % CVX: Top-level commands to control CVX.
 %   cvx_begin         - Starts a new CVX specification.
 %   cvx_begin_set     - Starts a new cvx CVX specification.

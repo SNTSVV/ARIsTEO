@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % define the set of directions:
 % columns of matrix dirsMat are vectors in R^2
 dirsMat = [1 0; 1 1; 0 1; -1 1; 1 3]';

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [d dt pred] = bfs_in_mbgl(A,u)
 % BFS_IN_MBGL Reimplement the BFS function with MatlabBGL visitors.
 %

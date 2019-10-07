@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [V, cells] = mpt_voronoi(S, varargin)
 % Computes the Voronoi diagram of a set of points
 %

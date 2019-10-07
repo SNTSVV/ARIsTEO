@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ret = camlight(hAxes,varargin)
 %CAMLIGHT works in the same way as built-in camlight function with one
 %exception - it accepts an obligatory hAxes argument that defines a parent

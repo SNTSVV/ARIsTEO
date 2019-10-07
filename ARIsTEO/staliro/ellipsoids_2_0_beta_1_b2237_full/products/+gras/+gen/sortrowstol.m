@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [resMat,indSortVec,indRevSortVec]=sortrowstol(inpMat,tol)
 % SORTROWSTOL sorts rows of input numeric matrix in ascending order with a
 % specified precision i.e. sorting [1 2;1+1e-14 1] with tol>=1-14 would put

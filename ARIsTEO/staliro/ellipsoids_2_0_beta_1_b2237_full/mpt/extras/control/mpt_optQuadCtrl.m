@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrl = mpt_optQuadCtrl(sysStruct, probStruct, Options)
 % MPT_OPTQUADCTRL CFTOC of PWA systems with quadratic cost
 %

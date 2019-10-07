@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [index, details] = locatePoint(U,x)
 % Implementation of a graph search algorithm for a point location problem.
 %

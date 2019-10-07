@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef mock_test_not_instantiated < mlunit_test.mock_test
     % MOCK_TEST_NOT_INSTANTIATED is a mock test_case which is not 
     %   instantiated during the testing.

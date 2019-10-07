@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ A, b ] = addRule2_mr( info )
 %addRule2_mr : Start time of each block must be larger than its firing time
 

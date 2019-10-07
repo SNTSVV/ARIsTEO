@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = rcone(z,x,y)
 %RCONE Defines a rotated second order cone constraint ||z||^2<2xy, x+y>0
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resCMat=toCellIsNull(self,varargin)
 % TOCELLISNULL - transforms is-null indicators of all fields for all tuples 
 %                into two dimensional cell array

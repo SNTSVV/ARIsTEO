@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function F = set(F,tag)
 %set               Defines a constraint (the feasible set)
 %   

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function X=sos2(X)
 %SOS Declare special ordered set of type 2
 %

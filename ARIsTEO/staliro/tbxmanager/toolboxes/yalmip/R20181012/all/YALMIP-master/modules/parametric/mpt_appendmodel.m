@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = savemptmodel(model,Pfinal,Pn,Fi,Gi,details);
 
 if length(Fi)>0

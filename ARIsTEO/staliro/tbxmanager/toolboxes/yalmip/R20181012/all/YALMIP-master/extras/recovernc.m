@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = recover(lmi_variables)
 %RECOVER Create NCVAR object using variable indicies
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [model,changed] = convert_polynomial_to_sdpfun(model)
 
 % Assume we don't do anything

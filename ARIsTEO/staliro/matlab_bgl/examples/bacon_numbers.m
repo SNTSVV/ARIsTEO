@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function bn = bacon_numbers(A,u)
 % BACON_NUMBERS Compute the Bacon numbers for a graph.
 %

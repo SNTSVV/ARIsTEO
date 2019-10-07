@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Section 6.1.2: Residual minimization with deadzone penalty
 % Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf - 08/17/05

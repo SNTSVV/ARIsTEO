@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [x,D_struc,problem,r,res,solvertime,prob] = call_mosek_primal(model);
 
 prob.c = model.c;

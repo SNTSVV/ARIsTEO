@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Q,E] = esp1D(P,ax)
 %
 % Project P to 1D

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef ConfRepoManagerAnyStorage<handle
     % CONFREPOMANAGER provides a functionality for storing, reading,
     % copying and very simplistic version tracking of application

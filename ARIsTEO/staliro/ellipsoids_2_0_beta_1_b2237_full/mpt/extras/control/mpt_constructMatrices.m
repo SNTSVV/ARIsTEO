@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [G,W,E,H,F,Y,Cf,Cx,Cc,symmetric,bndA,bndb,Pinvset]=mpt_constructMatrices(sysStruct,probStruct,Options,setHorizon)
 %MPT_CONSTRUCTMATRICES Constructs matrices for the finite time constrained optimal control problem
 %

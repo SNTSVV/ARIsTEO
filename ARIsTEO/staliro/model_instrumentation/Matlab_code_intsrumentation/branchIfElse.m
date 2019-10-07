@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % 'branchIfElse' function finds the possible nested If-Then-Else blocks.
 % This function is recursively branching inside the nested If-Then-Else 
 % block until it cannot find any nested if/else branch. 

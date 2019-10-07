@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function breadth_first_search(A,u,bfs_visitor,varargin)
 % BREADTH_FIRST_SEARCH Fully wrap the Boost breadth_first_search call
 % including the bfs_visitor.

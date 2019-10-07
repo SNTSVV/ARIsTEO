@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = propagate_bounds_from_complementary(p)
 LU = [p.lb p.ub];
 complementary = find(p.lb==0 & p.ub==0 & p.variabletype'==1);

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Eadj,aadj,badj] = adj(Er,ar,br,Ef,af,bf,C,D,b,testdegen)
 
 global zerotol

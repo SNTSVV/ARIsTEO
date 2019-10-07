@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function options = mpt_solvers_options
 %
 % this function returns initial settings for solvers in this directory

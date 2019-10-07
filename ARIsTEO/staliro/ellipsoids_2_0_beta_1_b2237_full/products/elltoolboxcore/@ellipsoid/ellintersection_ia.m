@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outEll = ellintersection_ia(inpEllArr)
 %
 % ELLINTERSECTION_IA - computes maximum volume ellipsoid that is contained  

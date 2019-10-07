@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Multi-Parametric Toolbox Polytope library
 % Version 2.6.3 (R2008a) 14-Jan-2008
 %

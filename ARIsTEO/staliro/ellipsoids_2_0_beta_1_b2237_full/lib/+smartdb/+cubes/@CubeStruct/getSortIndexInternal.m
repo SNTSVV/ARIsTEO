@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sortInd=getSortIndexInternal(self,sortFieldNameList,sortDim,varargin)
 % GETSORTINDEXINTERNAL gets sort index for all cells along the specified 
 % dimensions for a given CubeStruct with respect to some of its fields

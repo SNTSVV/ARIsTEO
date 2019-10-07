@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F,vars] = sort_internal(t,X,data);%ii,D,V);
 
 % Hack to figure out all the sorted variables, not just this index.

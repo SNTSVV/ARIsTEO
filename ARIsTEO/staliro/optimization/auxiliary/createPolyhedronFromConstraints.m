@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ P ] = createPolyhedronFromConstraints( lb, ub, A, b )
 %CREATEPOLYHEDRONFROMCONSTRAINTS Creates a polyhedron from the inputs
 %constraints. 

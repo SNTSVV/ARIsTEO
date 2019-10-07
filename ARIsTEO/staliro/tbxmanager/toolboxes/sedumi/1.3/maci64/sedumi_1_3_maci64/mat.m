@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Y = MAT(x,n)   or   Y = MAT(x)     (the 2nd argument is optional)
 %   Given a vector of length n^2, this produces the n x n matrix
 %   Y such that x = vec(Y).  In other words, x contains the columns of the

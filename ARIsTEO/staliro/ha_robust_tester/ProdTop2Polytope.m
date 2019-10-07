@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % This is a supporting function for hsbenchmark1.
 % input must be m x 2
 % G. Fainekos

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function catWith(self,varargin)
 % CATWITH concatenates two CubeStruct objects by combining their fields
 % Usage: self.catWith(inpObj)

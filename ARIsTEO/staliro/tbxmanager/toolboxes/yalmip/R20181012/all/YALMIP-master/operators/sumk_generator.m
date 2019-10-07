@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Model,Properties] = sumk_generator(X,k,t)
 [n,m] = size(X);
 Z = sdpvar(n,m);

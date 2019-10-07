@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function X = dual2cell(dual_vec,K)
 %DUAL2CELL Internal function for organizing dual data 
 

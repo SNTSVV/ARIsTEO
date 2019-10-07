@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Pnew = affineMap(H,T,method)
 % Compute the affine map of the polyhedron H with the matrix T of the size n x d.
 %

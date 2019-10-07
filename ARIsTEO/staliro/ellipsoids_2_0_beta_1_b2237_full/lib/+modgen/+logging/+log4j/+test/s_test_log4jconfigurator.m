@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Test the ability to change Log4j configuration when
 % Log4jConfigurator.configure method is called in default mode or with
 % confMode=allowConfChange.

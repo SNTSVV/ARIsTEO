@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*********************************************************************
 %% gdcomp: Compute gd = 1/td in Equation (15) of the paper:
 %%

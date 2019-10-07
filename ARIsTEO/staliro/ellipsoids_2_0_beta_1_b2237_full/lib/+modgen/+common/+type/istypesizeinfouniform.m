@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isOk,STypeInfo]=istypesizeinfouniform(STypeSizeInfo)
 % ISTYPESIZEINFOUNIFORM check the input STypeSizeInfo structure for
 %   uniformity

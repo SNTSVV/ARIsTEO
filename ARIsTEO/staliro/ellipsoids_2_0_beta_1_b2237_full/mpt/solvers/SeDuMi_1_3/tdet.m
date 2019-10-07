@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                           tdetx = tdet(x,K)
 % TDET  Computes twice determinant for Lorentz block
 %

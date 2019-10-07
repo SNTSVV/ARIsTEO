@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_update
 %MPT_UPDATE Checks for updates of the Multi-Parametric Toolbox
 %

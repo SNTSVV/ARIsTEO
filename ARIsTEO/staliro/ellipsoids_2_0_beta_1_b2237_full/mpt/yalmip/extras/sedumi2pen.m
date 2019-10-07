@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function pen = sedumi2pen(F_struc,K,c,x0)
 %SEDUMI2MPEN Internal function to convert SeDuMi structure to format needed in PENNON
 

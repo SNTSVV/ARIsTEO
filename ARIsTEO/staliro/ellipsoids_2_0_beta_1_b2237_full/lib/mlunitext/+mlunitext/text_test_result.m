@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef text_test_result < mlunitext.test_result
     % TEXT_TEST_RESULT class is inherited from test_result and prints
     %  formatted test results to a stream. The constructor creates an

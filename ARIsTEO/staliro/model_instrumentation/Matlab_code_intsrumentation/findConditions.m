@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % 'findConditions' is the main function that parses the MATLAB function
 % text 'textLines' to find all the If-Then-Else blocks and extracts the 
 % information.

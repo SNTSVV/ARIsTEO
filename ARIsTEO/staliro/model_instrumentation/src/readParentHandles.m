@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ parentHandles ] = readParentHandles( blockList )
 %readParentHandles Array of handle of parent of each block
 

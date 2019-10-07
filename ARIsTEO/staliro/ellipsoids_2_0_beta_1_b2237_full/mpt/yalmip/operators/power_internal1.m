@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = power_internal(varargin)
 %power_internal1
 % Used for cases such as 2^x, and is treated as evaluation-based operators

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function display(obj)
 %DISPLAY Display information about a HASHTABLE object
 %

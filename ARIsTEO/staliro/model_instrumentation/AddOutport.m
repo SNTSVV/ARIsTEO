@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function[newoutportnumber]= AddOutport(mainparenthandle,childblockhandle,blkname,srcportnumber,pos,outportstring)
   % Add outports until we reach the upper most layer of the model 
     %global newoutportnumber;

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPositive=isfirstdimsizeasspecified(valueA,sizeVec)
 % ISFIRSTDIMSIZEASSPECIFIED check if an input value have a specified size
 % along the first dimensions

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Separating ellipsoids in 2D
 % Joelle Skaf - 11/06/05
 % (a figure is generated)

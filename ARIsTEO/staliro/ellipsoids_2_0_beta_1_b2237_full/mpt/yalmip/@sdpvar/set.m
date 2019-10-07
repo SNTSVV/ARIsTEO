@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function F = set(varargin)
 %SET OBSOLETE (but still used internally)
 %   

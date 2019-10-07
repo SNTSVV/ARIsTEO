@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = pwaproj(h)
 
 % Rewrites a0+c'*x+sum(f_i(x)) to a0+c'*x+max(aix+bi)

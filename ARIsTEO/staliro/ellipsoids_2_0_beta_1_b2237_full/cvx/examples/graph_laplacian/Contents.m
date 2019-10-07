@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Graph Laplacian eigenvalue optimization
 % <a href="http://stanford.edu/~boyd/cvx_opt_graph_lapl_eigs.html">Convex Optimization of Graph Laplacian Eigenvalues</a>
 %

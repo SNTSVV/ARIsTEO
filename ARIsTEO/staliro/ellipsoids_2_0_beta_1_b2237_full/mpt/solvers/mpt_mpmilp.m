@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sol = mpt_mpmilp(Matrices, Options)
 %MPT_MPMILP Multi-Parametric Mixed-Integer LP solver
 %

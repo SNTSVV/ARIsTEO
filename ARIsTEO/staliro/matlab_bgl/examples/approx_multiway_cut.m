@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function C = approx_multiway_cut(A,vs)
 % APPROX_MULTIWAY_CUT Solve a 2-approximation to the multi-way cut problem
 % 

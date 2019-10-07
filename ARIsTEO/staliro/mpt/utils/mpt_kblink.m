@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_kblink(kb_id, varargin)
 % Shows a link to a corresponding knowledge-base article
 

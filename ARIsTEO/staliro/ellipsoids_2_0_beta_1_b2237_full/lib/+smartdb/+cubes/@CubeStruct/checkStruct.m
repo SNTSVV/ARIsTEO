@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function checkStruct(self,SData,isConsistencyChecked,selfFieldNameList)
 % CHECKSTRUCT perform check that contains values of all cells for all
 % fields

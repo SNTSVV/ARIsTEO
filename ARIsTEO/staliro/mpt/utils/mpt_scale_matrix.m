@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A,D1,D2] = mpt_scale_matrix(A)
 % scales matrix A by finding D1 and D2 in An = D1*A*D2  such that infinity
 % norm of each row and column belongs approaches 1

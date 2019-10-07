@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 x1 = sdpvar(1,1);
 x2 = sdpvar(1,1);
 x3 = sdpvar(1,1);

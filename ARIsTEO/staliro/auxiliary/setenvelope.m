@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Given a set S , describes a set E which contains S, and whose boundary is
 % at a prescribed length dist from the boundary of S. Thus
 % E  ={ x | distance(x,S) = dist}

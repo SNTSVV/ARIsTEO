@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef MatrixMakeSymmetricFunc<gras.mat.AMatrixUnaryOpFunc
     methods
         function self=MatrixMakeSymmetricFunc(lMatFunc)

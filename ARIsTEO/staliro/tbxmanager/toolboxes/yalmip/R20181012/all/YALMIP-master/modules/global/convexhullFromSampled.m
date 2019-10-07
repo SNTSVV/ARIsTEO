@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Ax,Ay,b] = convexhullFromSampled(z,fz,xL,xU);
 
 k1 = max((fz(2:end)-fz(1))./(z(2:end)-xL))+1e-12;

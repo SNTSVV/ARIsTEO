@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cost = computecost(f,c,Q,x,p);
 
 cost = f+c'*x+x'*Q*x;

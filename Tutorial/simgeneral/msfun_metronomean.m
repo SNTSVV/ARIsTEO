@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,x0,str,ts] = msfun_metronomean(t,x,u,flag, sampleTime)
 %METRONOMANIMATION S-function for making metronome animation.
 %

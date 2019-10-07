@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function symb_pvec = sdisplay(pvec,symbolicname)
 %SDISPLAY Symbolic display of SDPVAR expression
 %

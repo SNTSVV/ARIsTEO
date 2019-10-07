@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [E,P] = envelope(C,x)
 %ENVELOPE Create linear approximation of envelope of nonlinear constraint
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function disp( x, prefix, iname )
 if nargin < 2, prefix = ''; end
 if nargin < 3, iname = ''; end

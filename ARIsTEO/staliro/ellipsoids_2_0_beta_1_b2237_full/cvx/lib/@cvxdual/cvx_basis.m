@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ans = cvx_basis( x, varargin )
 ans = cvx_basis( cvxaff( x ), varargin{:} );
 

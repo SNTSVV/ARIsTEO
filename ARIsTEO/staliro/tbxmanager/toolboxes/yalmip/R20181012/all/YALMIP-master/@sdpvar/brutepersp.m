@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function X=brutepersp(X,t,y)
 
 X.basis = [zeros(size(X.basis,1),1) X.basis];

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [hhPoly,adj,vvPoly,vol,P]=triangulate(P,Options)
 %TRIANGULATE Calculates triangulation of arbitrary polytopes
 %

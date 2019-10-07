@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function P = subsasgn(P, X, Q)
 %SUBSASGN Indexed assignments for polytope objects
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function test_optimizer
 
 % Tests a regression bug that made expandmodel flawed. Basically, when

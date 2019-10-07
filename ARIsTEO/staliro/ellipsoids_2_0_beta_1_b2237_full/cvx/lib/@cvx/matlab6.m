@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %CVX: Matlab 6 compatability functions.
 %   This directory contains definitions for 'true' and 'false'. These
 %   functions are used extensively in CVX, and are built in for MATLAB

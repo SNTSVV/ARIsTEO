@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figure 7.1: Logistic regression
 % Section 7.1.1
 % Boyd & Vandenberghe, "Convex Optimization"

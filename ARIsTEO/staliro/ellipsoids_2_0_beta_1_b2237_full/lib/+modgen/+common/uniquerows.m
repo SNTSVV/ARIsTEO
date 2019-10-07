@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [uniqueMat,varargout]=uniquerows(inpMat,isInteger,forceMode)
 % UNIQUEROWS finds unique rows in input matrix, i.e. the more effective
 % version of UNIQUE(...,'rows')

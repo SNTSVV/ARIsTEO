@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Matrices = mpt_yalmip2mpt(constraints, objective, parameters, requested)
 % Returns matrices of the parametric problem
 %

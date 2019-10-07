@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [M,m,infbound] = derivebounds(f)
 % Code to compute  estimates of max and min
 % of the linear vector f

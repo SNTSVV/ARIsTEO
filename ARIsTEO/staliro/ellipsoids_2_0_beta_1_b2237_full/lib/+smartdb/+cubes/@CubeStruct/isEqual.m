@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isEq,reportStr]=isEqual(self,otherObj,varargin)
 % ISEQUAL compares the specified CubeStruct object with other CubeStruct
 % object and returns true if they are equal, otherwise it

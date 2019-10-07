@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%
 %
 % This demo presents functions for reachability analysis and verification of linear dynamical systems.

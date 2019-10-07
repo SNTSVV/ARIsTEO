@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function exportToC(obj, fname, dirname)
 %MPT_EXPORTC Exports an explicit controller to C code
 %

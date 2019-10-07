@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [x,y,info] = sedumi(A,b,c,K,pars)
 %      [x,y,info] = sedumi(A,b,c,K,pars)
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [lb,ub,cand_rows] = find_variable_bounds(A,b,Aeq,beq)
 
 n = size(A,2);

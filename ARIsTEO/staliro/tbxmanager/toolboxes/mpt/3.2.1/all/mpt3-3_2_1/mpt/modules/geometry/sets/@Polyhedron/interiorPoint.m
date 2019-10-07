@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sol = interiorPoint(P, facetI)
 % INTERIORPOINT Compute an interior point of the polyhedron. Strictly
 % interior if possible.

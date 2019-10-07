@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function solver = findapplicablesolvers(options,ProblemClass,solvers,socp_are_really_qc);
 %findapplicablesolvers Internal function to select solver based on problem category
 

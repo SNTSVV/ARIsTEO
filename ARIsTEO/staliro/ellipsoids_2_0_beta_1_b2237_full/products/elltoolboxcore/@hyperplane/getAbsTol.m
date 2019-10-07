@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [absTolArr, absTolVal] = getAbsTol(hplaneArr, fAbsTolFun)
 % GETABSTOL - gives the array of absTol for all elements in hplaneArr
 %

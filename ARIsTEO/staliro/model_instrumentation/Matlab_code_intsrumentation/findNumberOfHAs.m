@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % findNumberOfHAs finds the independent If-Then-Else blocks which  
 % correspond to Hybrid Automatas. 
 % 

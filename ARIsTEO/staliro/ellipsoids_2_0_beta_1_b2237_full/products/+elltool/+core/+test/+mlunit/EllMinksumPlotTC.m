@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef EllMinksumPlotTC < elltool.core.test.mlunit.EllMinkATC&...
         elltool.core.test.mlunit.EllMinkBTC
  %$Author: Ilya Lyubich <lubi4ig@gmail.com> $

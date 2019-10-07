@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resCell = num2cell(inpArray,varargin)
 % MODGEN.COMMON.NUM2CELL is an extension of Matlab built-in function
 % num2cell designed to work correctly with empty arrays (such as

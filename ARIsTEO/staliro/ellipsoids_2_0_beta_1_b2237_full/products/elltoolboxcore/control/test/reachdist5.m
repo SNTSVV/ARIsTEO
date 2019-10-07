@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
   T  = 5;
   w  = 2;
   A  = {'0' '1' '0' '0' '0'

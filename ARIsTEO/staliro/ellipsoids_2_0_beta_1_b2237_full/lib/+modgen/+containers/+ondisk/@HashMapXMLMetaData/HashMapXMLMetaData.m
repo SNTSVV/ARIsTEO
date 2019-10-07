@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef HashMapXMLMetaData<modgen.containers.ondisk.AHashMap
     %DISKBASEDHASHMAP represents a hash map for the arbitrary objects on disk
     % with a high level of persistency when the object state can be

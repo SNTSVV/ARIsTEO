@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                      [d,vfrm] = updtransfo(x,z,w, dIN,K)
 % UPDTRANSFO  Updated the Nesterov-Todd transformation using a
 %  numerically stable method.

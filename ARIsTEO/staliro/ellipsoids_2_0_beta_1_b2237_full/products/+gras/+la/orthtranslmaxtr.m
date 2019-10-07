@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function oMat=orthtranslmaxtr(srcVec,dstVec,maxMat)
 % ORTHTRANSLMAXVOL generates an orthogonal matrix oMat that translates 
 % a specified vector srcVec to another vector that is collinear to 

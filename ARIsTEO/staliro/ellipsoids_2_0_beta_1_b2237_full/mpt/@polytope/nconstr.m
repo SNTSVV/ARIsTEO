@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function nc = nconstr(P)
 %NCONSTR Returns number of constraints that form an H-representation of a polytope
 %

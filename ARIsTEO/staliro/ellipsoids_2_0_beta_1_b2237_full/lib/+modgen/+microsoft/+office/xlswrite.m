@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [success,theMessage, file]=xlswrite(file,data,sheet,range)
 % XLSWRITE is an improved version of built-in xlswrite function. It uses a
 % custom csvwrite function instead of dlmwrite to write data in csv format

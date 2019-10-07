@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % [y,k, DAy] = loopPcg(L,Lden,At,dense,d, DAt,K, b,p,ssqrNew,cgpars, restol)
 %
 % LOOPPCG Solve y from AP(d)A' * y = b

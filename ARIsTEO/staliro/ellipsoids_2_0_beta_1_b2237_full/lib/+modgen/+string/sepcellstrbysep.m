@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outCMat = sepcellstrbysep(inpCVec,sepStr)
 % SEPCELLSTRBYSEP splits elements of input cell column vector of strings
 % using a specified separator and returns result as a cell matrix of

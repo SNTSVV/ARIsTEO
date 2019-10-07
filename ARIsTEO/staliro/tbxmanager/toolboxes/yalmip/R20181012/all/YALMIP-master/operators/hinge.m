@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = hinge(varargin)
 %HINGE Models convex operator max(0,x^p) for integer p>=1
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figure 6.19: Polynomial fitting
 % Section 6.5.3
 % Boyd & Vandenberghe "Convex Optimization"

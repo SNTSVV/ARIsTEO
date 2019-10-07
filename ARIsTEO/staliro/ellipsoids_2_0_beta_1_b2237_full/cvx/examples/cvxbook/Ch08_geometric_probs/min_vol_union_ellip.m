@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Minimum volume ellipsoid covering union of ellipsoids
 % Section 8.4.1, Boyd & Vandenberghe "Convex Optimization"
 % Original version by Lieven Vandenberghe

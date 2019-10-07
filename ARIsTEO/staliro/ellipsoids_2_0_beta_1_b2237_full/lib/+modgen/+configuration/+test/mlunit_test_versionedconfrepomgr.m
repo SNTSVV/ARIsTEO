@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef mlunit_test_versionedconfrepomgr < modgen.configuration.test.mlunit_test_adaptiveconfrepomgr
     
     properties (Access=private)

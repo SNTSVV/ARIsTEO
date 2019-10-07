@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [X,data] = kamada_kawai_spring_layout(A,varargin)
 % KAMADA_KAWAI_SPRING_LAYOUT Use springs to compute a graph layout
 %

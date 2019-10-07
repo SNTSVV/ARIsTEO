@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info ] = breakDelayBlocks(infoIn)
 %breakDelayBlocks Break connection from delay blocks to their successors 
 % (among main blocks).

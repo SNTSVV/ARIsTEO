@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % YALMIP
 % Version 3 (R2009b) 11-June-2010
 %

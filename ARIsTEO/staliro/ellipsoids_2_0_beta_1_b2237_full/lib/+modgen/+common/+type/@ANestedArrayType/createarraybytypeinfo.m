@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function valueArray=createarraybytypeinfo(STypeInfo,sizeVec)
 % CREATEARRAYBYTYPEINFO creates an array of STypeInfo structure
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function status = isminrep(P)
 %ISMINREP Checks if a given polytope is in minimal representation
 %

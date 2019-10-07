@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  output = bnb_solvelower(lowersolver,relaxed_p,upper,lower,x_min,aggresiveprune,allSolutions)
 
 if all(relaxed_p.lb==relaxed_p.ub)

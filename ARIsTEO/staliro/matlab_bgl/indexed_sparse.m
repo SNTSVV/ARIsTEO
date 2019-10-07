@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [As,A,eil,Ei] = indexed_sparse(i,j,v,m,n,varargin)
 % INDEXED_SPARSE Create a sparse matrix with indexed edges.
 %

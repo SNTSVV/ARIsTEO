@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [a,C] = biconnected_components(A,varargin)
 % BICONNECTED_COMPONENTS Compute the biconnected components and
 % articulation points for a symmetric graph A.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                     tp = maxstep(dx,x,auxx,K)
 % MAXSTEP  Computes maximal step length to the boundary of the cone K.
 %

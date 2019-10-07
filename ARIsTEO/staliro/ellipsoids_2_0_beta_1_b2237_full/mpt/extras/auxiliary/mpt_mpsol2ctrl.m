@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrl = mpt_mpsol2ctrl(mpsol, arg1, arg2)
 % MPSOL2CTRL Convert a solution of solvemp to MPT's controller object
 %

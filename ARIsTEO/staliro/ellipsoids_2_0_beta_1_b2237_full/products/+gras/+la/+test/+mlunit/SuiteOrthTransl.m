@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef SuiteOrthTransl < mlunitext.test_case
     properties (Access=private)
         srcTlMat=[[0;1;0.3;-2],[3;1;-4;1]];

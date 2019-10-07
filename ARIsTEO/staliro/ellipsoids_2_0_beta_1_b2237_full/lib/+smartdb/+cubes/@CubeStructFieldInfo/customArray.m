@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resArray=customArray(cubeStructRef,nameList,descriptionList,typeSpecList)
 % CUSTOMARRAY creates an array of CubeStructFieldInfo objects
 % based on the specified properties

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function trArr = trace(ellArr)
 %
 % TRACE - returns the trace of the ellipsoid.

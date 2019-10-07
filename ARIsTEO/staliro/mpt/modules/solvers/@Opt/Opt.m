@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef Opt < handle & matlab.mixin.Copyable
     % Encapsulates data and solutions for LP/QP/pLP/pQP/LCP/pLCP problems
     %

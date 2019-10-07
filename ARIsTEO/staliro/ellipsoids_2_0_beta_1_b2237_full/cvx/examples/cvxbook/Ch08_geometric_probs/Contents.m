@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Chapter 8: Geometric problems
 %
 %  separate_pt_poly.m           - Section 8.1.1: Separating a point from a polyhedron

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ params ] = reqMining(inpArray,cp_array,staliro_opt, monotonicity )
 %REQMINNING function that uses a loop to determine generate new
 %trajectories, conduct binomial search to synthesize parameters, and then

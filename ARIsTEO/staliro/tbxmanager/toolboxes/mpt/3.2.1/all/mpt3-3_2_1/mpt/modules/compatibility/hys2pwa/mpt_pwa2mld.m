@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function S = mpt_pwa2mld(sysStruct)
 %MPT_PWA2MLD Converts a PWA system into the MLD representation
 %

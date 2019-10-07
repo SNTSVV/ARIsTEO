@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function test_lmirank
 
 A = [0.2 0 1 0;0 0.2 0 1;-1 1 0.2 0;1 -1 0 0.2];

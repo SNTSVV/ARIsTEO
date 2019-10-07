@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ind = varindex(var)
 %VARINDEX Returns position of a given MPTVAR variable in a vector
 

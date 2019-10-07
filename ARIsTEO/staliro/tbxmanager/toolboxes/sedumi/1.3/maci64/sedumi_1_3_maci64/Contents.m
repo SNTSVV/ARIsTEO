@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % SeDuMi 1.1 (May 2005)
 %   Toolbox for optimization over self-dual homogeneous cones.
 %

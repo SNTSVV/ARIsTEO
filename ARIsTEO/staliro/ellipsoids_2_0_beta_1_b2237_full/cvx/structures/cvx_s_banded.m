@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_s_banded( m, n, lower, upper )
 %CVX_S_BANDED (U,L)-banded matrices.
 

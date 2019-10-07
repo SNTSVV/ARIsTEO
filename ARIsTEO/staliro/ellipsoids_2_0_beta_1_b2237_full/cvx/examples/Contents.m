@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % CVX example library
 %
 %  antenna_array_design/       - Antenna array design

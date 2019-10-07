@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %initial conditions:
 x0EllObj = [170; 180; 175; 170] + 10*ell_unitball(4);
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function HA = navbench_hautomaton(opt,init,A,unsafe,Av,Bv,reg)
 % Function HA = navbench_hautomaton(opt,init,A,unsafe,Av,Bv,reg)
 %

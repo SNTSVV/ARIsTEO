@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % c = rotlorentz(c,K)
 % Rotates vectors from Qcone to Rcone or from Rcone into Qcone.
 %

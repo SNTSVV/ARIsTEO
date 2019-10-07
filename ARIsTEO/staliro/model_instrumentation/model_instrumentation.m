@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [model_instr_info] = model_instrumentation(modelName,modelInitFile,projection_mode,exclusion_list)%,filename_string)%instrument_mode)
 % Instruments the simulink model with output ports and returns an output struct with model information.
 % Inputs:

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [VariableType,F_x,F_w,F_xw,h] = robust_classify_variables_newest(F,h,ops,w);
 
 Dependency = iterateDependance( yalmip('monomtable') | yalmip('getdependence') |  yalmip('getdependenceUser'));

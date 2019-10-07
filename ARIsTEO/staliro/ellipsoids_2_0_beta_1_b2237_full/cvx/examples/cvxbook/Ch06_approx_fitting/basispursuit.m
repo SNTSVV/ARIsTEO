@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figures 6.21-6.23: Basis pursuit using Gabor functions
 % Section 6.5.4
 % Boyd & Vandenberghe "Convex Optimization"

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function demoParams = scriptCreationDialog()
     
     fStem = input('Enter the name of the file (without the .m suffix):','s');

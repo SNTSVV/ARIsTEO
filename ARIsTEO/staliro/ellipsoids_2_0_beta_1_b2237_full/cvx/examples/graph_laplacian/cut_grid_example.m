@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % FDLA and FMMC solutions for a 64-node, 95-edge cut-grid graph
 % S. Boyd, et. al., "Convex Optimization of Graph Laplacian Eigenvalues"
 % ICM'06 talk examples (www.stanford.edu/~boyd/cvx_opt_graph_lapl_eigs.html)

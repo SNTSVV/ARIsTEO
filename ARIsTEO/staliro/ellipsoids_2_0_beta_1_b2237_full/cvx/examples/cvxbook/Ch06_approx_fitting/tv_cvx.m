@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figures 6.11-6.14: Total variation reconstruction
 % Section 6.3.3
 % Boyd & Vandenberghe "Convex Optimization"

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef HA_Input_Data
     % Create an object that contains the initial conditions and input
     % signals for the ha_automaton class.

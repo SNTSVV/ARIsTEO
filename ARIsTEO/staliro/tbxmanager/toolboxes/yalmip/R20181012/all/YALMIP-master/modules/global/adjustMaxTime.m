@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  p = adjustMaxTime(p,maxtime,elapsed)
 
 % Allow the solver at-least 1 second

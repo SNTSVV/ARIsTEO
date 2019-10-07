@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sol = shoot(obj, r, x0)
 % SHOOT Maximize along the ray alpha*r + x0 within this set.
 %

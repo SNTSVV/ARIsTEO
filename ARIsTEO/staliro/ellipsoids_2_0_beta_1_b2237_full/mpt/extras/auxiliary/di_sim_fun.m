@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [xnext, yk] = di_sim_fun(xk, uk)
 % DI_SIM_FUN Example of a function to model arbitrary dynamics
 %

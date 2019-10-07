@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function errMsg=obj2hypstr(meObj,varargin)
 %OBJ2HYPSTR does the same as OBJ2PLAINSTR but WITH the hyper-references
 %

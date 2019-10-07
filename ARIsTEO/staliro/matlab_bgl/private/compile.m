@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function compile(varargin)
 %% History
 %  2008-04-01: Added check for pre Matlab 2006b for non-large dim 

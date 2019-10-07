@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function status = isfulldim(P,Options)
 %ISFULLDIM Checks if a polytope is full dimensional
 %

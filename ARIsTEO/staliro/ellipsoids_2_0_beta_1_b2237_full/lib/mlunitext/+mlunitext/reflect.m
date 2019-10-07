@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef reflect<handle
     % REFLECT class.
     % The class reflect helps to find out which methods to a class belong.

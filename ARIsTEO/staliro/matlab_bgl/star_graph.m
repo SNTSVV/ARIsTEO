@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A xy] = star_graph(n)
 % STAR_GRAPH Generate the star graph of order n
 %

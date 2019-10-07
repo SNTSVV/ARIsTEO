@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function massive
 ops{1} = sdpsettings('sos.cong',0,'sos.model',1,'verbose',0);
 ops{2} = sdpsettings('sos.cong',1,'sos.model',2,'verbose',0);

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % FEASREAL Generates a random sparse optimization problem with
 %   linear, quadratic and semi-definite constraints. Output
 %   can be used by SEDUMI. All data will be real-valued.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function zx = cvx_expand_dim( z, dim, nx )
 
 %CVX_EXPAND_DIM   Expands an N-D array along a specified dimension.

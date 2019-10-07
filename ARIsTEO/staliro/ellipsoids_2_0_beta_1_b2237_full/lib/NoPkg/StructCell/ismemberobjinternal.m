@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isIn,indIn]=ismemberobjinternal(aCell,bCell,funHandle)
 % ISMEMBEROBJINTERNAL ismember for cellarrays of objects of any type
 %

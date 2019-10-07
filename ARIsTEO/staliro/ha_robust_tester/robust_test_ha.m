@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [hh, locHis, dist, distHis, MM, ell, news] = robust_test_ha(h0,HA,tot_time,solv,opt)
 % Function ROBUST_TEST_HA
 %    Compute robustness neighborhood in the set of initial conditions for 

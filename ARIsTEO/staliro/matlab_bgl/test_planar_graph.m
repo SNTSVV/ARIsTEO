@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function is_planar = test_planar_graph(G)
 % TEST_PLANAR_GRAPH Test if a graph is planar
 %

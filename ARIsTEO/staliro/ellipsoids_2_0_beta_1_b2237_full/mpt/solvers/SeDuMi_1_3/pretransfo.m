@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                      [At,b,c,K,prep] = pretransfo(At,b,c,K)
 % PRETRANSFO  Checks data and then transforms into internal SeDuMi format.
 %

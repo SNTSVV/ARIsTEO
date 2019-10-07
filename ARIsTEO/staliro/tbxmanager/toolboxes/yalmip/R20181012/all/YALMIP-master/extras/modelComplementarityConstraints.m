@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F,ProblemClass] = modelComplementarityConstraints(F,solver,ProblemClass)
 
 i = find(is(F,'complementarity'));

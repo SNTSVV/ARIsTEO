@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function X = fruchterman_reingold_force_directed_layout(A,varargin)
 % FRUCHTERMAN_REINGOLD_FORCE_DIRECTED_LAYOUT A force directed graph layout
 % 

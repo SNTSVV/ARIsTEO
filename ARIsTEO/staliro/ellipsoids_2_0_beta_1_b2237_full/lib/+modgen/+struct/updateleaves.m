@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SData=updateleaves(SData,fUpdateFunc)
 % UPDATELEAVES applies the specified function to each structure leave value
 % and returns the updated structure

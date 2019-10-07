@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F,obj,BlockedQ,sol] = create_imagemodel(BlockedA,Blockedb,F_parametric,parobj,options);
 
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                              y = vecsym(x,K)
 % VECSYM  For the PSD submatrices, we let Yk = (Xk+Xk')/2
 %

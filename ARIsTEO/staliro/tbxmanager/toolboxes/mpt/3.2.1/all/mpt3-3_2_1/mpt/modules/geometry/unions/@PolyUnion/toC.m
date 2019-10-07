@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function toC(obj, function_name, file_name, tie_break_fcn)
 % Exports PWA/PWQ function to a C-code that uses a sequential search to
 % evaluate the function

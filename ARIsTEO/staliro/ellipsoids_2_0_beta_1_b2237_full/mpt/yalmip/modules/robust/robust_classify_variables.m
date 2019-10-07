@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [x,w,x_variables,w_variables,aux_variables,F,failure] = robust_classify_variables(F,h,ops,w);
 
 failure = 0;

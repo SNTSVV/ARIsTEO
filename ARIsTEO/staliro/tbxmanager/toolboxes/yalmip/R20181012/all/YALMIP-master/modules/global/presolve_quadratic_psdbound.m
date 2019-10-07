@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = presolve_quadratic_psdbound(p)
 if p.K.f + p.K.l > 0    
     for i = 1:p.K.l + p.K.f

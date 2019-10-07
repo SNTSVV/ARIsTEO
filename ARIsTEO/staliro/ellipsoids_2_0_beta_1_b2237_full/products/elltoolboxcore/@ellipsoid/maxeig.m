@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function maxEigArr = maxeig(inpEllArr)
 %
 % MAXEIG - return the maximal eigenvalue of the ellipsoid.

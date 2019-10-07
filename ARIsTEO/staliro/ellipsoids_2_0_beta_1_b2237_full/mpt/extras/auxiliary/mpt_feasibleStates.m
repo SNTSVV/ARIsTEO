@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function X0 = mpt_feasibleStates(ctrl,gridpoints,Options)
 %MPT_FEASIBLESTATES returns equidistantly spaced data points in feasible set
 %

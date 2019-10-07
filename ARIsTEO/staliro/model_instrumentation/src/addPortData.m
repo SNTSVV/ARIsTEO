@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ index, alreadyExisting, ports ] = addPortData( portsIn, block, type, portNo, edgeCost, dataType, dataSize, width, dimensions, position )
 %addPortData Searches for a port with given 'block', 'type' and 'portNo'
 %using getIndexOfPort.

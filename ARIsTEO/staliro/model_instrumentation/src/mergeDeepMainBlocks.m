@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info ] = mergeDeepMainBlocks( infoIn )
 %mergeDeepMainBlocks For deep blocks (inside delay containing susbystem)
 %find the correct mergeing which will not create a cycle and do the merge.

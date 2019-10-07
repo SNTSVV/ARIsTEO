@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isFaceVec=isface(vMat,fMat,fToCheckMat)
 % ISFACE checks if the specified faces belong to the given triangulation
 %

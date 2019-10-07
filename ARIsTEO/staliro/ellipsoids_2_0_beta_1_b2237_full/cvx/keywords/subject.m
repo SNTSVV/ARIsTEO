@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function subject( varargin )
 
 %SUBJECT Implements the "subject to" keyword.

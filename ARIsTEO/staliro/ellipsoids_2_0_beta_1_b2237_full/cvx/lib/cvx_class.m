@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function v = cvx_class( x, needsign, needreal, needzero )
 if nargin < 2, needsign = false; end
 if nargin < 3, needreal = false; end

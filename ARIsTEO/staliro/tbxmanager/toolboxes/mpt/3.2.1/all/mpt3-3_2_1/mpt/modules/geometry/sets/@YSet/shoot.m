@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function alpha = shoot(obj, x)
 %
 % Compute max alpha s.t. x*alpha in Set

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%************************************************************
 %% Prod3: compute the entries of Q = A*B*C specified in 
 %%        nzlistQ. 

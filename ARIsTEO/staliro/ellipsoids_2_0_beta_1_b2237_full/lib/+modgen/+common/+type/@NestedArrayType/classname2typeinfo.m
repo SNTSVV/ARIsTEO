@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function STypeInfo=classname2typeinfo(classNameList)
 % CLASSNAME2TYPEINFO translates built-in class names into STypeInfo
 % definitions

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function fileName=writeToXLS(self,filePath)
 % WRITETOXLS - writes a content of relation into Excel spreadsheet file
 % Input:

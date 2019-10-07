@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ancestorsList = getAncestors(parentIndices)
 %getAncestors Returns all the parents up to model root in a list.
 

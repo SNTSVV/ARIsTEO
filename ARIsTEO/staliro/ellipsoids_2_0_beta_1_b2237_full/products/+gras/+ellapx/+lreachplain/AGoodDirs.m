@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef AGoodDirs
     properties
         % XstTransDynamics - X(s,t)' is a transition matrix for good

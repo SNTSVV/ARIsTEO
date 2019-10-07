@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function s=dec2decbin(d,n)
 %DEC2BIN Internal function generate binary matrices
 

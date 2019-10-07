@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*****************************************************************************
 %% HSDsqlp: solve an semidefinite-quadratic-linear program 
 %%   by infeasible path-following method on the homogeneous self-dual model.

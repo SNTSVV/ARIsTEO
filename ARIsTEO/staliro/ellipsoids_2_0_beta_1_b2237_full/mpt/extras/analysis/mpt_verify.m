@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [flag, N, Vreach] = mpt_verify(object, X0, Xf, N, U0, Options)
 %MPT_VERIFY Verifies whether states enter a given set in a given number of steps
 %

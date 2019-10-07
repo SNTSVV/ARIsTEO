@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % BWBLKSLV Solves block sparse upper-triangular system.
 %    y = bwblkslv(L,b) yields the same result as
 %              y(L.perm,:) = L.L'\b

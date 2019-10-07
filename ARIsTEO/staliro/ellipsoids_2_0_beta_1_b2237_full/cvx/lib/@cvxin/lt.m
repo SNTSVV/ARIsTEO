@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = lt( x, y )
 
 if isa(x,'cvxin')||~isa(y,'cvxin')||y.active,

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function z = kron( x, y )
 
 %Disciplined convex/geometric programming information for KRON:

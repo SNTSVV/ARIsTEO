@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function rhoDiffVec=supgeomdiff2d(rho1Vec,rho2Vec,lMat)
 % SUPGEOMDIFF2D calculates support function of two 2-dimensional
 % convex sets defined by their support functions

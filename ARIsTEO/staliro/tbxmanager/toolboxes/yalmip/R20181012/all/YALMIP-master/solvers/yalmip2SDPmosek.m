@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function prob = yalmip2SDPmosek(model)
 
 % Extract to sedumi format

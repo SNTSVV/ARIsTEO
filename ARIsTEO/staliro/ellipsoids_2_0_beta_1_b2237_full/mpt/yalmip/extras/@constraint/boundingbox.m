@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = boundingbox(F)
 %BOUNDINGBOX Computes bounding box of a constraint object
 %

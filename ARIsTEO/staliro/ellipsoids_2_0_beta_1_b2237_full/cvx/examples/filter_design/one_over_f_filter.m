@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Design a 1/f spectrum shaping (pink-noise) filter
 % "Filter design" lecture notes (EE364) by S. Boyd
 % "FIR filter design via spectral factorization and convex optimization"

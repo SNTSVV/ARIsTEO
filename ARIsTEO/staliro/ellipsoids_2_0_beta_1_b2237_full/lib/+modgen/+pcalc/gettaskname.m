@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [taskName,SProp]=gettaskname()
 % GETTASKNAME returns task name and some additional properties
 %

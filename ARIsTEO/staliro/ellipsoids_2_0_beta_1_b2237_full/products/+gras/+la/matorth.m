@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function oMat=matorth(srcMat)
 % MATORTH generates an orthogonal matrix that contains in its first k
 % columns orthogonalized vectors specified on input as [n,k] matrix

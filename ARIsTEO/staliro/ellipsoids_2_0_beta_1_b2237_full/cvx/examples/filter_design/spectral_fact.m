@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Spectral factorization using Kolmogorov 1939 approach.
 % (code follows pp. 232-233, Signal Analysis, by A. Papoulis)
 %

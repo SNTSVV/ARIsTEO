@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function NewConstraints = splitAndDiagonalize(constraints,nmin,ratio)
 
 kept = ones(1,length(constraints));

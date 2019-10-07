@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F,vars] = pwadynamics_internal(first_coord,varargin)
 
 % Hack to figure out all the sorted variables, not just this index.

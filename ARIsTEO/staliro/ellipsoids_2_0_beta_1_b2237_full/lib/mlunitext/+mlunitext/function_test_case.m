@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef function_test_case < mlunitext.test_case
     %The class function_test_case is a wrapper for single-function tests.
     %

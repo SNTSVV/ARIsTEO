@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%****************************************************
 %% corrmat: find the nearest correlation matrix
 %%          to a given symmetric matrix. 

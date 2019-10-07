@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function z = lambda_max( Y )
 
 % LAMBDA_MAX    Maximum eigenvalue of a symmetric matrix.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Y,details]=sdeIncXL(X,k,FirstSet,d,pars);
 %
 % [Y,details]=sdeInc(X,k,FirstSet,d,pars);

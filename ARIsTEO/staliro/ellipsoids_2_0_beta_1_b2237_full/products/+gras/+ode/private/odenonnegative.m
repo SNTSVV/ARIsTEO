@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [odeFcn,thresholdNonNegative] = odenonnegative(ode,y0,threshold,idxNonNegative)  
 %ODENONNEGATIVE  Helper function for handling nonnegative solution constraints
 %   Modify the derivative function to prevent the solution from crossing zero.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Pnew = mtimes(P, S)
 % MTIMES Multiply this polyhedron by a matrix, a scalar or a polyhedron.
 %

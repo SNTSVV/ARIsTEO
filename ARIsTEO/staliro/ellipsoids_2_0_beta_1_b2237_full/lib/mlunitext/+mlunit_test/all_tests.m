@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function suite = all_tests
 % ALL_TESTS creates a test_suite with all test for package mlunit_test.
 %

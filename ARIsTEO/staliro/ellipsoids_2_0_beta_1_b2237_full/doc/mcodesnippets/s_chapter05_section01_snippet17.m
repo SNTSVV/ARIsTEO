@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % ellipsoid defined by squeezing the ellipsoid ellMat(2, 2)
 fourthEllObj = ellMat(2, 2).getShape(0.4);  
 % check if the geometric difference firstEllObj - fourthEllObj is nonempty

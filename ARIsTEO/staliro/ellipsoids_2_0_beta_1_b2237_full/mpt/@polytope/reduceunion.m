@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Pret, keep] = reduceunion(P,Options)
 % REDUCEUNION Removes redundant elements from a polytope array
 %

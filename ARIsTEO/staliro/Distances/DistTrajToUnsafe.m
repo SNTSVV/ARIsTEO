@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [nearest_point_on_s, tmin, dmin, bo, ix_dmin] = DistTrajToUnsafe(s, unsafe)
 % INPUTS
 %   s       Trajectory = [ti; state(ti)]-by-nb_of_samples

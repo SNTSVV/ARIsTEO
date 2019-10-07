@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Q,c,f,x,info] = quaddecomp(p,z)
 %QUADDECOMP Internal function to decompose quadratic expression
 

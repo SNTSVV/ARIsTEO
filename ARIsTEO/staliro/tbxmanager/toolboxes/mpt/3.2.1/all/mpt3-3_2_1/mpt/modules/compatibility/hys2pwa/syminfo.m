@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [info, entry_i] = syminfo(S, vname, vtype, vkind, vindex)
 % info = syminfo(S, vname, vtype, vkind, vindex)
 % extract infos from the symbol table

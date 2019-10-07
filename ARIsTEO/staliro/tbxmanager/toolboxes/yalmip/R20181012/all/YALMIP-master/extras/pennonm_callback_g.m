@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function gi = pennonm_callback_g(i,x,model_in)
 
 global latest_G

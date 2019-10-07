@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = polyenv( varargin )
 
 %POLYENV Evaluate the convex or concave envelope of a polynomial.

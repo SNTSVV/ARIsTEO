@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % YALMIP
 % Version 3 (R14) 23-Apr-2004
 %   and                       - AND (overloaded)

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Example 7.2: Maximum entropy distribution
 % Section 7.2, Figures 7.2-7.3
 % Boyd & Vandenberghe, "Convex Optimization"

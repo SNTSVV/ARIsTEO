@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function approx = outerApprox(obj)
 %
 % Computes the smallest axis-aligned hyperbox containing a given polyhedron

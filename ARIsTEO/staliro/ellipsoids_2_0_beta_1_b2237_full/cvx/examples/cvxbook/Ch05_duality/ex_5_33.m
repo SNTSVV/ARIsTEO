@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 % Exercise 5.33: Parametrized l1-norm approximation
 % Boyd & Vandenberghe "Convex Optimization"
 % Joëlle Skaf - 08/29/05

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function slide=mpt_demo2
 %MPT_DEMO2 Tour through visualization capabilities of the toolbox
 %

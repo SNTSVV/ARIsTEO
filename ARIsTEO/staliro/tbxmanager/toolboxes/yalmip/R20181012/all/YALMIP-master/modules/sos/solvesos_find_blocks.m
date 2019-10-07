@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sol,m,Q,residuals,everything] = solvesos_find_blocks(F,obj,options,params,candidateMonomials)
 
 tol = options.sos.numblkdg;

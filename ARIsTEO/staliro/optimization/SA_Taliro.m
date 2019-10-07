@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [run, history, sigData] = SA_Taliro(inpRanges,opt)
 
 % SA_Taliro - Performs stochastic optimization using Simulated Annealing

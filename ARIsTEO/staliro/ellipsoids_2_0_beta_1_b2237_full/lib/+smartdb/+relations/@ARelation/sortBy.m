@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sortBy(self,sortFieldNameList,varargin)
 % SORTBY - sorts all tuples of given relation with respect to some of its
 %          fields

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [run, history, sigData] = UR_Taliro(inpRanges,opt)
 % UR_Taliro - Performs random sampling in the state and input spaces.
 % Gradient descent can be applied to samples optionally

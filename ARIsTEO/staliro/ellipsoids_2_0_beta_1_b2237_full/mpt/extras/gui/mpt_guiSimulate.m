@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiSimulate(varargin)
 % MPT_GUISIMULATE M-file for mpt_guiSimulate.fig
 %      MPT_GUISIMULATE, by itself, creates a new MPT_GUISIMULATE or raises the existing

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,x0,str,ts,simStateCompliance]=dblBallanim(t,x,u,flag,ts,y0) %#ok<INUSL>
 %DBLBALLANIM S-function for animating the motion of double bouncing ball.
 % y0 is the initial y position vector of all the objects

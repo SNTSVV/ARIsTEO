@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isEqualArr, reportStr] = isEqual(ellFirstArr, ellSecArr, varargin)
 % ISEQUAL - produces logical array the same size as
 %           ellFirstArr/ellFirstArr (if they have the same).

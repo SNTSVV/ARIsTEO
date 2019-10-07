@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = presolve_bounds_from_inequalities(p)
 if p.K.l >0
     nnz_per_row = (p.F_struc | p.F_struc)*[0;ones(size(p.F_struc,2)-1,1)];

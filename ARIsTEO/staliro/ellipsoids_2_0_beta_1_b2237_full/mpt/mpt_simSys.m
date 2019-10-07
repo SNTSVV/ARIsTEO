@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [X,U,Y,mode]=mpt_simSys(sysStruct,x0,inU,Options)
 %MPT_SIMSYS Simulates evolution of a given system
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ depGraph ] = displayDependencyGraph(conn, cpuAssignmentArray, isPrompt, names, showWeights)
 %displayDependencyGraph Display the given adjacency matrix as graph.
 

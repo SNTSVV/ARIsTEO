@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef GenEllipsoidPlotTestCase < elltool.plot.test.AGeomBodyPlotTestCase
     methods(Access=protected)
         function [plObj,numObj] = getInstance(varargin)

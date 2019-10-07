@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function done = alreadydone(variable,method,goal_vexity)
 global ALREADY_MODELLED ALREADY_MODELLED_INDEX REMOVE_THESE_IN_THE_END
 done = 0;

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = false(x)
 % FALSE Constrains a binary variable to be false (0)
 %

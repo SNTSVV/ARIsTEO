@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function D = dijkstra_all_sp(G,optionsu)
 % DIJKSTRA_ALL_SP Compute all pairs shortest path using repeated Dijkstras
 %

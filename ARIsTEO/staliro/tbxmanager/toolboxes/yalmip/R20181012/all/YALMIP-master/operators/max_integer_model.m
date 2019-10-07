@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function F = max_integer_model(X,t);
 
 [M,m] = derivebounds(X);

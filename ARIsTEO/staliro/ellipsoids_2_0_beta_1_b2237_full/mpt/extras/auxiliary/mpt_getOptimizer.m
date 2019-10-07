@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [U,feasible,region]=mpt_getOptimizer(Pn,Fi,Gi,x0,Options)
 %MPT_GETOPTIMIZER For a given state, extracts the optimizer obtained by a multi-parametric solver
 %

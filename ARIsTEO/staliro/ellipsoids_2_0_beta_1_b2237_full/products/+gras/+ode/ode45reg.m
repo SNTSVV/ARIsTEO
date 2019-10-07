@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [tout,yout,dyRegMat] = ode45reg(fOdeDeriv,fOdeReg,tspan,y0,...
     options,varargin)
 % ODE45REG is an extension of built-in ode45 solver capable of solving ODEs

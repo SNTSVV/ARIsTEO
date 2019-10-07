@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [exponent_p_monoms_changed,varchange] = variablechange(exponent_p_monoms)
 %function [exponent_p_changed,varchange] = variablechange(exponent_p,monom_indicies)
 %VARIABLECHANGE Internal function to reduce monomials in SOS programs

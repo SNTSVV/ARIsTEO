@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function closest = closestRegion(P,x0)
 %CLOSESTREGION Returns index of a region which is closest to the point x0
 %

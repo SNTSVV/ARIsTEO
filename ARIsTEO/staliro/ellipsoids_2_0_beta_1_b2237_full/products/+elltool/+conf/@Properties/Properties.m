@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef Properties<modgen.common.obj.StaticPropStorage
     %PROPERTIES - a static class, providing emulation of static properties for
     %             toolbox.

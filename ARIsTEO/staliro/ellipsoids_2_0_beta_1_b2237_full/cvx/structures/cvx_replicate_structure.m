@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function str = cvx_replicate_structure( str, sz )
 %CVX_REPLICATE_STRUCTURE Apply matrix structure to N-D arrays.
 

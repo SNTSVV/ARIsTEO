@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 aMat = [0 1; 0 0]; bMat = eye(2);  % matrices A and B, B is identity
 SUBounds = struct();
 % center of the ellipsoid depends on t

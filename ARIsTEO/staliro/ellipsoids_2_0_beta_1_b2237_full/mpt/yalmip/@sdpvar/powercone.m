@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cone(z,x,y,alpha)
 %CONE Defines a power cone x^alpha y ^(1-alpha) > |z|
 %

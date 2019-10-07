@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout=getUniqueDataAlongDimInternal(self,catDim,varargin)
 % GETUNIQUEDATAALONGDIM - returns internal representation of CubeStruct
 %                         data set unique along a specified dimension

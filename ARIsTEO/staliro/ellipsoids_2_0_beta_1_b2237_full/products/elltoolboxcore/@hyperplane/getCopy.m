@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function copyHpArr = getCopy(hpArr)
 % GETCOPY - gives array the same size as hpArr with copies of elements of
 %           hpArr.

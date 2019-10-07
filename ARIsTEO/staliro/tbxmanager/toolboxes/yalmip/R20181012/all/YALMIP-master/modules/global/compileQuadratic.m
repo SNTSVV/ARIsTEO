@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Q,c] = compileQuadratic(c,p);
 Q = spalloc(length(c),length(c),0);
 %c = p.c;

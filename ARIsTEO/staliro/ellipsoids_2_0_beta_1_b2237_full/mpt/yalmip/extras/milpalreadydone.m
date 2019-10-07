@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function done = milpalreadydone(i)
 global ALREADY_MODELLED REMOVE_THESE_IN_THE_END
 done = 0;

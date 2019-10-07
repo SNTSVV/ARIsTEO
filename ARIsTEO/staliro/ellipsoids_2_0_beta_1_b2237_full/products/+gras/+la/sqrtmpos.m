@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function qSqrtMat = sqrtmpos(qMat, absTol)
 % SQRTMPOS generates a square root from positive semi-definite matrix QMat
 % The input matrix is allowed have slightly negative input values lambda

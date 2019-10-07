@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [d dt ft pred] = dfs(A,u,varargin)
 % DFS Compute the depth first search times.
 %

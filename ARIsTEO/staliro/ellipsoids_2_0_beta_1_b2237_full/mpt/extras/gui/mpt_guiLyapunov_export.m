@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiLyapunov_export(varargin)
 % MPT_GUILYAPUNOV_EXPORT M-file for mpt_guiLyapunov_export.fig
 %      MPT_GUILYAPUNOV_EXPORT, by itself, creates a new MPT_GUILYAPUNOV_EXPORT or raises the existing

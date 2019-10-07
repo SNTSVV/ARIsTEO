@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function POP_problem = mpt2pop(Matrices)
 
 n = length(Matrices.free_var);

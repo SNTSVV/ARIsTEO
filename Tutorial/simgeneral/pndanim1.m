@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,x0,str,ts,simStateCompliance]=pndanim1(t,xunused,u,flag,ts) %#ok
 %PNDANIM3 S-function for animating the motion of a pendulum.
 

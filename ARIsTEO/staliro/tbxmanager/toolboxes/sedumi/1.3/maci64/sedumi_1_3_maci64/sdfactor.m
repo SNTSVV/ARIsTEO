@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %      [Lsd,Rscl] = sdfactor(L,Lden, dense,DAt, d,v,y, At,K,R,y0,pars)
 % SDFACTOR  Factor self-dual embedding
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % setup_staliro 
 %
 % It sets the required paths in the environment. It will also automatically 

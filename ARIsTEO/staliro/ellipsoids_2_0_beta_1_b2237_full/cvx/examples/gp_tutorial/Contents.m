@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Examples from <a href="http://stanford.edu/~boyd/papers/gp_tutorial.html">A Tutorial on Geometric Programming</a>
 %
 %  max_volume_box.m             - Box volume maximization

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef text_test_runner
     % TEXT_TEST_RUNNER class runs a test_case or test_suite and
     %  writes the results to a textOutFid in textual form (using

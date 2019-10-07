@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function toPython(obj, filename, function_to_export, tiebreak)
 % Generates Python code for evaluation of a particular function
 %

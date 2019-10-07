@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sizeVec=getfirstdimsize(value,nDims)
 % GETFIRSTDIMSIZE returns a size vector for the first N dimensions where N
 % is specified

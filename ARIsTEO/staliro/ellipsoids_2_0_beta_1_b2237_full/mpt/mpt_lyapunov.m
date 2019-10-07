@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrl = mpt_lyapunov(ctrl, funtype, ndeg, Options)
 %MPT_LYAPUNOV Computes a Lapunov-type function for a given explicit controller
 %

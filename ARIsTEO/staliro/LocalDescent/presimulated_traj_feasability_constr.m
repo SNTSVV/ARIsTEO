@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [cin, ceq] = presimulated_traj_feasability_constr(x, argv)
 % x : point where constraint is evaluated
 

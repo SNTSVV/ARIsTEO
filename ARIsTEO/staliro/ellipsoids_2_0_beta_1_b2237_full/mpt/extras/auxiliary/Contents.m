@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Multi-Parametric Toolbox Auxiliary Functions
 %
 %   identifyRegion        - Plots the number of the polytopes into the current 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Q,c,A,b,Aeq,beq,lb,ub,ops] = yalmip2quadprog(interfacedata);
 
 options = interfacedata.options;

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = norms_largest( x, k, dim )
 
 %NORMS_LARGEST Computation of multiple norm_largest() norms.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Implements an n-dimensional polyhedron with m faces, s.t.
 % polyhedron = {x | Hx <= K}, H: m-by-n matrix, K: m-by-1 vector
 % >> p = polyho(H, K, opts);

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ctrl,Idx_orig] = modify(ctrl, action, indices, Options)
 %MODIFY Modifies an MPTCTRL object
 %

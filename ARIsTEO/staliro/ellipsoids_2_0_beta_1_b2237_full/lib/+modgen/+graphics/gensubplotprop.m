@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function theAxis = gensubplotprop(nRows, nCols, plotId, varargin)
 % gensubplotprop- does the same as the subplot but doesn't create axis
             %

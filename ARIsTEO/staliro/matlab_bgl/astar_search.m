@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [d pred f]=astar_search(A,s,h,varargin)
 % ASTAR_SEARCH Perform a heuristically guided (A*) search on the graph.
 %

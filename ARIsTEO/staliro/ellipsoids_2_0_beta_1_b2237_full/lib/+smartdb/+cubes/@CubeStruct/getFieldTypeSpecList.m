@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function typeSpecList=getFieldTypeSpecList(self,varargin)
 % GETFIELDTYPESPECLIST - returns a list of field type specifications. Field
 %                        type specification is a sequence of type names 

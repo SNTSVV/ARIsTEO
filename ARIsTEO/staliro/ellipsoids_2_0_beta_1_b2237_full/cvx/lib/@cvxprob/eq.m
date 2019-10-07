@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function z = eq( x, y )
 if ~isa( x, class( y ) )
     error( 'cvxprob objects may only be compared to each other.' );

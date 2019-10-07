@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                              x = frameit(lab,frmq,frms,K)
 % FRAMEIT
 %

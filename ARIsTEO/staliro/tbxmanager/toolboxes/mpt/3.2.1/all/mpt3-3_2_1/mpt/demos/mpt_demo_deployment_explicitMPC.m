@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_demo_deployment_explicitMPC
 % demostration how to deploy explicit MPC controller in real-time
 % using RTW

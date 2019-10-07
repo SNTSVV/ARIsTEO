@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = quad_form( x, Q, v, w )
 
 %QUAD_FORM quadratic form.

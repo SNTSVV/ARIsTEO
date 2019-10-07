@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_vexity( x )
 sx = size( x );
 if cvx_use_sparse( sx, 0, true )

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [d, x1, x2] = distance(P1,P2,Options)
 %DISTANCE Distance between two sets
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [newAt,newb,newc,newK,prepinfo]=preprocessSDP(At,b,c,K)
 %[newAt,newb,newc,newK,prepinfo]=preprocessSDP(At,b,c,K)
 %Preprocess the SDP part of a problem, return the new variables and the

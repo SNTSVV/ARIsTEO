@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function setduals(F,D_struc,K)
 
 D_struc = full(D_struc);

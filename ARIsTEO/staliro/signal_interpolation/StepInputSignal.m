@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % StepInputSignal
 %    This is an example of how to define custom input signal generators for
 %    S-TaLiRo. This example generates a step signal parameterized by :

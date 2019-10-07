@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [bpMat, fVec] = ellbndr_2d(myEll,nPoints)
 %
 % ELLBNDR_2D - compute the boundary of 2D ellipsoid. Private method.

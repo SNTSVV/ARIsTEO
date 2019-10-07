@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = yalmip2sdpa(interfacedata);
 [mDIM,nBLOCK,bLOCKsTRUCT,c,F] = sedumi2sdpa(interfacedata.F_struc,interfacedata.c,interfacedata.K);
 if interfacedata.options.verbose==0

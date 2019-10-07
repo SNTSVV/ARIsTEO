@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = cpower(varargin)
 %CPOWER Power of SDPVAR variable with convexity knowledge
 %

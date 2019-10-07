@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef ReachContinuous < elltool.reach.AReach
     % Continuous reach set library of the Ellipsoidal Toolbox.
     %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef mlunit_test_text_test_result < mlunitext.test_case
     methods (Access=private)
         function [runner,suite]=getSimpleRunnerSuite(~,markerStr)

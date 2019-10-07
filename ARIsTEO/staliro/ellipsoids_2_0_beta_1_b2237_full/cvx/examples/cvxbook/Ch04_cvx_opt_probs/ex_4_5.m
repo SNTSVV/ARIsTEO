@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 % Exercise 4.5: Show the equivalence of 3 convex problem formations
 % From Boyd & Vandenberghe, "Convex Optimization"
 % Joëlle Skaf - 08/17/05

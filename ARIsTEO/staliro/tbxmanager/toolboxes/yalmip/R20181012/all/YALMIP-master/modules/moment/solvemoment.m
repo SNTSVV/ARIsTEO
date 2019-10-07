@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sol,x_extract,momentsstructure,sosout,Fnew,obj] = solvemoment(F,obj,options,k)
 %SOLVEMOMENT Application of Lasserre's moment-method for polynomial programming
 %

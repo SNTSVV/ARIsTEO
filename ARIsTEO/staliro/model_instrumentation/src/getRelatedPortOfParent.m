@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [parentIndex, parentPortType, parentPortNo] = getRelatedPortOfParent(info, blockIndex)
 %getRelatedPortOfParent For a 'Port' block, finds related port information of parent. 
 

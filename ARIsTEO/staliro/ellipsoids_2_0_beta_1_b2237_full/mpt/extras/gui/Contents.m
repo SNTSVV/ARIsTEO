@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Multi-Parametric Toolbox Graphical User Interface
 %   mpt_studio             - MPT Graphical User Interface
 %   mpt_setup              - Main MPT configuration rutine

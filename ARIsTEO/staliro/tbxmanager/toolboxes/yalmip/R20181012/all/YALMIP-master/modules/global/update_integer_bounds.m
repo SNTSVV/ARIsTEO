@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = update_integer_bounds(model);
 
 if ~isempty(model.integer_variables)

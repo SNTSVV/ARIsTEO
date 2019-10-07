@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [nph,nfh] = sbprogress(ph,x,msg,fh,title,modal)
 %[nph,nfh] = function SBPROGRESS(ph,x,msg,fh,title,modal)
 %   Creates a progress bar in the "status-bar section" of the figure.

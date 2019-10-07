@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %   [DAtq, DAts] = getDAt(At,Ablk,colsel, d,ud,K)
 %
 %Creates

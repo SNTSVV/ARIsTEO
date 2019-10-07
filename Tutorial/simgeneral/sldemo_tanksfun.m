@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,x0,str,ts,simStateCompliance] = sldemo_tanksfun(t,x,u,flag,inflow,outflow, ...
                                            lolim,hilim,area)
 %SLDEMO_TANKSFUN example animation S-function for model sldemo_tank

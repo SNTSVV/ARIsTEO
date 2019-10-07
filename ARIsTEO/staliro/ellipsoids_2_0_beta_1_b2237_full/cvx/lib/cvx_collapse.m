@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = cvx_collapse( x, keeptemp, tocell )
 if nargin < 2, keeptemp = false; end
 if nargin < 3, tocell = false; end

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [x,y,K]=postprocessSDP(newx,newy,prepinfo,newK)
 % [x,y,K]=postprocessSDP(newx,newy,prepinfo,newK)
 % postprocessSDP: Postprocesses an SDP solution using the info from

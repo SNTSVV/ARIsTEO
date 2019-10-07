@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function X = random_graph_layout(G,box)
 % RANDOM_GRAPH_LAYOUT Layout the vertices of a graph randomly
 % 

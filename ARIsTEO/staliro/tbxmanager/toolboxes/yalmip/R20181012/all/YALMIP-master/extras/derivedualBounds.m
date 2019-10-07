@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [dualUpper,L,U] = derivedualBounds(H,c,A,b,E,f,ops,parametricDomain)
 
 if isempty(A)

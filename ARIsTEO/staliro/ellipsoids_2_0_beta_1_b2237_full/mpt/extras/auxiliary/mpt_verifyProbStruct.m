@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function probStruct=mpt_verifyProbStruct(probStruct,Options)
 %MPT_VERIFYPROBSTRUCT Verifies the probStruct structure
 %

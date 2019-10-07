@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPositive=isequalfirstdimsize(valueA,valueB,nDims)
 % ISEQUALFIRSTDIMSIZE checks if the specified arrays have the same size
 % along the first N dimensions where N is specified

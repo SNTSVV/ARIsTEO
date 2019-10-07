@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function expr = minus(var1, var2)
 %GE Difference of two MPTVAR objects
 

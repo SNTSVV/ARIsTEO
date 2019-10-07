@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % signal_vacuity will perform the Signal Vacuity Checking which
 % checks whether the simulation output satisfies the antecedent failure of
 % Metric Temporal Logic (MTL) formulas.

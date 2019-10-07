@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = quad_pos_over_lin( x, y, varargin ) %#ok
 
 %QUAD_POS_OVER_LIN   Internal cvx version.

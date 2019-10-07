@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function handle=mpt_plotPartition(ctrl,Options)
 %MPT_PLOTPARTITION Plots a polyhedral partition obtained by mpt_control
 %

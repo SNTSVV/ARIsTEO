@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %% New features in MatlabBGL version 3.0
 % Although MatlabBGL 3.0 was never officially released, here are some of
 % it's key features.

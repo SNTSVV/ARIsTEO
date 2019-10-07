@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function expr = plus(var1, var2)
 %PLUS Sumation operator for MPTVAR objects
 

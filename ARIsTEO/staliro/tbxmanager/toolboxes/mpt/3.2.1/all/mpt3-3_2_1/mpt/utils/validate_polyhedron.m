@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y=validate_polyhedron(varargin)
 %
 % check if the argument is of a polyhedron class, otherwise throw an

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isin, inwhich, closest] = contains(obj, x, fastbreak)
 %
 % Checks whether the union contains a given point

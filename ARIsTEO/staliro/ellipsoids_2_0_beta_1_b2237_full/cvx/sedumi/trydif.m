@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                   [t,wr,w] = trydif(t,wrIN,wIN, x,z, pars,K)
 % TRYDIF  Tries feasibility of differentiated step length w.r.t.
 %  wide region and its neighborhood.

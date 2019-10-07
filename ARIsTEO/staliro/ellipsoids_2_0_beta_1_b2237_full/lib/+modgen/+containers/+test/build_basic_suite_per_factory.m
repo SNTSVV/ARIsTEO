@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function suite=build_basic_suite_per_factory(mapFactory,formatList)
 import modgen.containers.*;
 import modgen.containers.test.*;

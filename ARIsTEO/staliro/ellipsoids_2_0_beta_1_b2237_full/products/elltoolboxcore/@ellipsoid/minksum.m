@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [varargout] = minksum(varargin)
 %
 % MINKSUM - computes geometric (Minkowski) sum of ellipsoids in 2D or 3D.

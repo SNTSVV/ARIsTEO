@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [p,A,b] = pwamodel(f,x)
 
 t = sdpvar(1);

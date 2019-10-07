@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_demo_deployment_onlineMPC
 % demostration how to deploy online MPC controller in real-time
 % using RTW

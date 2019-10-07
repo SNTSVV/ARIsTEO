@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [how,maxD,maxX,minD,minX] = mpt_isPWAbigger(J1,J2,Options);
 %MPT_ISPWABIGGER Test if one PWA function is bigger than a second PWA function
 %

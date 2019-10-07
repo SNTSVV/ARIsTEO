@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 function  [oldlb,oldub] = presolve_probebinary(A,b,c,lb,ub,binary_variables);
 
 % Author Johan Löfberg

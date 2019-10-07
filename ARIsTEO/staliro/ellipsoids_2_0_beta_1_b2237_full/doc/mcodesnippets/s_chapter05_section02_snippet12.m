@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % polytope secPolObj is obtained by affine transformation of firstPolObj
 secPolObj = 0.5*firstPolObj + [1; 1];  
 

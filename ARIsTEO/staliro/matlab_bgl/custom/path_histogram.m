@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [l c] = path_histogram(G,varargin)
 % PATH_HISTOGRAM Compute a histogram of all shortest paths in graph G
 %

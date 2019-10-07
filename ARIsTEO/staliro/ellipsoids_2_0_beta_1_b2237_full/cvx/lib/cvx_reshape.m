@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = cvx_reshape( x, s, rmap, cperm, cperm2 )
 sx = size( x );
 if nargin < 5,

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function S = qp2lcp(S,reduce_flag)
 % Convert from pQP format to LCP format
 %

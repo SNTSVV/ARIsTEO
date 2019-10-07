@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Circuit design
 % <a href="http://stanford.edu/~boyd/papers/rc.html">Optimizing Dominant Time Constant in RC Circuits</a>
 % <a href="http://stanford.edu/~boyd/papers/rc_iccad.html">Optimal Wire and Transistor Sizing for Circuits with Non-Tree Topology</a>

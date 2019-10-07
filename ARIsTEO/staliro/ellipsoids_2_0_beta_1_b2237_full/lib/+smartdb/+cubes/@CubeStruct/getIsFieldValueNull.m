@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isValueNullVec=getIsFieldValueNull(self,fieldNameList)
 % GETISFIELDVALUENULL - returns a vector indicating whether a particular
 %                       field is composed of null values completely

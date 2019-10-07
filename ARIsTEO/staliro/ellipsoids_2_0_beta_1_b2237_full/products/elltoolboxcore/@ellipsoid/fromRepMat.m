@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ellArr = fromRepMat(varargin)
 % FROMREPMAT - returns array of equal ellipsoids the same
 %              size as stated in sizeVec argument

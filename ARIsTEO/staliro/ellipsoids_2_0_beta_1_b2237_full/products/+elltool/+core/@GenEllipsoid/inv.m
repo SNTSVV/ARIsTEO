@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ellInvObj = inv( ellObj )
 % INV - create generalized ellipsoid whose matrix in pseudoinverse
 %       to the matrix of input generalized ellipsoid

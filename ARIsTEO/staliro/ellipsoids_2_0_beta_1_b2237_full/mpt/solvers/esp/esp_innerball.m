@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [x,R] = esp_innerball(P,eq,Rbnd);
 %
 %  [x,R]=polyinnerball(P,eq,Rbnd);

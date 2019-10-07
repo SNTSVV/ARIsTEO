@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function status=mpt_isValidCS(ctrlStruct,Options)
 %MPT_ISVALIDCS Checks if input argument is a valid controller structure
 %

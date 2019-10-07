@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function N = blockmonomialreduction(exponent_p,N,options)
 %BLOCKMONOMIALREDUCTION Internal function to reduce monomials in SOS problem
 

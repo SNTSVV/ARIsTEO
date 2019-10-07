@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_s_scaled_identity( m, n )
 %CVX_S_SCALED_IDENTITY Scaled identity: t*eye(n).
 y = sparse( 1, 1 : m + 1 : m * n, 1, 1, m * n );

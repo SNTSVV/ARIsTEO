@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function f = ipopt_callback_f(x,model)
 
 global latest_x_f

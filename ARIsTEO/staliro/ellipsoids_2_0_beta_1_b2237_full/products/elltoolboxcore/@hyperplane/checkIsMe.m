@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function checkIsMe(someObjArr)
 %
 % CHECKISME - determine whether input object is hyperplane. And display

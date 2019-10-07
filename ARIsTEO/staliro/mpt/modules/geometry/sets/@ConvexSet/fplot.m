@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function h = fplot(obj, varargin)
 %
 % Plot a single function over a convex set or over an array of convex sets.

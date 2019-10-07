@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function status = lt(P,Q,Options)
 %LT Checks if polytope P is a strict subset of polytope Q
 %

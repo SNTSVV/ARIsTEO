@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Model generated from alkyl.gms
 % Created 17-Mar-2008 11:04:26 using YALMIP R20070810
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef test_assert < mlunitext.test_case
     % TEST_ASSERT tests the methods assert, assert_equals and assert_not_equals.
     %

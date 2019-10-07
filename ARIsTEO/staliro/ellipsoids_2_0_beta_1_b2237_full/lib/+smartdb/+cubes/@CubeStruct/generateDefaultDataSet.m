@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [SDataNew,SIsNullNew,SIsValueNullNew]=generateDefaultDataSet(...
     self,minDimensionSizeVec,varargin)
 % GENERATEDEFAULTDATASET generates data structures of specified size filled

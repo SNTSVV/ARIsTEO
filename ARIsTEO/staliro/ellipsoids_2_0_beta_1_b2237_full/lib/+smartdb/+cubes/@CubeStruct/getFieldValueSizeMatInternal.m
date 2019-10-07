@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sizeMat=getFieldValueSizeMatInternal(self,varargin)
 % GETFIELDVALUESIZEMAT returns a matrix composed from the size
 % vectros for the specified fields

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A, b] = addRule8( info )
 %addRule8 Optimization parameter is an upper bound for start time + wcet of leafs
 %   Returns A and b for inequality rule Ax <= b

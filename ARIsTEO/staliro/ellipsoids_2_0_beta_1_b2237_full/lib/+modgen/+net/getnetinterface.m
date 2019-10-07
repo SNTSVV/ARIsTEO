@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function netStruct=getnetinterface(varargin)
 % GETNETINTERFACE returns information about all network interfaces
 % connected to this computer and their addresses

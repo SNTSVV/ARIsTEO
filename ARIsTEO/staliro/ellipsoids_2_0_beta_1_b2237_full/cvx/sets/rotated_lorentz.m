@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optpnt = rotated_lorentz( sx, dim, iscplx )
 
 %ROTATED_LORENTZ   Rotated real second-order cone.

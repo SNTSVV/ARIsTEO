@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ip=subsasgn(ip,S,B)
 % INPLACE/SUBSASGN Support Matlab subscript assignment
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Example 6.6: Comparison of worst-case robust, Tikhonov, and nominal least squares
 % Section 6.4.2, Figure 6.16
 % Boyd & Vandenberghe "Convex Optimization"

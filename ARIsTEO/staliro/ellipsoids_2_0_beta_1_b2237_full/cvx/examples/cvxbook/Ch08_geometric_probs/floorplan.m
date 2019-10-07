@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [W, H, w, h, x, y] = floorplan(adj_H, adj_V, rho, Amin, l, u )
 
 % Computes a minimum-perimeter bounding box subject to positioning constraints

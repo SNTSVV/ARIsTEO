@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function opt = setYalmipData(opt, con, obj, th, u)
 %
 %         Set data from a YALMIP object

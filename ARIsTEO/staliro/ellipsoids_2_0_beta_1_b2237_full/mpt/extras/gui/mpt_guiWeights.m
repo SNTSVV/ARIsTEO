@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiWeights(varargin)
 % MPT_GUIWEIGHTS M-file for mpt_guiWeights.fig
 %      MPT_GUIWEIGHTS, by itself, creates a new MPT_GUIWEIGHTS or raises the existing

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %% TaLiRo Monitor
 % Computing the robustness estimate of timed state sequences of invariants 
 % expressed in Metric Temporal Logic. That is a monitor evaluates a given

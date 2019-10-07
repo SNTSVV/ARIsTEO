@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_makedemos
 %MPT_MAKEDEMOS creates MAT files with data needed to run demos
 %

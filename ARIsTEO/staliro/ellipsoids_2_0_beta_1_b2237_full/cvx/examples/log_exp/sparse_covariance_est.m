@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Sparse covariance estimation for Gaussian variables
 % Joëlle Skaf - 04/24/08 
 % (a figure is generated) 

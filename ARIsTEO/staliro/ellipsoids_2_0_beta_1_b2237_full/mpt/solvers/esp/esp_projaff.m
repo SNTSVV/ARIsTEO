@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [a,b] = esp_projaff(Ce,De,be,ExpectedDim)
 %
 % [a,b] = projaff(Ce,De,be,ExpectedDim)

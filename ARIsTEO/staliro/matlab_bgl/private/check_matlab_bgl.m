@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function check_matlab_bgl(A,options)
 % CHECK_MATLAB_BGL Checks the input A for various properties
 %

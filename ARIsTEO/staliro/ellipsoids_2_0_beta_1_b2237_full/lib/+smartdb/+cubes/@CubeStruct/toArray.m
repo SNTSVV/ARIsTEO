@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout=toArray(self,varargin)
 % TOARRAY - transforms values of all CubeStruct cells into a multi-
 %           dimentional array

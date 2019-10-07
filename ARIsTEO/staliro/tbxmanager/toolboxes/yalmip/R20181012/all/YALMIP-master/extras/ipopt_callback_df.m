@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function df = ipopt_callback_df(x,model)
 
 global latest_x_f

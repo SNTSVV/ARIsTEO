@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function fHandle = cellstr2func(inpCMat,inpArgNameList)
 % CELLSTR2EXPRESSION creates Matlab expression based on cell matrix of
 % expressions corresponding to the individual elements of the matrix

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = cvx_run_solver( sfunc, varargin )
 settings_arg = varargin{end};
 settings     = varargin{end-1};

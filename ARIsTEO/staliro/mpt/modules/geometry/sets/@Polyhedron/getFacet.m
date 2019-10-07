@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Q = getFacet(P, varargin)
 %
 % Returns the facet of the polyhedron P for given inequality index. 

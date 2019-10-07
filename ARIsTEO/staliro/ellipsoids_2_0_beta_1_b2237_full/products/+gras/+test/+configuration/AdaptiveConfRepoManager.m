@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef AdaptiveConfRepoManager<modgen.configuration.AdaptiveConfRepoManager
     % ADAPTIVECONFREPOMANAGER is a simplistic extension of
     % AdaptiveConfRepoManager that injects a configuration change

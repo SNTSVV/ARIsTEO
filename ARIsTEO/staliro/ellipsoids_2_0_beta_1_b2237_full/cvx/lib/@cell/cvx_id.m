@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_id( x )
 y = cellfun( @cvx_id, x );
 if isempty( y ),

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ projQMat ] = findMatProj( eigvMat,diagMat,basMat )
 % FINDMATPROJ - find projection of matrix given in eigenvalue decomposition
 %

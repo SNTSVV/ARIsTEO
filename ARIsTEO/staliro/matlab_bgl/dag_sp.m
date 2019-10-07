@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [d pred] = dag_sp(A,u,varargin)
 % DAG_SP Compute the weighted single source shortest path problem.
 %

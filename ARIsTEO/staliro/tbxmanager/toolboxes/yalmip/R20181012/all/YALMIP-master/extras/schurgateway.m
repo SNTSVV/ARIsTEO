@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function schurtmp_Total = schurgateway(X,Z,userdata)
 schurtmp_Total = 0;
 sizes = [userdata{1}.blk{1}];

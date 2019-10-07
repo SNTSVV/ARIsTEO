@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = pathdef
 %PATHDEF Search path defaults.
 %   PATHDEF returns a string that can be used as input to MATLABPATH

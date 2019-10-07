@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                            [ADA,absd] = getada3(ADA, A,Ajc1,Aord, udsqr,K)
 % GETADA3  Compute ADA(i,j) = (D(d^2)*A.t(:,i))' *A.t(:,j),
 %   and exploit sparsity as much as possible.

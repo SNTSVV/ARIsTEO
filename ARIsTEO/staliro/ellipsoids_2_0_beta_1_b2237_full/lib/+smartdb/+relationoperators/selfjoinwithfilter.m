@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resRelObj = selfjoinwithfilter(inpRelObj,joinByFieldList,...
     filterField,filterToFieldRel,varargin)
 % SELFJOINWITHFILTER performs self join of given relation and returns the

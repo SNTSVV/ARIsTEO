@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef EllTubeProj<gras.ellapx.smartdb.rels.ATypifiedAdjustedRel&...
         gras.ellapx.smartdb.rels.EllTubeProjBasic
     % EllTubeProj - class which keeps ellipsoidal tube's projection

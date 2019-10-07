@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function projEllArr = getProjection(ellArr, basisMat)
 %
 % GETPROJECTION - do the same as PROJECTION method: computes projection of

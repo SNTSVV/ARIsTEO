@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %function [Ax,Ay,b] = convexhullConvex(xL,xU,fL,fU,dfL,dfU)
 function [Ax,Ay,b,K] = convexhullConvex(varargin)
 % Two upper bounds from tangents

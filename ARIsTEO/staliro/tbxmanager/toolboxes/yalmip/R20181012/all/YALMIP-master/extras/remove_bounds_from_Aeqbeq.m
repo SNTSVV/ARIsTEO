@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [lb,ub,A,b,infeasible] = remove_bounds_from_Aeqbeq(A,b,lbin,ubin);
 
 infeasible = 0;

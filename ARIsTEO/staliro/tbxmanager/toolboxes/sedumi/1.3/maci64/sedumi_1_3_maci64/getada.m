@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function absd=getada(A,K,d,DAt)
 %Computes the Newton system
 %incorporates getada1,2,3

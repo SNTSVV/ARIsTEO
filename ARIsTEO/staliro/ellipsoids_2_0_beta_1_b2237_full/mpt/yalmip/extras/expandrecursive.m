@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F_expand,failure,cause] = expandrecursive(variable,F_expand,extendedvariables,monomtable,variabletype,where,level,options,method,extstruct,goal_vexity,allExtStruct)
 
 % Some crazy stuff to help out when hand;ling nonocnvex and other

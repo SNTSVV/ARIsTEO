@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function plObj = plot(varargin)
 %
 % PLOT - plots hyperplaces in 2D or 3D.

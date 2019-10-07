@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = plot(varargin)
 %PLOT  Plots the (projection of the) feasible region of a set of constraints
 %

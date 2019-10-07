@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function solver = fiordos(self)
 
 % The first dimin equalities are used to fix some parameters

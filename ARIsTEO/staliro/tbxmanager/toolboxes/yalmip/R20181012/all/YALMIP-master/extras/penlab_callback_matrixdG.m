@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [dG,model] = penlab_callback_matrixdG(x,k,i,model)
 
 global latest_x_g

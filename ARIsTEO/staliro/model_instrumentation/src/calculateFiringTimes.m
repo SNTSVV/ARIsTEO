@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ firingTimes ] = calculateFiringTimes( hyperPeriod, sampleTimeArr )
 %calculateFiringTimes Calculate different firing times in the hyper period.
 

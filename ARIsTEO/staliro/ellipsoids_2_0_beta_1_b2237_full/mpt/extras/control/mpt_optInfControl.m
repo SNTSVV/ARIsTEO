@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrlStruct=mpt_optInfControl(sysStruct,probStruct,Options)
 %MPT_OPTINFCONTROL Solves the infinite-time constrained optimal control problem for LTI systems
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [xc,R,lambda] = chebyball_f(H,K,lpsolver)
 %CHEBYBALL_F Computes center and radius of the largest ball inscribed in a polytope
 %

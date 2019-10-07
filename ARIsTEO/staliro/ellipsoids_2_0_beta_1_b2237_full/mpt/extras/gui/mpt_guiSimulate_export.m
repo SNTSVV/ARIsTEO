@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiSimulate_export(varargin)
 % MPT_GUISIMULATE_EXPORT M-file for mpt_guiSimulate_export.fig
 %      MPT_GUISIMULATE_EXPORT, by itself, creates a new MPT_GUISIMULATE_EXPORT or raises the existing

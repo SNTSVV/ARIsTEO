@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Builds a norm minimization tradeoff curve
 %
 % This script solves a family of problems of the form

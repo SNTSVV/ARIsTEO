@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef CompositeMatrixOperations<gras.mat.AMatrixOperations
     methods
         function obj=triu(self,mMatFunc)

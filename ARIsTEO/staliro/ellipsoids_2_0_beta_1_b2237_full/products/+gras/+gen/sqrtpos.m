@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resArr = sqrtpos(inpArr, absTol)
 % SQRTPOS calculates the square root of positive value assuming that the
 % input value is specified with certain precision

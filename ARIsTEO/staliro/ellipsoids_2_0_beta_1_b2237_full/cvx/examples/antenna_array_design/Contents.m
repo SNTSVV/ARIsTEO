@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Antenna array design
 % <a href="http://stanford.edu/~boyd/papers/ant-pat.html">Antenna Array Pattern Synthesis via Convex Optimization</a>
 % <a href="http://stanford.edu/~boyd/papers/magdes.html">FIR Filter Design via Spectral Factorization and Convex Optimization</a>

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sout = cvx_quiet( flag )
 
 %CVX_QUIET    CVX output control.

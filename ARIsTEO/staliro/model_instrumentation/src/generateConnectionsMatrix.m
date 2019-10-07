@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ connMatrix ] = generateConnectionsMatrix( info )
 %generateConnectionsMatrix Generates connection matrix from immediate conenctions only.
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optpnt = hermitian_semidefinite( n )
 
 %HERMITIAN_SEMIDEFINITE   Complex Hermitian positive semidefinite matrices.

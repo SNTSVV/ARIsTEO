@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function obj = computeHRep(obj)
 % V-to-H conversion with possibly redundant H-rep output
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Minimal phase spectral factorization
 %
 % A PSD matrix is found which minimizes a weighted trace while obtaining

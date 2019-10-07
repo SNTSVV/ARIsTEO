@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isThereVec,indLocVec]=ismembercellstr(aList,bList,isHigherIndexUsed)
 % ISMEMBERCELLSTR produces the same results as a built-in function
 % "ismember" looking for the higher index if isHigherIndexUsed =true and

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [b,ndx,pos] = unique(a,flag)
 % Ripped unique
 % For safety, we use 7.0 (6.1 sort differently...)

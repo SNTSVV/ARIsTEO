@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function output = callsnopt(model)
 
 % Build trees etc. This common format is used for fmincon, snopt and ipopt

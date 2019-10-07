@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Pret,keptrows,feasible] = mpt_getReachSubset(P,Pfin,A,B,F,G,horizon,Options)
 %MPT_GETREACHSUBSET Computes a subset of P which enters Pfin
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [flowval cut R F] = max_flow(A,u,v,varargin)
 % MAX_FLOW Compute the max flow on A from u to v.
 %

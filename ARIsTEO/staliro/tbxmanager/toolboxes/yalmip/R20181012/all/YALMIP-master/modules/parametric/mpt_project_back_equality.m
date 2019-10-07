@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Fi,Gi,details] = mpt_project_back_equality(Matrices,Fi,Gi,details,OriginalMatrices);
 if isempty(Matrices.getback)
     return

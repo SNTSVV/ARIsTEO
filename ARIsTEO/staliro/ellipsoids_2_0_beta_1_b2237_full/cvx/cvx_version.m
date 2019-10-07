@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ nver, isoctave, fs, ps, mpath, problem ] = cvx_version( license_file )
 
 % CVX_VERSION   Returns version and environment information for CVX.

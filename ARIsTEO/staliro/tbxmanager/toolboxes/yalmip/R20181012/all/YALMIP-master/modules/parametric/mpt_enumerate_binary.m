@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [enums,Matrices] = mpt_enumerate_binary(Matrices)
 
 binary_var_index = Matrices.binary_var_index;

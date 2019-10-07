@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % CE_Taliro - Performs stochastic optimization based on a Cross Entropy
 %   algorithm where the cost function is the robustness of the metric
 %   temporal logic formula.

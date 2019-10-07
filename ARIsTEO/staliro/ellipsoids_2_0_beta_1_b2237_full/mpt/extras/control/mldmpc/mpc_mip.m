@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ut, dt, zt, Eflag] = mpc_mip( S, xt, r, Q, pr, co, Options )
 
 %===============================================================================

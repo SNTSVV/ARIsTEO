@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [solverOutputs, assignmentArr, info] = solveMILP_MR(infoIn, solver, isReport)
 %solveMILP_MR - Formulates the MILP problem and solves using MILP solver
 % * return value x is the optimized vector for variables.

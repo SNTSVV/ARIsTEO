@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                      [zhi,zlo] = quadadd(xhi,xlo,y)
 % QUADADD   Compute (zhi+zlo) = (xhi+xlo) + y.
 %   x an z are in double-double format (quad precision)

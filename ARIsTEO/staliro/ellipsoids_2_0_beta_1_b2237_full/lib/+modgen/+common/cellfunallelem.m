@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resArray=cellfunallelem(hFunc,inpCell,varargin)
 % CELLFUNALLELEM applies the specified function to all elements 
 % in each cell of the specified cell array and returns array of results 

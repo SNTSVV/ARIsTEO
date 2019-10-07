@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Minimize sidelobe level of an FIR broadband far-field antenna array
 % "Antenna array pattern synthesis via convex optimization"
 % by H. Lebret and S. Boyd

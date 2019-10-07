@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ts = isOverlapping(obj)
 %
 % check if the polyhedron array is overlapping or not

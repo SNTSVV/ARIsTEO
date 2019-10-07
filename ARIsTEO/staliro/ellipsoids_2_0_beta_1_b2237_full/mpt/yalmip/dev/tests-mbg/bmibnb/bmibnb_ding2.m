@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 function ding2
 %J Glob Optim (2007) 38:421–436
 %DOI 10.1007/s10898-006-9091-3

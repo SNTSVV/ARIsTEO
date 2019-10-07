@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function pathStr=rmlastnpathparts(pathStr,nPartsToRemove)
 ind=regexp(pathStr,filesep);
 nPartsInTotal=length(ind);

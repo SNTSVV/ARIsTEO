@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = geo_mean( x, dim, w )
 
 %GEO_MEAN   Geometric mean.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isconvexorconcave,A,B] = isconvexmeshdata(xi,yi,zi)
 
 [n,m] = size(xi);

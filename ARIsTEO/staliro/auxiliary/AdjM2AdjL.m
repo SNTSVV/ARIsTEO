@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Convert an adjacency matrix to an adjacency list
 
 % (C) G. Fainekos - GRASP - UPenn - last update 2006.10.14

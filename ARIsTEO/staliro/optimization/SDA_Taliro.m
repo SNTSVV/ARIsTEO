@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ results ] = SDA_Taliro(inpRanges,opt)
 % RGDA - Robustness Guided Parameter Falsification Domain Algorithm based on
 % Algorithm 2 in the STTT paper: <a href="matlab: web('http://arxiv.org/abs/1512.07956')">Mining Parametric Temporal Logic Properties in 

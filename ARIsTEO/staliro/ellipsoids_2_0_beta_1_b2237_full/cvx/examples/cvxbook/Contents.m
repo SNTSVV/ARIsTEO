@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figures, examples, and exercises from the book <a href="http://stanford.edu/~boyd/cvxbook">Convex Optimization</a>
 %
 %  Ch04_cvx_opt_probs/     - Chapter 4: Convex optimization problems

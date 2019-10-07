@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function oMat=orthtranslmaxdir(srcVec,dstVec,srcMaxVec,dstMaxVec)
 % ORTHTRANSLMAXDIR generates an orthogonal matrix oMat that translates
 % vector srcVec to another vector that is collinear to the second 

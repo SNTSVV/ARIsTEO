@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function out = max(PUs, func)
 % Maxmimum of PolyUnions 'inPUs' using function 'func'
 

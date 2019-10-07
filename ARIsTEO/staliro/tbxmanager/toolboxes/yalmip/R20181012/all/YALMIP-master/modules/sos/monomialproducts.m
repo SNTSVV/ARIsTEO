@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [newton_m2,N_unique,newton_m2_unique] = monomialproducts(N,n);
 %MONOMIALPRODUCTS  Internal function used for monomial reduction
 

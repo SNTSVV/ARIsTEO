@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function rel = mpt_matlabrelease
 %MPT_MATLABRELEASE Detects the release number of the running MATLAB instance
 %

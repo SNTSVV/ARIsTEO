@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function checkIsMe(ellArr,varargin)
 %
 % CHECKISME - determine whether input object is ellipsoid. And display

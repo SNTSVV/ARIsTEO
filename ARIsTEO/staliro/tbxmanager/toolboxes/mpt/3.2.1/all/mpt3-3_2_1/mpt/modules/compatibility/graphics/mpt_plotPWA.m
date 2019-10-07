@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function handle=mpt_plotPWA(PA,Fi,Gi,Options)
 %MPT_PLOTPWA Plots a PWA function defined over a given polyhedral partition
 %

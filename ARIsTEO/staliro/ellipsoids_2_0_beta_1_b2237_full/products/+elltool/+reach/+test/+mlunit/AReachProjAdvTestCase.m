@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef AReachProjAdvTestCase < mlunitext.test_case
     properties (Access=private, Constant)
         CMP_PREC_FACTOR=10;%we increase comp precision to account

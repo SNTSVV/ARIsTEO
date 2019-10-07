@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function verstr = mpt_version
 %MPT_VERSION Returns version of MPT
 %

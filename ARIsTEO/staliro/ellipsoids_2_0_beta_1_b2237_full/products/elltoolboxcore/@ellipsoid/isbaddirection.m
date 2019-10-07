@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isBadDirVec,pUniversalVec] = isbaddirection(fstEll, secEll, dirsMat,absTol)
 %
 % ISBADDIRECTION - checks if ellipsoidal approximations of geometric

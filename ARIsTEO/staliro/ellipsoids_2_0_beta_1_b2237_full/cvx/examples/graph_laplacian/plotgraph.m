@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function plotgraph(A,xy,weights)
 % Plots a graph with each edge width proportional to its weight.
 %

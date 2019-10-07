@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Detecting a small subset of infeasible linear inequalities
 % Section 5.8, Boyd & Vandenberghe "Convex Optimization"
 % Written for CVX by Almir Mutapcic - 02/18/06

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isValid=isvalidsize(varargin)
 %
 % ISVALIDSIZE compares size of input arrays with mask. Function

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Class definition for STL/MITL Debugging and Vacuity Aware Falsification
 % 
 % vacuity_param = vacuity_parameters;

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F_xw,F_sprocedure] = filter_sprocedure(F_xw,w,uncertaintyModel,ops)
 
 % Select the constraints to analyse

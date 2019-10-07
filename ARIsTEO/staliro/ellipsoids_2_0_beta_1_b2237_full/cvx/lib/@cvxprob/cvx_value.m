@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function v = cvx_value( x )
 warning( 'CVX:IllegalUse', ...
     'CVX error: illegal use of a cvx problem object has been detected.\n   Please do not copy or manipulate the value of ''cvx_problem'' in any way.', 1 ); %#ok

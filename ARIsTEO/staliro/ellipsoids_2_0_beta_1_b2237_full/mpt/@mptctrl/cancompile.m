@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function yesno = cancompile(ctrl)
 %CANCOMPILE Returns true if a given controller can be compiled
 %

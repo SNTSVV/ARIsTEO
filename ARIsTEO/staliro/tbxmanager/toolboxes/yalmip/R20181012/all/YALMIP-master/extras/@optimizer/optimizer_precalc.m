@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sys = optimizer_precalc(sys)
 
 sys.model.precalc.newmonomtable = sys.model.monomtable;

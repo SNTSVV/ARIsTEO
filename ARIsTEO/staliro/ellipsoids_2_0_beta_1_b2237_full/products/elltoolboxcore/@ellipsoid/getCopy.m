@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function copyEllArr = getCopy(ellArr)
 % GETCOPY - gives array the same size as ellArr with copies of elements of 
 %           ellArr.

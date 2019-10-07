@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F_xw,F_polya] = filter_polya(F_xw,w,N)
 
 F_polya = [];

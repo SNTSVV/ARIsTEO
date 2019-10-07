@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [dQ,feasible,drho,runtime]=mpt_getPWPLyapFct(ctrl,ndeg,Options)
 %MPT_GETPWPLYAPFCT Calculates Piecewise Polynomial (sum of squares) Lyapunov function
 %

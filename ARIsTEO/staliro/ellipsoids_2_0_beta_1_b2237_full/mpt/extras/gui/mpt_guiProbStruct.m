@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiProbStruct(varargin)
 % MPT_GUIPROBSTRUCT M-file for mpt_guiProbStruct.fig
 %      MPT_GUIPROBSTRUCT, by itself, creates adyn new MPT_GUIPROBSTRUCT or raises the existing

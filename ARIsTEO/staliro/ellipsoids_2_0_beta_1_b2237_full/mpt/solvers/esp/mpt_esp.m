@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function pP = mpt_esp(P,ax)
 %
 % pP = mpt_esp(P,ax)

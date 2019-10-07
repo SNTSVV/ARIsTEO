@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resArr = matdot(inpArr1, inpArr2)
 % MATDOT calculates the dot product of two square matrices, which have
 % the same size.

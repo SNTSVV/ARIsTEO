@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPosArr = doesContain(firstEllArr, secondObjArr,varargin)
 % DOESCONTAIN - checks if one ellipsoid contains the other ellipsoid or
 %               polytope. The condition for E1 = firstEllArr to contain

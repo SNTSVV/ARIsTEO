@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                              y = qreshape(x,flag, K)
 % QRESHAPE  Reshuffles entries associated with Lorentz blocks.
 %   If flag = 0 then y = [x1 for each block; x2 for each block]

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [dimArr, rankArr] = dimension(myEllArr)
 %
 % DIMENSION - returns the dimension of the space in which the ellipsoid is  

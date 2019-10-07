@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function old_default = set_matlab_bgl_default(varargin)
 % SET_MATLAB_BGL_DEFAULT Sets a default option for the Matlab BGL interface
 %

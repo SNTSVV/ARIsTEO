@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [properties,F,arguments,fcn]=model(X,method,options,extstruct)
 %MODEL  Extracts nonlinear operator models
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [C,firstPos,index,skipped] = stableunique(varargin)
 
 % Implements unique(a,'rows','stable') for a vector

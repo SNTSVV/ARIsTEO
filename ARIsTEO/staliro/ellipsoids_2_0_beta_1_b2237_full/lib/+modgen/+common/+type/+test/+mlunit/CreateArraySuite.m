@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef CreateArraySuite < modgen.common.type.test.mlunit.ArrayTestPropForSuite
     methods
         function self = CreateArraySuite(varargin)

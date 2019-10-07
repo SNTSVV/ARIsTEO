@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [E,x0]=mpt_getInnerEllipsoid(Pset,x0,E,Options)
 %MPT_GETINNERELLIPSOID Computes the largest ellipsoid inscribed in a polytope
 %

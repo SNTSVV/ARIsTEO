@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %            [Lden, Ld] = deninfac(symLden, L,dense,DAt, d, absd, qblkstart,pars)
 % DENINFAC
 % Uses pars.maxuden as max. allowable |L(i,k)|. Otherwise num. reordering.

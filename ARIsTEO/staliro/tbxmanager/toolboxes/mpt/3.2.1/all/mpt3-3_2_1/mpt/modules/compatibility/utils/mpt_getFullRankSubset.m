@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Gret, keptrows]=mpt_getFullRankSubset(Gt,AllSubsets)
 %MPT_GETFULLRANKSUBSET Removes rows from matrix Gt until it has full row rank
 %

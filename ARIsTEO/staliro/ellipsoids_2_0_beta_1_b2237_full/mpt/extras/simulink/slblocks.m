@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function blkStruct = slblocks
 %SLBLOCKS Defines the block library for a specific Toolbox or Blockset.
 

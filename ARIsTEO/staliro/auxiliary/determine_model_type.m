@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % determine_model_type : Determines what type of input system model is being used. 
 % It errors out if not a supported type is used - thus it can also be used 
 % to simply check if a valid type (regardless of which one) is being used 

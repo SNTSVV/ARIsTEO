@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % INPUTS:
 %   HA - hybrid automaton as defined in hasimulate
 %   hh - a trajectory of the hybrid automaton

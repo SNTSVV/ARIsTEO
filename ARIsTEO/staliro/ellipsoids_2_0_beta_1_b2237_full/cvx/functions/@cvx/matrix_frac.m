@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = matrix_frac( x,Y )
 
 %MATRIX_FRAC   Internal cvx version.

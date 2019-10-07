@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                 [dx,dy,dz,dy0, err] = sddir(L,Lden,Lsd,p,...
 %                                     d,v,vfrm,At,DAt,dense, R,K,y,y0,b, pars)
 % SDDIR  Direction decomposition for Ye-Todd-Mizuno self-dual embedding.

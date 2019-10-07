@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = sumabsk(varargin)
 % SUMABSK  Returns sum of k largest (by magnitude) (eigen-)values.
 %

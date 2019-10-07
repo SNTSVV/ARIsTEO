@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figure 8.8: Simplest linear discrimination
 % Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf - 10/16/05

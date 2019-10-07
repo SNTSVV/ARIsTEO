@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef ConfRepoManagerUpd<modgen.configuration.ConfRepoManager
     % CONFREPOMANAGERUPD is a simplistic extension of
     % ConfRepoManager that updates configuration upon selection

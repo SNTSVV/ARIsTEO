@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = yalmip2sdpt3(interfacedata)
 [blk,A,C,b,oldKs]=sedumi2sdpt3(interfacedata.F_struc(:,1),-interfacedata.F_struc(:,2:end),-interfacedata.c,interfacedata.K,interfacedata.options.sdpt3.smallblkdim);
 interfacedata.options.sdpt3.printyes=double(interfacedata.options.verbose);

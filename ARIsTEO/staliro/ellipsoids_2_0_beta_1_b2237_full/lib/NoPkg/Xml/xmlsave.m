@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function xmlsave( file, S, varargin)
 % XMLSAVE saves structure or variable(s) to a file using XML format
 %

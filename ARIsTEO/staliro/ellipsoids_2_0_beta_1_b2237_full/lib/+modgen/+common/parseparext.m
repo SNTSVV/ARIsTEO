@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [reg,isRegSpecVec,varargout]=parseparext(args,propNameValMat,varargin)
 % PARSEPAREXT behaves in the same way as modgen.common.parseparams but
 % returns property values in a more convenient form

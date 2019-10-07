@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = compile_nonlinear_table(p)
 linears = find(p.variabletype == 0);
 nonlinears =  find(p.variabletype > 0);

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function exponent_m = monomialgeneration(exponent_p,csclasses)
 %MONOMIALGENERATION  Internal function to create candidate monomials in SOS programs
 

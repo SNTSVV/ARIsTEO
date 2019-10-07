@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isin, inwhich, closest] = isinside(P,x0,Options)
 %ISINSIDE Checks if a given point lies in the interior of a given polytope
 %

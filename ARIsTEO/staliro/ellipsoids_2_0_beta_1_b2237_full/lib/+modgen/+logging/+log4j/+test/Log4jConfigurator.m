@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef Log4jConfigurator<modgen.logging.log4j.Log4jConfigurator
     % LOG4JCONFIGURATOR implements the Log4jConfigurator abstract class
     %

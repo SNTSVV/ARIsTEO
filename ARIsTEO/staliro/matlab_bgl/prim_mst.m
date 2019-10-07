@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [varargout] = prim_mst(A,varargin)
 % PRIM_MST Compute a minimum spanning with Prims's algorithm.
 %

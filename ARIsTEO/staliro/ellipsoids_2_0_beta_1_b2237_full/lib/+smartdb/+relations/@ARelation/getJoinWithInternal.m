@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resRel=getJoinWithInternal(self,otherRel,keyFieldNameList,...
     varargin)
 % GETJOINWITHINTERNAL returns a resultjoin of given relation 

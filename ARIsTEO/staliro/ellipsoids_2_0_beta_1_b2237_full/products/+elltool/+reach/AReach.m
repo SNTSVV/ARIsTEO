@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef AReach < elltool.reach.IReach
     % $Authors: Kirill Mayantsev <kirill.mayantsev@gmail.com> $
     %               $Date: March-2013 $

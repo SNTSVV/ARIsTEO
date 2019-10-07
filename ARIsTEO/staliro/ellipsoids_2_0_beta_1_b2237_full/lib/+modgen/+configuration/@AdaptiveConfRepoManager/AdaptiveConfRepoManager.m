@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef AdaptiveConfRepoManager<modgen.configuration.ConfRepoManager
     % UDAPTIVECONFREPOMANAGER is an extension of the plain ConfRepoManager
     % that introduces a separation between template configurations and

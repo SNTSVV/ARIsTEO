@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [exponent_m,changed,no_lp_solved,keep] = newtonreduce(exponent_m,exponent_p,ops,interfacedata)
 % NEWTONREDUCE Removes monomials outside half Newton polytope
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef rcmap < Singleton
     % NAME
     % rcmap - encapsulates return codes and provides access methods to them.

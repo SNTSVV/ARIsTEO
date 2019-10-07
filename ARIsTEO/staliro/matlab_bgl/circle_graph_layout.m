@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function X = circle_graph_layout(G,radius)
 % CIRCLE_LAYOUT Layout the vertices of a graph on a circle
 % 

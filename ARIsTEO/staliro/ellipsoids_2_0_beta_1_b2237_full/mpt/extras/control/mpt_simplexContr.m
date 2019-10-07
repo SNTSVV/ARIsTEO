@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ctrlStruct,vol]=mpt_simplexContr(sysStruct,probStruct,Options)
 %MPT_SIMPLEXCONTR Computes a piecewise affine feedback law defined over simplices
 %

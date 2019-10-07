@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Floor planning with an optimal trade-off curve.
 % Boyd, Kim, Vandenberghe, and Hassibi, "A Tutorial on Geometric Programming"
 % Written for CVX by Almir Mutapcic 02/08/06

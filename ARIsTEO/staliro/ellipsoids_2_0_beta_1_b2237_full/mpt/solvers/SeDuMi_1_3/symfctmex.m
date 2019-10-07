@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % [L,perm,xsuper,split,tmpsiz] = symfctmex(X, perm, cachsz)
 %   Computes sparse symbolic factor L, updated permutation PERM,
 %   super-node partition XSUPER, and a splitting of supernodes

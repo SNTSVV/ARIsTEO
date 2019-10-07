@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isMember,indMember]=ismemberjoint(leftCell,rightCell,varargin)
 % ISMEMBERJOINT perform joint ismember operation for two cell arrays
 %

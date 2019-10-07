@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sys = complements(C1,C2)
 %COMPLEMENTS Defines complementary constraints
 %   

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function txt = char(var)
 %CHAR Gives a textual representation of an MPTVAR object
 

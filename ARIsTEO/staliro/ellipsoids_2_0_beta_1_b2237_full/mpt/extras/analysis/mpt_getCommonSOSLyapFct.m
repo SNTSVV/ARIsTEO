@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [solution]=mpt_getCommonSOSLyapFct(ctrl,ndeg,Options)
 %MPT_GETCOMMONSOSLYAPFCT Calculates Common SOS Lyapunov function for system with additive disturbance 
 %

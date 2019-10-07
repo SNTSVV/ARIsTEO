@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sep = separate(P, S)
 % SEPARATE Compute a separating hyperplane between this set and the
 %          given set S or point x.

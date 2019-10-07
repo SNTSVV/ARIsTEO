@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function solvers=mpt_detect_solvers
 % MPT_DETECT_SOLVERS Searches for solvers and test the functionality
 %

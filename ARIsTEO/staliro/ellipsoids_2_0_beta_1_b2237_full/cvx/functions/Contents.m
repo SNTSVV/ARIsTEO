@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % CVX: Additional functions added by CVX.
 %
 %   These functions have been provided to expand the variety of constraints

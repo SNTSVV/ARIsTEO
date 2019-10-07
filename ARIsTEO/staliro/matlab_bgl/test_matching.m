@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function max_card_match=test_matching(A,m,varargin)
 % TEST_MATCHING Tests if a matching is maximum cardinality
 %

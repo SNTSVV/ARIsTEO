@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function   [F,obj,options] = create_lrmodel(BlockedA,Blockedb,F_parametric,parobj,options,ParametricVariables)
 % Some special code for ther low-rank model in SDPLR
 % Experimental code, not official yet

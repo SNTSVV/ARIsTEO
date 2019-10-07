@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function v=edge_weight_vector(As,A,varargin)
 % EDGE_WEIGHT_VECTOR Returns input for the edge_weight option for a weighted
 % matrix

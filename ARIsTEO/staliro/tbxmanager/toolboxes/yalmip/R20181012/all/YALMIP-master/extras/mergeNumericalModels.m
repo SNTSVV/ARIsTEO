@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = mergeNumericalModels(p0,p1)
 
 if ~isempty(p1.F_struc)

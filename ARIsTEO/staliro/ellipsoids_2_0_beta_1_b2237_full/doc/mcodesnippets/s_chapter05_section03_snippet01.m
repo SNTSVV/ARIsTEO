@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 nPoints=5;
 calcPrecision=0.001;
 approxSchemaDescr=char.empty(1,0);

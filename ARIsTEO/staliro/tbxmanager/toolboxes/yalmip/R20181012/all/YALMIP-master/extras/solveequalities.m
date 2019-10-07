@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [x_equ,H,A_equ,b_equ,factors] = solveequalities(F_struc,K,unitary)
 %SOLVEEQUALITIES Internal function remove equality constraints
 

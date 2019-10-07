@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [D,P] = all_shortest_paths(A,varargin)
 % all_shortest_paths Compute the weighted all pairs shortest path problem.
 %

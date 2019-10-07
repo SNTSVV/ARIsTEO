@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function checkDoesContainArgs(fstEllArr,secObjArr)
 % CHECKDOESCONTAINARGS -- private function, used by doesContain and
 %    doesIntersectionContain to check their arguments.

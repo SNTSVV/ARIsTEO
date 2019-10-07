@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                [lab,q] = psdeig(x,K)
 % PSDEIG  Computes spectral coefficients of x w.r.t. K
 %   Arguments "q" is optional - without it's considerably faster.

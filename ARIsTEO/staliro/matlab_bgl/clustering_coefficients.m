@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ccfs = clustering_coefficients(A,varargin)
 % CLUSTERING_COEFFICIENTS Compute the clustering coefficients for vertices.
 %

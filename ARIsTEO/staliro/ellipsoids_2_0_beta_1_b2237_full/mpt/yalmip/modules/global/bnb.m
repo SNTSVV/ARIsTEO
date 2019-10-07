@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function output = bnb(p)
 %BNB          General branch-and-bound scheme for conic programs
 %

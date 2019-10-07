@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function opt=validate_solvernames(opt)
 %% validate solvernames
 % if "solver" is empty, take the first from the group, otherwise check if

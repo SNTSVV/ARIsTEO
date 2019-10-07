@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [orthBasMat rankVal]=findBasRank(qMat,absTol)
 % FINDBASrankVal - find basis of space that is linear hull of
 %                  input vector and find rankVal of that linear hull

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function xi = cvx_invert_structure( x, compact ) %#ok
 
 %CVX_INVERT_STRUCTURE Compute a right-inverse of a structure mapping.

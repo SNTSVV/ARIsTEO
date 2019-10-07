@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_save_prefs( in_setup )
 
 %CVX_SAVE_PREFS   Saves current CVX settings for future MATLAB sessions.

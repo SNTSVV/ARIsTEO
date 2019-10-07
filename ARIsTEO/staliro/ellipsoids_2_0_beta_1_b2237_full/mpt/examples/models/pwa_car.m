@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %PWA_CAR 2nd order PWA model of a car moving on road with different slopes
 %
 % ---------------------------------------------------------------------------

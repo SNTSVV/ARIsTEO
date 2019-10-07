@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % CVX: Matrix structure definitions and utilities.
 %    CVX provides a keyword-based method for definiting matrices
 %    with one or more types of structure; e.g.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [R,keptrows,feasible]=domain(P,A,f,Q,horizon,Options)
 %DOMAIN Computes polytope that is mapped to an another polytope using affine map
 %

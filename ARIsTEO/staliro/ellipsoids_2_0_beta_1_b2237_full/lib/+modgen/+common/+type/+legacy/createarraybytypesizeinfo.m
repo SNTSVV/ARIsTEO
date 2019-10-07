@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function valueMat=createarraybytypesizeinfo(STypeSizeInfoInp,varargin)
 % CREATEARRAYBYTYPESIZEINFO generates an array based on TYPESIZEINFO
 % structure

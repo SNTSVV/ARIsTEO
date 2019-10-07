@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Computing a sparse solution of a set of linear inequalities
 % Section 6.2, Boyd & Vandenberghe "Convex Optimization"
 % "Just relax: Convex programming methods for subset selection

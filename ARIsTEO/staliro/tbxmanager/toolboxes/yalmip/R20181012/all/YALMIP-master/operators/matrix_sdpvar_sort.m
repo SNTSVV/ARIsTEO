@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [y,loc] = matrix_sdpvar_sort(varargin)
 
 % Called from sort to do matrix sorts using repeated vector sorts

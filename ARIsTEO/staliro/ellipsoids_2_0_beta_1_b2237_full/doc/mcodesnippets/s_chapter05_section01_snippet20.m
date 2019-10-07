@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % ellipsoidal approximations for (firstEllObj + secEllObj - thirdEllObj)
 bufEllVec = [firstEllObj secEllObj];
 externalEllVec = bufEllVec.minkpm_ea(thirdEllObj, dirsMat)  % external

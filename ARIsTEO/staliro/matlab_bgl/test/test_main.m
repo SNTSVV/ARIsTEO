@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function test_main
 %% Implement a test suite for matlab_bgl
 % Call this function to test the MatlabBGL package.

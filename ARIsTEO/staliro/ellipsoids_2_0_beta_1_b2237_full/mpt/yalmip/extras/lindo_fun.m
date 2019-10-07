@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [f,err] = fmincon_funn(cbData,nRow,x,njdiff,dXjbase,reserved,inParam)
 
 persistent params hash xevaled oldh F

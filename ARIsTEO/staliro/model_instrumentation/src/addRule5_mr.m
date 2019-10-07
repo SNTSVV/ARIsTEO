@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ A, b ] = addRule5_mr( info )
 %addRule5_mr : Preemption constraint 1. Blocks must either finish before
 %future firing time when there is a higher priority task in next firing

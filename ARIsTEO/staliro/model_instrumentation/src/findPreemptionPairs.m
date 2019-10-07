@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ preemptionGraph ] = findPreemptionPairs( infoIn )
 %findPreemptionPairs Find block to sample time pairs where block can be
 %preempted by task of a sample rate.

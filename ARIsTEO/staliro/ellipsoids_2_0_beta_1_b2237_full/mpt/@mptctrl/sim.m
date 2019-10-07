@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [X,U,Y,cost,feasible]=sim(ctrl, arg2, arg3, arg4, arg5)
 %SIM Simulates a given controller
 %

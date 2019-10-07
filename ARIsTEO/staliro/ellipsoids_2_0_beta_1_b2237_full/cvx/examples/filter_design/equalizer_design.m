@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Equalizer design example
 % "Filter design" lecture notes (EE364) by S. Boyd
 % (figures are generated)

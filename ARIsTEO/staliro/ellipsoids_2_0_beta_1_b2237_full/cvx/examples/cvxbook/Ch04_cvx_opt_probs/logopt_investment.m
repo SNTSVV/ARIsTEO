@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Exercise 4.60: Log-optimal investment strategy
 % Boyd & Vandenberghe "Convex Optimization" 
 % Joëlle Skaf - 04/24/08 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function disp( prob, prefix )
 
 if nargin < 2, prefix = ''; end

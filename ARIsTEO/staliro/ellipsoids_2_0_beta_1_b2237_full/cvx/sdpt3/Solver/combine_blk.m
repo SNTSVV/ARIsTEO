@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*******************************************************************
 %% combine_blk: combine small SDP blocks together, 
 %%              combine all SOCP blocks together, etc

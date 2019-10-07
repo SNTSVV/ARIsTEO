@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function C = vertcat(varargin)
 %VERTCAT Concatenation of MPTCTRL objects
 %

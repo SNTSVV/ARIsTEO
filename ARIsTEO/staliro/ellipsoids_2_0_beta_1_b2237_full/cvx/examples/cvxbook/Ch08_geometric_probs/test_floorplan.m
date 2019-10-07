@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Example 8.7: Floorplan generation test script
 % Section 8.8.1/2, Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf 12/04/05

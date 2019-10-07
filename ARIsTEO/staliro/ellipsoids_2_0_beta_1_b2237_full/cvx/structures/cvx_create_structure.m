@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function S = cvx_create_structure( sz, varargin )
 %CVX_CREATE_STRUCTURE Construct a basis for a matrix structure.
 error( nargchk( 1, Inf, nargin ) ); %#ok

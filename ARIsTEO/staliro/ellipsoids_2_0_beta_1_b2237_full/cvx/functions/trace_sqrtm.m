@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function z = trace_sqrtm( Y )
 
 % TRACE_SQRTM   Trace of the square root of a PSD matrix.

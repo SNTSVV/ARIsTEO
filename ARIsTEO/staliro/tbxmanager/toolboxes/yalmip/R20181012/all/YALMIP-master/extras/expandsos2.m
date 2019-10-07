@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  [Fout,binary_variables] = expandsos2(F,binary_variables)
 sos2index = is(F,'sos2');
 if ~any(sos2index)

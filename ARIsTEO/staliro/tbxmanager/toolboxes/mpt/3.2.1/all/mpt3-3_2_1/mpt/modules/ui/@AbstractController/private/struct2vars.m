@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function v = struct2vars(s, v)
 % extracts sdpvar objects from all fields of a structure
 % "s" and concatenates them into a single column vector

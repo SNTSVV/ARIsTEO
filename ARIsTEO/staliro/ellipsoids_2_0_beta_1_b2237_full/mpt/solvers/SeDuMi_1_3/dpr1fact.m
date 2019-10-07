@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                               [Lden,L.d] = dpr1fact(x, d, Lsym, smult, maxu)
 % DPR1FACT  Factor d[iag] p[lus] r[ank] 1:
 %    [Lden,L.d] = dpr1fact(x, d, Lsym, smult, maxu)

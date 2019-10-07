@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function dxdt = ell_stm_ode(t, x, mydata, n, back,varargin)
 %
 % ELL_STM_ODE - ODE for state transition matrix.

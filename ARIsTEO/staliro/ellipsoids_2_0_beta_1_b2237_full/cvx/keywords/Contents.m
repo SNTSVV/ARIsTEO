@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % CVX: Keywords for declaring variables and objectives
 %   dual      - Declares one or more dual variables.
 %   epigraph  - Declares an epigraph variable.

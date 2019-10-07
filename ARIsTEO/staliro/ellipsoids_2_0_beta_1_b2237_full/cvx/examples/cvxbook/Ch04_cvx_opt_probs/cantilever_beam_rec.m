@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Section 4.5.4: Design of a cantilever beam: recursive formulation (GP)
 % Boyd & Vandenberghe "Convex Optimization"
 % (a figure is generated)

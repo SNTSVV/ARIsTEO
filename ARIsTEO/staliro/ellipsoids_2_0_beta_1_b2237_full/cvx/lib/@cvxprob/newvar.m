@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = newvar( prob, name, siz, str, geo )
 error( nargchk( 2, 5, nargin ) );
 

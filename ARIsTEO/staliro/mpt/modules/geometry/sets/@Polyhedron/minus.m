@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Pdiff = minus(P, S)
 % MINUS Compute the minkowski difference of S with this polyhedron.
 %

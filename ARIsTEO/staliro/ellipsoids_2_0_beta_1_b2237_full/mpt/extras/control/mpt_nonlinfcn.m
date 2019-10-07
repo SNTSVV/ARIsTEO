@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sys = mpt_nonlinfcn(flag, x, u, mode)
 % MPT_NONLINFCN Template function for (piecewise) nonlinear systems
 %

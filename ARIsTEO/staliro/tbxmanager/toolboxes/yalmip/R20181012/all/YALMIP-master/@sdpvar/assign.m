@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function assign(X,value,ls)
 %ASSIGN Assigns a numerical value to an sdpvar
 %

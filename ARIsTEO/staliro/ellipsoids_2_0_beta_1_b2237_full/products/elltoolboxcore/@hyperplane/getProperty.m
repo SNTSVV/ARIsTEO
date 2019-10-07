@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [propArr, propVal] = getProperty(hpArr,propName,fPropFun)
 % GETPROPERTY - gives array the same size as hpArr with values of
 %               propName properties for each hyperplane in hpArr.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function checkStructNameList(self,structNameList,isCorrectnessChecked)
 % CHECKSTRUCTNAMELIST checks that the field name list is consistent with
 % the list of the field names for the object in question

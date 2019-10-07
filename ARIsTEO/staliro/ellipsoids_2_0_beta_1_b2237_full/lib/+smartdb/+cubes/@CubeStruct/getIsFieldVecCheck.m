@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isThereVec,indLocVec]=getIsFieldVecCheck(self,fieldNameList)
 % GETISFIELDVECCHECK returns whether each field with given name
 % is in the field list of given object or not and the index

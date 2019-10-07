@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ bpMat, fMat] = ellbndr_3dmat(nPoints, cenVec, qMat,absTol)
 %
 % ELLBNDR_3DMAT - computes the boudary of 3D ellipsoid given its center

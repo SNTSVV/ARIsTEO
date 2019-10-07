@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout=getUniqueTuples(self,varargin)
 % GETUNIQUETUPLES - returns a relation containing the unique tuples from 
 %                   the original relation

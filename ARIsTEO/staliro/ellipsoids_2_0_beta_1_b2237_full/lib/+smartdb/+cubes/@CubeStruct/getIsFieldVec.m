@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isThereVec,indLocVec]=getIsFieldVec(self,fieldNameList)
 % GETISFIELDVEC returns whether each field with given name is
 % in the field list of given CubeStruct object or not and the index of

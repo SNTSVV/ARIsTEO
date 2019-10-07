@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %% Test Script for Class SingletonImpl
 % Step through and execute this script cell-by-cell to verify the Singleton
 % Desgin Pattern implementation in MATLAB. 

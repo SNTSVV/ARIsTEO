@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sortInd=getSortIndex(self,sortFieldNameList,varargin)
 % GETSORTINDEX - gets sort index for all tuples of given relation with
 %                respect to some of its fields

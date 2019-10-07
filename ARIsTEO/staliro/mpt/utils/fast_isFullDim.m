@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [status, ret] = fast_isFullDim(H, He)
 % returns true if {x | H*[x; -1]<=0} is fully dimensional
 

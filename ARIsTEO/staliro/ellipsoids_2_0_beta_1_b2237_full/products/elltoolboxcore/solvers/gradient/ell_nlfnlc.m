@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [X, FVAL] = ell_nlfnlc(objf, x0, nlcf, Options, varargin)
 %
 % ELL_NLFNLC - computes minimum of nonlinear function with 

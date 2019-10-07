@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function blks(p,Q_in,v_in)
 
 % Start by placing blocks in separate matrices

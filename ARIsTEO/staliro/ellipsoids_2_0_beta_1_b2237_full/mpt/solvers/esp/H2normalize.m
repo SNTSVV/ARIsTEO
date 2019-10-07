@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function H=H2normalize(H,rem)
 %
 % nH = Hnormalize(H,rem)

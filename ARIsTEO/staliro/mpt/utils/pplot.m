@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function h = pplot(V,varargin)
 % PPLOT(V) Plot the matrix V which contains points rowwise
 %

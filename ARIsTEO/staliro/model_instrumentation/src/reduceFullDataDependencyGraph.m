@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info ] = reduceFullDataDependencyGraph( infoIn )
 %reduceFullDataDependencyGraph Discard the ports except the ones for main
 %blocks.

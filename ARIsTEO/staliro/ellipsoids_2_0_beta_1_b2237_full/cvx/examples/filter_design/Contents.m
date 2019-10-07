@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Filter design
 % <a href="http://stanford.edu/~boyd/papers/magdes.html">FIR Filter Design via Spectral Factorization and Convex Optimization</a>
 % <a href="http://stanford.edu/class/ee364">EE364</a> lecture, <a href="http://stanford.edu/class/ee364/lectures/filters.pdf">Filter design and equalization</a>

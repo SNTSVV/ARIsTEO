@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPositive=isUniqueKey(self,fieldNameList)
 % ISUNIQUEKEY - checks if a specified set of fields forms a unique key
 % 

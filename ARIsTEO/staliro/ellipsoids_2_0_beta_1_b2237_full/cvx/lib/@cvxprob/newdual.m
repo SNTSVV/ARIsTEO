@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function z = newdual( prob, name, reps )
 error( nargchk( 2, 3, nargin ) );
 

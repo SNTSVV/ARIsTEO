@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 crsObjVec = [];
 for iInd = 1:size(indNonEmptyVec, 2)
     curTimeLimVec=[indNonEmptyVec(iInd)-1 nSteps];

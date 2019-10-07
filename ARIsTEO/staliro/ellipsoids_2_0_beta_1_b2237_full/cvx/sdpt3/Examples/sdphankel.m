@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%***************************************************
 %% min sum_k bk*yk
 %% s.t. sum yk*Hk  <= 0  

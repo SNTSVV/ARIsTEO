@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function relDataObj=fromStructList(className,structList)
 % FROMSTRUCTLIST - creates a dynamic relation from a list of structures 
 %                  interpreting each structure as the data for

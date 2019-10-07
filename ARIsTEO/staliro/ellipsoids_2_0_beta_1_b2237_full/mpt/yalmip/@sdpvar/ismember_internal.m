@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function YESNO = ismember_internal(x,p)
 %ISMEMBER_INTERNAL Helper for ISMEMBER
 

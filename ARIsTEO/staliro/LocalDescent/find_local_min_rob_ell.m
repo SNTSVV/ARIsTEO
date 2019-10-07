@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outargv = find_local_min_rob_ell(argv)
 % Find a local minimum of obj fnt within a robustness ellipsoid.
 %

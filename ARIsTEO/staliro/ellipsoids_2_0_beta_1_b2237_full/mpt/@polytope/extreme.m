@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [V,R,P,adjV,adjf] = extreme(P,Options)
 %EXTREME Calculates extreme points of a given polytope
 %

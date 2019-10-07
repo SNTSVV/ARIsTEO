@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function B = behavior(hs)
 % NAME
 %   behavior - get some behavior descriptors

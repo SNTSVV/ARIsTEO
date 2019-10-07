@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*********************************************************
 %% Atyfun: compute sum_{k=1}^m yk*Ak. 
 %%

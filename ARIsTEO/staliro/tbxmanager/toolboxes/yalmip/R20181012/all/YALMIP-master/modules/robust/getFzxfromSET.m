@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F0,Fz,Fx,Fxz] = getEF(F,z,x);
 
 F = sdpvar(F);

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sout = cvx_power_warning( flag )
 
 %CVX_POWER_WARNING   Controls the CVX warning message for x.^p expressions.

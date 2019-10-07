@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function pred=lengauer_tarjan_dominator_tree(A,u,varargin)
 % LENGAUER_TARJAN_DOMINATOR_TREE Compute a dominator tree for a graph.
 %

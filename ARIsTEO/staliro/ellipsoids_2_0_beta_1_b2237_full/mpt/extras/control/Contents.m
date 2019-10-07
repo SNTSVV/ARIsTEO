@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Multi-Parametric Toolbox Control routines
 %   mpt_control            - Main control routine. Computes explicit controller for a given problem
 %

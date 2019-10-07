@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function handle=mpt_plotU(ctrl,uind,Options)
 %MPT_PLOTU For a given explicit controller, plots value of the control action
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,x0,str,ts] = mpt_simInput_sfunc(t,x,u,flag,ctrl,Ts,infbreak)
 %MPT_SIMINPUT_SFUNC S-function to evaluate a control law
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outEll = ellunion_ea(inpEllArr)
 %
 % ELLUNION_EA - computes minimum volume ellipsoid that contains union

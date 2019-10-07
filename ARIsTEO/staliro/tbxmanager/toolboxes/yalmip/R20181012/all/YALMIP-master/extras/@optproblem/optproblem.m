@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sys = optproblem(Constraints,Objective,Options)
 %OPTPROBLEM  Container for optimization problem
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % find_all_matlab_fcn finds the number of embedded MATLAB function blocks  
 % in the Simulink model. The name of the Simulink model should be given as 
 % 'modelName' parameter. If the Simulink model does not have any embedded

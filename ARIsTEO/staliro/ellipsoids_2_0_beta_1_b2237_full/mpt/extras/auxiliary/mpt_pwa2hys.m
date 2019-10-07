@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_pwa2hys(sysStruct, fname)
 %MPT_PWA2HYS Converts a PWA system described in sysStruct into a HYSDEL model
 %

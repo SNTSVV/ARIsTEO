@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function valueList=processpropvalue(objSizeVec,value,fTypeCheckFunc)
 % PROCESSPROPVALUE is a helper function for assigning property values
 % especially when a set of values should be assigned to an

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 function [F,failure,cause,ALREADY_MODELLED] = expandmodel(F,h,options)
 % Author Johan Löfberg
 % $Id: expandmodel.m,v 1.93 2008-05-06 18:08:16 joloef Exp $

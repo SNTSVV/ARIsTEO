@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % This is a demo for using S-TALIRO with the Automatic Transimssion
 % Simulink Demo.
 %

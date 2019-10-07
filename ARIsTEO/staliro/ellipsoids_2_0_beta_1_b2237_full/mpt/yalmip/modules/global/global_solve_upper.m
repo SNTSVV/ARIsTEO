@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function output = global_solve_upper(p,p_original,x,options,uppersolver)
 
 % The bounds and relaxed solutions have been computed w.r.t to the relaxed

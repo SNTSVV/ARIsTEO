@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = polyval_trig( p, x )
 
 %POLYVAL_TRIG Evaluate a trigonometric polynomial.

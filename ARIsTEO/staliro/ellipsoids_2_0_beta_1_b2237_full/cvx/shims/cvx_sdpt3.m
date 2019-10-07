@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function shim = cvx_sdpt3( shim )
 
 % CVX_SOLVER_SHIM	SDPT3 interface for CVX.

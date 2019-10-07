@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef mock_test_failed_set_up < mlunit_test.mock_test
     % MOCK_TEST_FAILED_SET_UP is a mock test_case with a broken set_up used 
     %for the tests in test_test_case.

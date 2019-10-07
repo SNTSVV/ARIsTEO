@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function F = detset(t,P)
 %DETSET Internal function used in construction of MAXDET formulations
 %

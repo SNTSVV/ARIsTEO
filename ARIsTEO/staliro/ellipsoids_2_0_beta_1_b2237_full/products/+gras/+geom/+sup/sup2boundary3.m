@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function xBoundMat=sup2boundary3(dirMat,supVec,faceMat)
 % SUP2BOUNDARY3 approximates aMat boundary of 3d set using aMat support
 % function values defined for the directions from aMat triangulated unit

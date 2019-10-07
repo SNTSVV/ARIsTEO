@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_begin( varargin )
 
 %CVX_BEGIN    Starts a new CVX specification.

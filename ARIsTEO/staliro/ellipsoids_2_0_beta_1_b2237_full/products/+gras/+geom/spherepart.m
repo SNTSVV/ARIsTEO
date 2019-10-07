@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function rMat = spherepart(nPoints)
 % SPHEREPART builds a partition of unit sphere into a specified number of
 % points

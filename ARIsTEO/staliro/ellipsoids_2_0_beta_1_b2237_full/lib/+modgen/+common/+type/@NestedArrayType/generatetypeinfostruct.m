@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isUniform,STypeInfo]=generatetypeinfostruct(value)
 % GENERATETYPEINFOSTRUCT constructs a meta structure containing a
 % complete (recursive for cells)

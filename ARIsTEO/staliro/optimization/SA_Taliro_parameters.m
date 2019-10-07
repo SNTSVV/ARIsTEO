@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef SA_Taliro_parameters
 % Class definition for Simulated Annealing parameters with Monte-Carlo
 % Sampling

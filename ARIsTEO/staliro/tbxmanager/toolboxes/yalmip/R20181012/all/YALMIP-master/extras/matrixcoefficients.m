@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [base,v] = matrixcoefficients(p,x)
 %MATRIXCOEFFICIENTS Extends coefficients, beta
 

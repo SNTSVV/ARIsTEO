@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function rval = rtest_3_cojocaru()
 % The regression test for the bug reported by Radu Cojocaru on 9 November
 % 2006.  The error is getting erroneous edges in the minimum spanning tree.

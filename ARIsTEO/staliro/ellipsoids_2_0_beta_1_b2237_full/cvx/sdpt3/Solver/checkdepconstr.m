@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*****************************************************************************
 %% checkdepconst: compute AAt to determine if the 
 %%             constraint matrices Ak are linearly independent. 

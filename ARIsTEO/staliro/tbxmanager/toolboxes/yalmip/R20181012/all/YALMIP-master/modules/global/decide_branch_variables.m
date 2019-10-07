@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function vars = decide_branch_variables(p)
 
 if size(p.bilinears,1)==0

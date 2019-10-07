@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function simplex_model = find_simplex_models(p);
 
 for i = 1:length(p)

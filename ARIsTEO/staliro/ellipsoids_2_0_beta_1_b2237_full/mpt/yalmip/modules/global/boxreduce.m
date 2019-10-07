@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [p,feasible] = boxreduce(p,upper,lower,lpsolver,options,xmin);
 
 if options.bmibnb.lpreduce

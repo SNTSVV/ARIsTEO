@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [lyapP,decay,feasible,details]=mpt_getQuadLyapFct(ctrl,Options)
 %MPT_GETQUADLYAPFCT Computes common Lyapunov function for PWA system
 %

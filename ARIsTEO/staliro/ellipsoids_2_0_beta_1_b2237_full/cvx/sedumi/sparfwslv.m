@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % SPARFWSLV Solves block sparse upper-triangular system.
 %    y = sparfwslv(L,b) yields the same result as
 %              y = L.L\b(L.perm,:)

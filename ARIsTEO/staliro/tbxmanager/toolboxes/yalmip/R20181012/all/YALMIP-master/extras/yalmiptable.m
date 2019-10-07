@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function yalmiptable(superheader,header,data,formats,post)
 %TABLE Internal function to display tables
 

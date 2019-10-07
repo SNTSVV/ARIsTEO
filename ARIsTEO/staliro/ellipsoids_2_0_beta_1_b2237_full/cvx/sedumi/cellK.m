@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                          xcell = cellK(x,K)
 % CELLK  Stores SeDuMi cone K-vector in cell-array format.
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef NNDefMatCholMultCubicSpline<gras.interp.PosDefMatCholCubicSpline
     % $Author: Peter Gagarinov  <pgagarinov@gmail.com> $	$Date: 2011-10$
     % $Copyright: Moscow State University,

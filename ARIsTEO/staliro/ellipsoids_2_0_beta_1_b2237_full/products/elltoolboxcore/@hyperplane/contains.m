@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPosArr = contains(myHypArr, xArr)
 %
 % CONTAINS - checks if given vectors belong to the hyperplanes.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function facets = elltubediscrtri(nDim, mDim)
 % elltubediscrtri - generates triangular facets to be used
 %                    in PATCH function call.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*********************************************************************
 %% gpcomp: Compute tp=1/gp in Proposition 2 of the paper: 
 %% 

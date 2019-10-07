@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 v=ver('Matlab'); 
 if(isequal(v.Release,'(R2017a)'))
 

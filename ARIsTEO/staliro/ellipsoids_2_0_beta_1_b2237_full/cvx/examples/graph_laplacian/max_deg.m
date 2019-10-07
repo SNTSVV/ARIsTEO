@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [w,rho] = max_deg(A)
 
 % Computes the maximum-degree heuristic edge weights

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = prod_inv( x, dim, p )
 
 %DET_INV   Internal cvx version.

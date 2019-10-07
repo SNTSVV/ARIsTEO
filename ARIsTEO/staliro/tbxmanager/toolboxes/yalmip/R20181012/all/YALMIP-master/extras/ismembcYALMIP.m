@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function members=ismembcYALMIP(a,b)
 
 % ismembc is fast, but does not exist in octave

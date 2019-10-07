@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Multi-Parametric Toolbox Demos
 %
 %   mpt_demo1     - Explains basic manipulation with polytopes

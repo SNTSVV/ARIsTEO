@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %MPT_DEMO6 Illustrates implementation and visualization of the control law
 %
 % ---------------------------------------------------------------------------

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function throwwarn(msgTag,varargin)
 % THROWWARN works similarly to built-in WARNING function in case 
 % when there is no output arguments but simpler to use

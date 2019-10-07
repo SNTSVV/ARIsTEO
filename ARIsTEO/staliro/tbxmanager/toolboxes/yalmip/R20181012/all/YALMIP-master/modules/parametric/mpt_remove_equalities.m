@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  Matrices = mpt_remove_equalities(Matrices,remove);
 m  = size(Matrices.G,1);
 nu = Matrices.nu;

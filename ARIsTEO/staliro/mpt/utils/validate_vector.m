@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function msg = validate_vector(x, nx, label)
 % Validates that "x" is an (nx x 1) vector
 %

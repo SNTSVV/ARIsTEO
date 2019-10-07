@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isPos,reportStr]=istriequal(v1Mat,f1Mat,v2Mat,f2Mat,maxTol)
 % ISTRIEQUAL checks if the matrices specify the same triangulation
 % (permunations of edge orders directions, vertices in faces do not count)

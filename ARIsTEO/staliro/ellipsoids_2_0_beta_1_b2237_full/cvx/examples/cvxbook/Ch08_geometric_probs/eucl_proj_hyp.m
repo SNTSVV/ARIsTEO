@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Euclidean projection on a hyperplane
 % Section 8.1.1, Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf - 10/04/05

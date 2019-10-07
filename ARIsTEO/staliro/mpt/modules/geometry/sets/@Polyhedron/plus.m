@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function PpS = plus(P,S, method)
 % PLUS Compute the minkowski sum of S with this polyhedron.
 %

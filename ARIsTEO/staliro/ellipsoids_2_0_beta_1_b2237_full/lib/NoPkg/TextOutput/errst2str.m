@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function str=errst2str(S,varargin)
 % ERRST2STR converts error structure to string
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  mpt_patch2eps(name)
 % Exporting 3-dimensional transparent patches to eps for use in LaTeX
 % for the current figure

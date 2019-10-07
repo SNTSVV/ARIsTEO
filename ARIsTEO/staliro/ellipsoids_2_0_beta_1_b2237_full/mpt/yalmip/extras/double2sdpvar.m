@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 function sys = double2sdpvar(varargin)
 
 % Author Johan Löfberg

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [objects, options] = parsePlotOptions(main_class, varargin)
 % Parses options for MPT3's plotting functions
 %

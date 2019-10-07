@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [p,lower,upper] = find_simple_variable_bounds(p);
 % This internal function extracts variable bounds for variables that only
 % have upper and lower bounds, and are not involved in any other

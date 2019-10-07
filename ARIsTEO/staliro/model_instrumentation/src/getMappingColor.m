@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ colorRGB, colorAsStr ] = getMappingColor( core )
 %getMappingColor Returns color to illustrate the core mapping
 %colorRGB in RGB values, colorAsStr as string like 'red'

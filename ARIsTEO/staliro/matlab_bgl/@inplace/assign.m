@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ipa = assign(ipa,y,varargin)
 % INPLACE/ASSIGN Assign an entire inplace array.
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sampValue,sampProb] = sampleFromDistribution(distrib,lo,hi,n)
   sampProb = 1.0;
   r0 = rand(1);

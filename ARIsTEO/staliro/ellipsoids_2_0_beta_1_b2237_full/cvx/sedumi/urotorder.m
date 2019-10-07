@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                         [u,perm,gjc,g] = urotorder(u,K, maxu,permIN)
 % UROTORDER  Stable reORDERing of triu U-factor by Givens ROTations.
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isMemberVec,indMemberVec]=ismemberrows(inpMat1,inpMat2,isInteger,forceMode)
 % ISMEMBERROWS finds indices of rows first matrix in the second matrix,
 % i.e. it is the more effective version of ISMEMBER(...,'rows')

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                 y = triumtriu(r,u,K)
 % TRIUMTRIU  Computes y = r * u
 %   Both r and u should be upper triangular.

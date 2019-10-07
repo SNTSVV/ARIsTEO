@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef staliro_blackbox
 % Class definition for S-Taliro Blackbox models. This is a class for 
 % defining models for which the user is responsible for simulating. 

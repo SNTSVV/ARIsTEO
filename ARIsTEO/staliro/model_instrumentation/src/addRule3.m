@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ A, b ] = addRule3( info )
 %addRule3 : If there is a dependency from i to j execution of j cannot
 %start before execution of i finishes, transmission from output of i to its

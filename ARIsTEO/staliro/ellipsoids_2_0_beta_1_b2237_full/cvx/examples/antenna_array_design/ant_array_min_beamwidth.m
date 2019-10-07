@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Minimize beamwidth of an array with arbitrary 2-D geometry
 % "Convex optimization examples" lecture notes (EE364) by S. Boyd
 % "Antenna array pattern synthesis via convex optimization"

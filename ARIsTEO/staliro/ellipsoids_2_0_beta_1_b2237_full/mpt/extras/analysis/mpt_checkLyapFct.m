@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [islyapfun,XC,decayrate] = mpt_checkLyapFct(varargin)
 %MPT_CHECKLYAPFCT Checks if a function is a Lyapunov function for a given ctrlStruct
 %

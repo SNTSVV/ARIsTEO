@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Pcut, sliced] = slice(PA,cut_dim,cut_value)
 %SLICE cuts a polytope (polytope array) at prespecified values
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [simpleCtrl,details] = mpt_simplify(ctrl, how, Options)
 %MPT_SIMPLIFY simplifies a given explicit controller by merging regions with identical control law
 %

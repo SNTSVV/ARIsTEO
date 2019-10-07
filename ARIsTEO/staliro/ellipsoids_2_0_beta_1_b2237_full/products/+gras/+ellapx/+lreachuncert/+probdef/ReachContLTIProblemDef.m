@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef ReachContLTIProblemDef<gras.ellapx.lreachuncert.probdef.AReachContProblemDef
     methods(Static,Access=protected)
         function isOk=isPartialCompatible(aCMat,bCMat,pCMat,pCVec,cCMat,...

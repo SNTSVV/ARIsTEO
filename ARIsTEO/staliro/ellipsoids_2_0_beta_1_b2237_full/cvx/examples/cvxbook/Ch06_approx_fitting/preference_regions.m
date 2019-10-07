@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Example 6.9: Bounding consumer preference
 % Section 6.5.5, Figures 6.25-6.26
 % Boyd & Vandenberghe "Convex Optimization"

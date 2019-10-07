@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef DataLogger<modgen.common.obj.StaticPropStorage
     % DATALOGGER allows to log performance of functions and also save
     % contents of their local variables into MAT-files

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ ellResVec] = minkSumEa( ellObjVec, dirMat )
 % MINKSUMEA - computes tight external ellipsoidal approximation for
 %             Minkowsky sum of the set of generalized ellipsoids

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
  function  [input,robustness]=falsify(abstractedmodel,init_cond, input_range, cp_array, phi, preds, TotSimTime, opt)
     global m
     

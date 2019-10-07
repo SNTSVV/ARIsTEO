@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function err=dimacserrors(At,b,c,K,x,y)
 %Compute the DIMACS error measures for a given solution in SeDuMi format
 %Reload the original coefficients

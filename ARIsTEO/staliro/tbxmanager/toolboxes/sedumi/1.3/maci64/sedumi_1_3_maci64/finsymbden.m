@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                   Lden = finsymbden(LAD,perm,dz,firstq)
 % FINSYMBDEN  Updates perm and dz by inserting the
 %  last Lorentz trace columns (last columns of LAD). It creates the fields

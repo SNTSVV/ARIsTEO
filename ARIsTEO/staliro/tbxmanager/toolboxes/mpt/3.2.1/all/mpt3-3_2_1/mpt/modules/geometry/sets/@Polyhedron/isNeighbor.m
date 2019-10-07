@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ts, iP, iQ] = isNeighbor(P,Q,fP,fQ)
 %
 % test if regions P are Q neighbors along the given facets

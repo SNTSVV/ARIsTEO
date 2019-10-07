@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiSysStruct_export(varargin)
 % MPT_GUISYSSTRUCT_EXPORT M-file for mpt_guiSysStruct_export.fig
 %      MPT_GUISYSSTRUCT_EXPORT, by itself, creates a new MPT_GUISYSSTRUCT_EXPORT or raises the existing

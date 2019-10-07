@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [H, K, F, G, nc, nr, nx, nu, ny, nxt, nref, Ts, dumode, tracking, abstol] = mpt_getSfuncParam(ctrl)
 %MPT_GETSFUNCPARAM Prepares parameters for explicit controller S-function
 %

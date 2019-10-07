@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [yesno,diagnostic] = isfeasible(OptimizationProblem,Options)
 %FEASIBLE  Check feasibility by solving feasibility problem
 %

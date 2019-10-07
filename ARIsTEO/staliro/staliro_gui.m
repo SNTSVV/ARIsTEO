@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = staliro_gui(varargin)
 % STALIRO_GUI MATLAB code for staliro_gui.fig
 %      STALIRO_GUI, by itself, creates a new STALIRO_GUI or raises the existing

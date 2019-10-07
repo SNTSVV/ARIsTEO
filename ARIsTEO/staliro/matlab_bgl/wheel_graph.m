@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A xy] = wheel_graph(n) 
 % WHEEL_GRAPH Construct a wheel graph of order n
 %

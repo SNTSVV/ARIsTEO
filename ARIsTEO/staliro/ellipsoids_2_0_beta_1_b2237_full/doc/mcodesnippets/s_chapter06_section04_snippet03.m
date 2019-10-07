@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % some of the intersections are empty
 intersectEllVec = externalEllMat.hpintersection(grdHypObj);  
 % determine nonempty intersections

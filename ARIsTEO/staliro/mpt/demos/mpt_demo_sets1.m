@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function slide=mpt_demo_sets1
 %
 % construction and access of basic properties of polyhedra

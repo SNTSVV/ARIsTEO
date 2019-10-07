@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [results] = RGDA_Taliro(inpRanges,opt)
 
 % RGDA - Robustness Guided Parameter Falsification Domain Algorithm based on

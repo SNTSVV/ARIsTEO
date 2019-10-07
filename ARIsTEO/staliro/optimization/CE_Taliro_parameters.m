@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Class definition for Cross Entropy parameters 
 % 
 % ce_params = CE_Taliro_parameters

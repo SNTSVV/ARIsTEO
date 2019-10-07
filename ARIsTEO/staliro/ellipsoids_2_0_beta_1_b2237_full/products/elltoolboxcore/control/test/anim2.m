@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 import elltool.conf.Properties;
 
 A3 = [0 1; 0 0];

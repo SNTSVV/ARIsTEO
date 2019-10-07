@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function poly = toPolytope(varargin)
 % TOPOLYTOPE - for ellipsoid ell makes polytope object represanting the 
 %              boundary of ell

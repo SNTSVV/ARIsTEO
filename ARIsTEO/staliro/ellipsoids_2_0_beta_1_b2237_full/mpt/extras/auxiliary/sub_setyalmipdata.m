@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = sub_setyalmipdata(model,H,f,A,B,Aeq,Beq,lb,ub,vartype,x0)
 
 % Copyright is with the following author(s)

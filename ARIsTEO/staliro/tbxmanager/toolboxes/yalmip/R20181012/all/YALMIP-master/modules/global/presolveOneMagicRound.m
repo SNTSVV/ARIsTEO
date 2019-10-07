@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = presolveOneMagicRound(p);
 
 p = presolve_bounds_from_domains(p);

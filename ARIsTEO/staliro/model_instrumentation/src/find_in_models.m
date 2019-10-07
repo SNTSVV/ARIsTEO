@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function out = find_in_models(modelname,varargin)
 %FIND_IN_MODELS Search full block diagram hierarchy
 %  Wrapper for find_system which searches the full block diagram hierarchy,

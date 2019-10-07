@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [V,R]=lrsextreme(H,K,Options)
 
 if nargin<3,

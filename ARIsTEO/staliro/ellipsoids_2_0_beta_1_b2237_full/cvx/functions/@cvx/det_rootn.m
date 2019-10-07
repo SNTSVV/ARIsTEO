@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = det_rootn( X )
 
 %DET_ROOTN   Internal cvx version.

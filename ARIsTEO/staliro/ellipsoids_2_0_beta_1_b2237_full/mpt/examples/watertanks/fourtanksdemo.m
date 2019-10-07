@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 clear sysStruct probStruct
 
 % define parameters of the "four tanks" model

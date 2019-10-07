@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function InpSignal = ComputeInputSignals(stepTime,UPoint,interType,tmp_CP,inpBound,SimTimeInt,isVarTime)
 % ComputeInputSignals - Compute input signals given the parameters of the
 % search space and the simulation options set.

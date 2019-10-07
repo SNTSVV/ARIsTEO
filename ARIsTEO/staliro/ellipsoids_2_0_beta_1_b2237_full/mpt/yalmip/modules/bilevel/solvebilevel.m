@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sol,info] = solvebilevel(Cout,Oout,Cinn,Oinn,y,options)
 %SOLVEBILEVEL Simple global bilevel solver
 %

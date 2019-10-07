@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Section 7.1.1: Counting problems with Poisson distribution 
 % Boyd & Vandenberghe "Convex Optimization" 
 % Joëlle Skaf - 04/24/08 

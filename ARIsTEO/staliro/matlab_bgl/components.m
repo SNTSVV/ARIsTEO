@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ci sizes] = components(A,varargin)
 % COMPONENTS Compute the connected components of a graph.
 %

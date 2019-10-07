@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef NestedArrayTypeFactory<modgen.common.type.NestedArrayType
     methods (Access=private)
         function self=NestedArrayTypeFactory()

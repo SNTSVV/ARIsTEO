@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [tmap,Pn,ex,explus] = mpt_transmap(Pn, Acell, fcell, Options)
 %MPT_TRANSMAP Computes transition map
 %

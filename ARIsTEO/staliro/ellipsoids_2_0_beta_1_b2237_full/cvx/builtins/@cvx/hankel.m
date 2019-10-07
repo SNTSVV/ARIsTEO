@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function H = hankel(c,r)
 
 %Disciplined convex/geometric programming information for HANKEL:

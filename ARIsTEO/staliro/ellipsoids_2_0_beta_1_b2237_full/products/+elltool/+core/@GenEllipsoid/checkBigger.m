@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isBigger=checkBigger(ellObj1,ellObj2,nDimSpace,absTol)
 % CHECKBIGGER - check whether one generalized ellipsoid is inside the other
 % Input:

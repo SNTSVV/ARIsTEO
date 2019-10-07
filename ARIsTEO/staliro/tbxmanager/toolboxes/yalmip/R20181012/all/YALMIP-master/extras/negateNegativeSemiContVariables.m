@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [NegativeSemiVar,H,c,A,lb,ub,semicont_variables] = negateNegativeSemiContVariables(H,c,A,lb,ub,semicont_variables,Qi);
 
 NegativeSemiVar = [];

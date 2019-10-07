@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sys = pw_nonlin(flag, x, u, mode)
 % Example of an piecewise nonlinear model:
 %

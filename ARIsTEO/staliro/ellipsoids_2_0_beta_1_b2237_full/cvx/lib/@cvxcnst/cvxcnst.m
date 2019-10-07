@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function v = cvxcnst( p, rhs )
 v = class( struct( 'problem', p, 'rhs', rhs ), 'cvxcnst' );
 

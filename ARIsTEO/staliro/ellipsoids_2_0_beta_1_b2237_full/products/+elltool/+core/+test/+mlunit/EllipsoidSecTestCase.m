@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef EllipsoidSecTestCase < mlunitext.test_case
 %$Author: Igor Samokhin <igorian.vmk@gmail.com> $
 %$Date: 2012-11-02 $

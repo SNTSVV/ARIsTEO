@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [cost, ind, cur_par, rob, sigData, YT] = Compute_Robustness(input)
 % Compute_Robustness - Calls Compute_Robustness_Right appropriately and
 % retrieves results depending on whether conformance testing, falsification

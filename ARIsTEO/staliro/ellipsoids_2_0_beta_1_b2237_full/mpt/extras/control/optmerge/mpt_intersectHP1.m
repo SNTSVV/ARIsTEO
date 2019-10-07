@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function m = mpt_intersectHP1(H, K, a, b, lpsolver, tol);
 % Tobias Geyer, 2003-2004
 % Does the hyperplane a*x=b intersect with the polyhedron H*x<=K?

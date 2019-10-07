@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Nbegcol,Nlencol,Nrowndx,Nobjcnt,Nobjndx,cJacobian] = jacSparsity(interfacedata)
 
 linear = setdiff(find(interfacedata.variabletype == 0),interfacedata.evalVariables);

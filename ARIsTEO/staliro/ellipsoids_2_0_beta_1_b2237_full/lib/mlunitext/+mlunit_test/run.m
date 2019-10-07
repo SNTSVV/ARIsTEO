@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function results = run()
 % RUN executes mlunit_all_tests with the text_test_runner.
 %

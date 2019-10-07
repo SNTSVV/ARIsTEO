@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [VariableType,F] = robust_classify_variables_newest(F,h,ops,w);
 
 % Variables before expanding nonlinear operators

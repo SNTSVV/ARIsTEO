@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %% Planar graphs in MatlabBGL
 % In version 1.35.0, the Boost Graph Library added a large suite of planar
 % graph algorithms.

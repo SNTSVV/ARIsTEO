@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SInput = patch_007_make_space_list_a_vector(~,SInput)
 projSetListName=fieldnames(SInput.projectionProps.projSpaceSets);
 nFields=length(projSetListName);

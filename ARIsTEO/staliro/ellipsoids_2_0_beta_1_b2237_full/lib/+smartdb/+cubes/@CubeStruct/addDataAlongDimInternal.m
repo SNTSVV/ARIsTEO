@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function addDataAlongDimInternal(self,catDimension,varargin)
 % ADDDATAALONGDIMINTERNAL - adds a set of field values to existing data 
 %                           using a concatenation along a specified    

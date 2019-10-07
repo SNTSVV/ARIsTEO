@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Plot a polar plot of an antenna array sensitivity
 % with lines denoting the target direction and beamwidth.
 % This is a helper function used in the broadband antenna examples.

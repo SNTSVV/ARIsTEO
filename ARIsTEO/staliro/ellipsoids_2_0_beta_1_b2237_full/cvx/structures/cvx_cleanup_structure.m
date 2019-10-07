@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function xi = cvx_cleanup_structure( xi )
 
 %CVX_CLEANUP_STRUCTURE   Canonicalizes a matrix structure basis.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ResStruct=pathfilterstruct(InpStruct,path2KeepList)
 % PATHFILTERSTRUCT leaves in input structure array only specified paths
 % 

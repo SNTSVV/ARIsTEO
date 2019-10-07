@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [y,loc] = max_with_loc(varargin)
 
 % Called from max to handle case when user wants location index

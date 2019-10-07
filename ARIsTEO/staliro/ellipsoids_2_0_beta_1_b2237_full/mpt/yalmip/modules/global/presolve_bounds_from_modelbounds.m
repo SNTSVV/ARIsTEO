@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = presolve_bounds_from_modelbounds(model);
 if ~isempty(model.F_struc)
     [L,U] = findulb(model.F_struc,model.K);

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ portexists,portnumber ] = checkifoutportexists(modelName, srcblk,srcprt )
 %UNTITLED2 Summary of this function goes here
 %   Detailed explanation goes here

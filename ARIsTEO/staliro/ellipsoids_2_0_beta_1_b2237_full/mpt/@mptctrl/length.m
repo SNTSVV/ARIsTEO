@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function nR = length(ctrl)
 %LENGTH Returns number of regions over which the explicit control law is defined
 %

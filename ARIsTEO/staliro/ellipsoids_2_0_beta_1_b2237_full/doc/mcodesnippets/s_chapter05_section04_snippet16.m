@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % reach set from time 10 to 14 with the same dynamics
 secRsObj = firstRsObj.evolve(14); 
 % reach set from time 10 to 12 with new dynamics

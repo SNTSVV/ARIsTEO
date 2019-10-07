@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function K = kuratowski_subgraph(A,varargin)
 % KURATOWSKI_SUBGRAPH Identify a Kuratowski subgraph 
 %

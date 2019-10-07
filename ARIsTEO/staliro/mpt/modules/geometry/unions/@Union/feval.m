@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [fval, feasible, idx, tie_value] = feval(obj, x, varargin)
 %
 % Synopsis:

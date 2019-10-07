@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % ***OBSOLETE*** GLPKMEX interface. Use glpk instead.
 %
 % [xmin,fmin,status,extra]=glpkmex(sense,c,a,b,ctype,lb,ub,vartype,param,lp,solver,save)

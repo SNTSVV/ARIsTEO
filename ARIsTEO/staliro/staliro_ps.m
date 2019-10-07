@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [results] ...
     = staliro_ps(model, init_cond, input_range, cp_array, phi, preds, time, opt, monotonicity)
 

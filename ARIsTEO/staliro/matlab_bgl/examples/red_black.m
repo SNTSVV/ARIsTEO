@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %% Red-Black Ordering with MatlabBGL
 % In this example, we will use the MatlabBGL library to compute the
 % red-black ordering of a matrix.  For certain matrices, the red-black

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function dag = test_dag(A,varargin)
 % TEST_DAG Tests if a graph is directed and acyclic
 %

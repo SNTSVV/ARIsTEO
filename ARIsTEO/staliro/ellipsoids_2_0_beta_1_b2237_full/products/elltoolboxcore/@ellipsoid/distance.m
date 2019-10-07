@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [distValArray, statusArray] = distance(ellObjArr, objArr, isFlagOn)
 %
 % DISTANCE - computes distance between the given ellipsoid (or array of 

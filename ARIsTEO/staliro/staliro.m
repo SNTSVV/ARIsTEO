@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % S-TaLiRo
 %		
 %  Systems' TemporAl LogIc RObustness : A toolbox to perform Temporal 

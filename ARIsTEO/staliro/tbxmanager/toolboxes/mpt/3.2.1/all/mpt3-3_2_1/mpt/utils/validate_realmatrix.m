@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y=validate_realmatrix(v)
 %
 % check if the argument is a real matrix, otherwise throw an error

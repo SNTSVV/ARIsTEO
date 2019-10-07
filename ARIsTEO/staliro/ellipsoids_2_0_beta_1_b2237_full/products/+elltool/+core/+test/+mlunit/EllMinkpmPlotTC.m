@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef EllMinkpmPlotTC < elltool.core.test.mlunit.EllMinkDTC
     
     %$Author: Ilya Lyubich <lubi4ig@gmail.com> $

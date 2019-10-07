@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ new_Model_Name ] = save_model_info( modelName )
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function lcp_test
 %
 %  LCP_TEST: Example script for LCP solver 

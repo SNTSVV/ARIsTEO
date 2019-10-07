@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function extApprEllVec = minkmp_ea(fstEll, secEll, sumEllArr, dirMat)
 %
 % MINKMP_EA - computation of external approximating ellipsoids

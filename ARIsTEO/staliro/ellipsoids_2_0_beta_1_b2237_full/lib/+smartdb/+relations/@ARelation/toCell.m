@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resCMat=toCell(self,varargin)
 % TOCELL - transforms values of all fields for all tuples into two
 %          dimensional cell array

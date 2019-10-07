@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ params,rob ] = paramBin(trajs,monotony,parRange,sz,parameter_list,parameter_index)
 %PARAMBIN function used to synthesize parameters given a set of
 %trajectories

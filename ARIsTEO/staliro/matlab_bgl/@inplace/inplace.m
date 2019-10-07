@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ip = inplace(a)
 % INPLACE Convert to a type that supports inplace modification
 % ipa = inplace(v) creates an inplace double object from any matrix v.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A, B, Aeq, Beq, ind_eq] = mpt_ineq2eq(A, B)
 %MPT_INEQ2EQ Detects inequality constraints whihc form equalities
 %

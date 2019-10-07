@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %        [xscl,y,zscl,y0, w,relt, dxmdz,err, wr] = wregion(L,Lden,Lsd,...
 %                             d,v,vfrm,A,DAt,dense, R,K,y,y0,b, pars, wr)
 % WREGION  Implements Sturm-Zhang Wide-region Interior Point Method.

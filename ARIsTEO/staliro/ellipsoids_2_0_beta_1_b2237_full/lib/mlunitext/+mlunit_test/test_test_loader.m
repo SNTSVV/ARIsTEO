@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef test_test_loader < mlunitext.test_case
     % TEST_TEST_LOADER tests the class test_loader.
     %

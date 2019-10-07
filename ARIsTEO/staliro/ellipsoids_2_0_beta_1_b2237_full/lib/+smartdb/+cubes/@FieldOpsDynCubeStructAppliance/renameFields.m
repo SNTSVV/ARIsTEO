@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function renameFields(self,fromFieldNameList,toFieldNameList,varargin)
 % RENAMEFIELDS renames names of fields for a given CubeStruct object
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % SimulateModel reproduces the input signals, state trajectory and output 
 % signals of a model given the initial conditions and input signal control 
 % points.

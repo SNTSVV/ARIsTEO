@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [T, X, Y, L, CLG, GRD] = blackbox_exec_identified_model(X0, EndTime, TimeStamps, InpSignals)
 %BLACKBOX_EXEC_IDENTIFIED_MODEL Summary of this function goes here
 %   Detailed explanation goes here

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function c = charToColor(s, color_map, index, colororder)
 %
 % convert color string to RGB vector using an optional color map

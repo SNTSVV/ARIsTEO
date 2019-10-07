@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = clean_bounds(p)
 close = 1e-10>abs(p.ub - round(p.ub));
 p.ub(close) = round(p.ub(close));

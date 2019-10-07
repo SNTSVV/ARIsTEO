@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Model generated from ex8_1_1.gms
 % Created 28-Jul-2007 19:11:42 using YALMIP R20070725
 

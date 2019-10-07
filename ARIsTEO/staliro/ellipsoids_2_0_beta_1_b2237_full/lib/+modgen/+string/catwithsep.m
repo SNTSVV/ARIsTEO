@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outStr = catwithsep(inpStrList,sepStr)
 % CATWITHSEP concatenates input cell array of strings inserting a specified
 % separator between the strings 

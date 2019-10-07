@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isOk,SValueTypeInfo]=checkvaluematchisnull(minDimensionality,isSpecified,value,isNull,isValueNull)
 % CHECKVALUEMATCHISNULL checks that the types and sizes of the value,isNull and
 % isValueNull matrices are consistent

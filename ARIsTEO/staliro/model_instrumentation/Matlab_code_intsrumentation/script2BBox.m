@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % script2BBox creates a new S-TaLiRo Black Box script that emulates the
 % internal decisions of the MATLAB embedded code. 
 % For more information about S-TaLiRo Black Box run:

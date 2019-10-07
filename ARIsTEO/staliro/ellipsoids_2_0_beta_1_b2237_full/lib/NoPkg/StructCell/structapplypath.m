@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function structB=structapplypath(structB,path,value)
 % STRUCTAPPLYPATH for given a path '.a.b.c.d.' and a value
 % and a structB, returns modified structB, so that

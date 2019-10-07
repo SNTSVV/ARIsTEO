@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef Singleton < handle
    %SINGLETON Abstract Class for Singleton OOP Design Pattern
    %  Intent:  Ensures a class only has one instance and provide a

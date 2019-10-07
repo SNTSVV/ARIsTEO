@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Matrices = yalmip2mpt(interfacedata)
 
 F_struc = interfacedata.F_struc;

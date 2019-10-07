@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function index = end(P, position, nindeces)
 %END Returns the last element in a given polytope array
 %

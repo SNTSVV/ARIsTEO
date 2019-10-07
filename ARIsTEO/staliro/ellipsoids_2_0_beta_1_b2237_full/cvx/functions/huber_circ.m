@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = huber_circ( x, DIM, varargin )
 
 %HUBER_CIRC   Huber penalty function with circular symmetry.

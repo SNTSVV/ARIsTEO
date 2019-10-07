@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = parametric(x)
 %PARAMETRIC Defines a variable as parametric
 %

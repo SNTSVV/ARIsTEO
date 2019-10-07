@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ dbCA, cones, dir, Q, P, dualized ] = eliminate( prob, destructive, can_dual )
 if nargin < 3, can_dual = nargout >= 6; end
 if nargin < 2, destructive = false; end

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function gamscontrol1
 
 A = [1 2;-3 0];B = [1;1];

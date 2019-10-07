@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [locHis,listOfCheckedLocations ,seenList,unseenList,results,history,falsified] ...
     = Structural_Coverage(model, init_cond, input_range, cp_array, phi, preds, time, opt)
 %FUNCTIONAL_COVERAGE Summary of this function goes here

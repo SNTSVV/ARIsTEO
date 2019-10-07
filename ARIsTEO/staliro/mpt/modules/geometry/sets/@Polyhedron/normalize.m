@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function obj = normalize(obj)
 % NORMALIZE Return normalized polyhedron such that each facet i 
 % a_i'*x<=b_i is scaled with ||a_i||_2 = 1.

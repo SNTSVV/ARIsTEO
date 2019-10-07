@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [C,D] = corrsparsity(exponent_p_monoms,options);
 
 if options.sos.csp

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [H,C,A,B,LB,UB,QC,VARTYPE,INDEQ,PARAM,OPTIONS] = cplex2yalmip(interfacedata)
 
 options = interfacedata.options;

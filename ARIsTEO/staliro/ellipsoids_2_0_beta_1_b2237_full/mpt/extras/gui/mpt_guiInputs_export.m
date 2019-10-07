@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiInputs_export(varargin)
 % MPT_GUIINPUTS_EXPORT M-file for mpt_guiInputs_export.fig
 %      MPT_GUIINPUTS_EXPORT, by itself, creates a new MPT_GUIINPUTS_EXPORT or raises the existing

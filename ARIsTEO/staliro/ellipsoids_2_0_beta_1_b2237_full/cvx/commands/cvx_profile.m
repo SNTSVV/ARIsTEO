@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sout = cvx_profile( flag )
 
 % CVX_PROFILE	CVX-specific profiler control.

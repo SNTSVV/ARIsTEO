@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                mineig = minpsdeig(x,K)
 % MINPSDEIG  Computes the smallest spectral coefficients of x w.r.t. K
 % Uses an iterative method if the matrix is large, takes the minimum of all

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function test_sos_peyrl
 
 sdpvar x1 x2 x3 x4;

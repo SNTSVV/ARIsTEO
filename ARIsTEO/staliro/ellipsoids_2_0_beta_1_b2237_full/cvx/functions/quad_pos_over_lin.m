@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function z = quad_pos_over_lin( x, y, dim )
 
 %QUAD_POS_OVER_LIN Sum of squares of positives over linear.

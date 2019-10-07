@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % S-Taliro script for the Heat Benchmark from the HSCC 04 paper by Fehnker & Ivancic
 v=ver('Matlab'); 
 if(isequal(v.Release,'(R2017a)'))

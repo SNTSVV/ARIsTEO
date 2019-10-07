@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 res=mfilename;
 dirName=fileparts(mfilename('fullpath'));
 SRes=load([dirName,filesep,'vaMetricTSObj.mat']);

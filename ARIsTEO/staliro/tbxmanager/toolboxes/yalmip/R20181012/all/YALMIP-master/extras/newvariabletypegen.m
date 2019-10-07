@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function newvariabletype = newvariabletypegen(newmt)
 newvariabletype = spalloc(size(newmt,1),1,0)';
 nonlinear = ~(sum(newmt,2)==1 & sum(newmt~=0,2)==1);

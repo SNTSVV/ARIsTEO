@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % piecewise_const - Generates a piecewise constant signal.
 % Currently piecewise_const only supports 1D signals.
 %

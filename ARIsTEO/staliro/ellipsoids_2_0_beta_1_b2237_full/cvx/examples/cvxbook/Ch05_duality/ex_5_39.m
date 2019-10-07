@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 % Exercise 5.39: SDP relaxations of the two-way partitioning problem
 % Boyd & Vandenberghe. "Convex Optimization"
 % Joëlle Skaf - 09/07/05

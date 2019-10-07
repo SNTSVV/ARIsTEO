@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [blockList, wasModelOpenedAlready] = readModelBlockInformation(modelName, modelDepth)
 % If model is open, get info. If model is not open, first load it.
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isNullArray=isnull2isvaluenull(isNullArray,minDim)
 % ISNULL2ISVALUENULL transaltes is-null indicators for cells of
 % CubeStruct object field value into is-null indicators for the cells

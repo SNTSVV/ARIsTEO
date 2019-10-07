@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function PnS = intersect(P, S)
 % INTERSECT Compute the intersection of the given polyhedron with this one.
 % 

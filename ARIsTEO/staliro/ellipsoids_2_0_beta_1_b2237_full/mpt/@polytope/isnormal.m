@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function status = isnormal(P)
 %ISNORMAL Checks if a given polytope is in normalized description
 %

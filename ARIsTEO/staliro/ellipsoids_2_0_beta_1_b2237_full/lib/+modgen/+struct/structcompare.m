@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isEqual,reportStr]= structcompare(SX,SY,absTol,relTol)
 % STRUCTCOMPARE compares two structures using the specified tolerance
 %

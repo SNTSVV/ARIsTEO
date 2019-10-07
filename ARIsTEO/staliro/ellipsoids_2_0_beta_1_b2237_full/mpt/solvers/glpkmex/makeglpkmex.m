@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Use this function to build your own MEX interface
 % GLPKMEX MEX Interface for the GLPK Callable Library
 %

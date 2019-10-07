@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [d dt pred] = bfs(A,u,varargin)
 % BFS Compute the breadth first search order.
 %

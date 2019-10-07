@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                          pars = checkpars(pars,lponly)
 % CHECKPARS  Fills in defaults for missing fields in "pars" structure.
 %

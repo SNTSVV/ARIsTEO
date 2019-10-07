@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [status, ret] = fast_isEmptySet(H, He)
 % returns true if {x | H*[x; -1]<=0, He*[x; -1]=0} is empty
 

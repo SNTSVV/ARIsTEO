@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = sum_square_pos( x, varargin ) %#ok
 
 %SUM_SQUARE_POS   Internal cvx version.

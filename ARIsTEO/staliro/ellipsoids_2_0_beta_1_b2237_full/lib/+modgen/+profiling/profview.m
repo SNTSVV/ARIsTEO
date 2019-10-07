@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  activeBrowser = profview(varargin)
 % PROFVIEW enhances a functionality of Matlab built-in function profview by
 % allowing to display several profiler windows simultaneously and specify a

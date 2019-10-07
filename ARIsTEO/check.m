@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [data,robustness]=check(model,cp_array,input_range,init_cond,input,phi,preds,data,TotSimTime,aristeo_options)
     %% Simulating the original model with the new input
     global aristeo_options_backup;

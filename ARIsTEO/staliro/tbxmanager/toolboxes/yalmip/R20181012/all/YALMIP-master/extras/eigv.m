@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [v,Model] = eigv(X)
 % v(i) epigraph of i-th largest eigenvalue of X
 [n,m] = size(X);

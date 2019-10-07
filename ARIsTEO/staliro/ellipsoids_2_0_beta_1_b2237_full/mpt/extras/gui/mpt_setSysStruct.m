@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [out,dyn] = mpt_setSysStruct(dynamics, field, value)
 %MPT_SETSYSSTRUCT MPT Studio helper function
 

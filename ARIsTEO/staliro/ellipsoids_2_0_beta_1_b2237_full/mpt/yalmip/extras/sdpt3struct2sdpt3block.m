@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [C,A,b,blk] = sdpt3struct2sdpt3block(F_struc,c,K)
 %SDPT3STRUCT2SDPT3BLOCK Internal function to convert data to SDPT3 format
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Multi-Parametric Toolbox Visualization functions
 %   mpt_plotPartition      - Plots a polyhedral partition obtained by mpt_control
 %   mpt_plotPWA            - Plots a PWA function defined over a given polyhedral partition

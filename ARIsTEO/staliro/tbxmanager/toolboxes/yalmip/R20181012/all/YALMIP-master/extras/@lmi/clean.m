@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function F = clean(F,tol)
 %CLEAN Remove terms with small coefficients
 %

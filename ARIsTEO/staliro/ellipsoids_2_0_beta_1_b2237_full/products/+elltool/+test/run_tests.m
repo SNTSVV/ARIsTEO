@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function results=run_tests(varargin)
 logger=modgen.logging.log4j.Log4jConfigurator.getLogger();
 resList{1} = lib_run_tests(varargin{:});

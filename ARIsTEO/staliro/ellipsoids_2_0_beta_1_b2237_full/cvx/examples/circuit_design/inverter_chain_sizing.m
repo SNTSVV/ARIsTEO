@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Digital circuit sizing for an inverter chain (GP)
 % Boyd, Kim, Patil, and Horowitz, "Digital circuit optimization
 % via geometric programming"

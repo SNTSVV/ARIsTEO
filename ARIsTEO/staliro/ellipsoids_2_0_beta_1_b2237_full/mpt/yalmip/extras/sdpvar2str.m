@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function symb_pvec = sdpvar2str(pvec)
 %SDPVAR2STR Converts an SDPVAR object to MATLAB string representation
 %

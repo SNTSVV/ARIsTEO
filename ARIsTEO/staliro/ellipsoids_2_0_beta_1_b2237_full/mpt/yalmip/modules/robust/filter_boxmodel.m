@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F,feasible] = filter_boxmodel(F_xw,lower,upper,x,w,allw)
 
 % Creates robustified version of the uncertain set of linear inequalities

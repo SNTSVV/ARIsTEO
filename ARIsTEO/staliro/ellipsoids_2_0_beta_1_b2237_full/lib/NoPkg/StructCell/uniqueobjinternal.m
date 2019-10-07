@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [uniqObjCell,indUniq,indInUniq]=uniqueobjinternal(objCell,funHandle)
 % UNIQUEOBJINTERNAL unique for cellarrays of objects of any kind
 %

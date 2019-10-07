@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPositiveArr = gt(firstEllArr, secondEllArr)
 %
 % GT - checks if the first ellipsoid is bigger than the second one.

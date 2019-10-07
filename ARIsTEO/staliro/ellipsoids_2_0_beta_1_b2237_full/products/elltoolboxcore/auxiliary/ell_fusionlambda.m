@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function f = ell_fusionlambda(a, q1, Q1, q2, Q2, n)
 %
 % ELL_FUSIONLAMBDA - function whose root in the interval

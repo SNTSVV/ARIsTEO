@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function var = mtimes(var1, var2)
 %MTIMES Multiplication operator for MPTVAR objects
 

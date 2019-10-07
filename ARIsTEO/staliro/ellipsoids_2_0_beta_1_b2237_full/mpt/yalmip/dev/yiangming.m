@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %test for mpmiqp with media workload
 %4 proc,12 tasks,25 subtasks,n=4,m=12,nu=12,nx=4
 %allocation matrix,n*m

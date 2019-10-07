@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [UM,ind] = uniquerows1(M, nc)
 %UNIQUEROWS1 Fast method to obtain indices of unique rows of a given matrix
 %

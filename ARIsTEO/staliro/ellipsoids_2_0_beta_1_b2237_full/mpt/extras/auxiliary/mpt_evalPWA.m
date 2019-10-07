@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [value, regions] = mpt_evalPWA(Pn, Fi, Gi, x0)
 %MPT_EVALPWA Evaluates a PWA function at a given location
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = presolve_eliminatelinearratios(model)
 
 % Try to linearize the model sum_j  aj xj/xi <= (==) b

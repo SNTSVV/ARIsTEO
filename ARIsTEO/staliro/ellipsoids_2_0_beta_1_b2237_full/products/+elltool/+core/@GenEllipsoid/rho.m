@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [resRho, bndPVec] = rho(ellObj,dirVec)
 % Example:
 %   ellObj = elltool.core.GenEllipsoid([1;1],eye(2));

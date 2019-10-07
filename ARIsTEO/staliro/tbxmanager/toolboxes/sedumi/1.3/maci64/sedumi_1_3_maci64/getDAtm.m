@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                      DAt = getDAtm(A,Ablkjc,dense,DAtdenq,d,K)
 % GETDATM  Computes d[k]'*Aj[k] for each lorentz block k and constraint j.
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_plotLyapunov(ctrl, meshgridpoints)
 %MPT_PLOTLYAPUNOV Plots lyapunov function stored in a controlle
 %

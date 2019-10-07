@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Multi-Parametric Toolbox Invariant set computation functions
 %   mpt_reachSets          - Computes sets of reachable states for a given system / controller
 %   mpt_maxCtrlSet         - Computes maximal (robust) control invariant set of

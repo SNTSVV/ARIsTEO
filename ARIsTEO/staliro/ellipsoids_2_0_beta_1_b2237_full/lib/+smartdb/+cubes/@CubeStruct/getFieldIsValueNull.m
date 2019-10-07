@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function fieldIsNullCVec=getFieldIsValueNull(self,fieldName)
 % GETFIELDISVALUENULL - returns for given field logical vector determining 
 %                       whether value of this field in each cell is null

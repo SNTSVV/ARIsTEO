@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Multi-Parametric Toolbox C-code example
 %
 % mpt_example.c  - Shows how to use MPT explicit controllers in C code

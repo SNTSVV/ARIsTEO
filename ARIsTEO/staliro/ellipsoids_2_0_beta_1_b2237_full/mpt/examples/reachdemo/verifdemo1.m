@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % verification demo
 
 % Copyright (C) 2005 by Michal Kvasnica (kvasnica@control.ee.ethz.ch)

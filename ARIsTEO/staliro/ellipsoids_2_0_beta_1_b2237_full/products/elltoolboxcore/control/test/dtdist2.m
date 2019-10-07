@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 dt = 0.05;
 w = 0.2;
 A=[0 1; -w 0];

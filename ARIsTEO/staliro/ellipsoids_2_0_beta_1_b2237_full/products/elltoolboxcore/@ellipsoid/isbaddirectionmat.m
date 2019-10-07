@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isBadDirVec,pUniversalVec] = isbaddirectionmat(q1Mat, q2Mat, dirsMat,absTol)
 % ISBADDIRECTIONMAT - Checks if it is possible to build ellipsoidal
 %                     approximation of the geometric difference of two

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = sub_getyalmipdata(solver, solvertype)
 % SUB_GETYALMIPDATA Internal function
 

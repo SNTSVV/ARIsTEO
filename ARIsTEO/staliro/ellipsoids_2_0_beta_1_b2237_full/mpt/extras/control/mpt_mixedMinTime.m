@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrlStruct=mpt_mixedMinTime(sysStruct,probStruct,Options)
 %MPT_MIXEDMINTIME Computes minimum time controller for systems with discrete and continuous inputs
 %

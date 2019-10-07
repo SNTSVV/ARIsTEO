@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Euclidean distance between polyhedra in 2D
 % Section 8.2.1, Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf - 10/09/05

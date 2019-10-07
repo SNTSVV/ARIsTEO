@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function   model = yalmip2pensdp(interfacedata);
 
 penstruct = sedumi2pen(interfacedata.F_struc,interfacedata.K,interfacedata.c,interfacedata.x0);

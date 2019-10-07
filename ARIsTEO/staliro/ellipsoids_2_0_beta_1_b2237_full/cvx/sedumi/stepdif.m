@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                 [t,rcdx] = stepdif(d,R,y0,x,y,z,dy0,dx,dy,dz,b,mint,tpmtd)
 % STEPDIF  Implements Primal-Dual Step-Differentiation for self-dual model
 %

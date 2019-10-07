@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info ] = createMainBlocksGraph( infoIn )
 %createMainBlocksGraph Create conn matrix for main blocks using the
 %mainDataDepGraph.

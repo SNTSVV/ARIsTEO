@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [message,stacktrace]=obj2str(err,varargin)
 % OBJ2STR returns string representations of an MException object
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [lb,ub,A,b] = remove_bounds_from_Ab(A,b,lb,ub);
 
 if size(A,1)>0

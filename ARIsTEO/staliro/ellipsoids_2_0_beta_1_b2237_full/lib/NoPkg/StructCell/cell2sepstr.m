@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function res=cell2sepstr(titleList,dataCell,sepSymbol,varargin)
 % CELL2SEPSTR - converts a cell array into a symbol-separated char array
 %

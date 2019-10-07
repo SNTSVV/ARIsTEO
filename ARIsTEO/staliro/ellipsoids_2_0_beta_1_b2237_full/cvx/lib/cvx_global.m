@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_global( prefs )
 
 %CVX_GLOBAL   Create CVX's global internal data structure, if needed.

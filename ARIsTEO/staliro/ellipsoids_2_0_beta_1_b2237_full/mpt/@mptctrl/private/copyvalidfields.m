@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrl = copyvalidfields(ctrlStruct, allowedfields)
 %COPYVALIDFIELDS copies only fields listed in 'allowedfields' from ctrlStruct to ctrl
 

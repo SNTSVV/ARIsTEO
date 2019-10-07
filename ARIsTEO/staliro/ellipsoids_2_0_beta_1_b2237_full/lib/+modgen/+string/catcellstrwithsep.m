@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outCVec = catcellstrwithsep(inpCMat,sepStr)
 % CATCELLSTRWITHSEP contatenates columns of input cell matrix of strings
 % using a specified separator and returns result as a column cell vector of

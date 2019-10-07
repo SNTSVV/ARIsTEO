@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef test_suite<handle
     % The class test_suite is a composite class to run multiple tests. A
     % test suite is created as follows:

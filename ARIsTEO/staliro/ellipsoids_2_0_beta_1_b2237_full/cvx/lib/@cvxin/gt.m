@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function a = gt( x, y )
 
 if isa(y,'cvxin')||~isa(x,'cvxin')||~x.active,

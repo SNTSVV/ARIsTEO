@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function nx = dimension(P)
 %DIMENSION Returns dimension of the given polytope
 %

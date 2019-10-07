@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = pnorm(varargin)
 %PNORM P-Norm of SDPVAR variable with convexity knowledge
 %

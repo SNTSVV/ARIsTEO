@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function R = mpt_call_sedumi(S)
 %
 % header file to be inserted from XML source

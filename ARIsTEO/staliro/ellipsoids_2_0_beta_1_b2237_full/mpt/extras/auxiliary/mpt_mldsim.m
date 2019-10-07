@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [xn,y,z,d,feasible]=mpt_mldsim(S, x0, u)
 %MPT_MLDSIM Simulates an MLD system for one time step
 %

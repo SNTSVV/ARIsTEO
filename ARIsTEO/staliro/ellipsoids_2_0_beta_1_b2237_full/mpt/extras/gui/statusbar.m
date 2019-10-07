@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %Display a status/progress bar and inform about the elapsed
 %as well as the remaining time (linear estimation).
 %

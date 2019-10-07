@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function expr = minus(expr1, expr2)
 %MINUS Substraction operator for MPTAFFEXPR objects
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function maximise( varargin )
 
 %MAXIMISE Specifiies a concave (or affine) objective to be maximized.

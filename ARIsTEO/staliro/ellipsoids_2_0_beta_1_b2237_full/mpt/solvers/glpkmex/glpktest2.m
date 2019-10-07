@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Two examples to show how to solve an MILP and an LP with interior method
 
 disp('-- Integer problem --');

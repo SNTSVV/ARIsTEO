@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ mainBlockId ] = findCorrespondingMainBlock(blockId, info)
 %findCorrespondingMainBlock Searches inside info.mainBlockIndices for the
 %given blockId.

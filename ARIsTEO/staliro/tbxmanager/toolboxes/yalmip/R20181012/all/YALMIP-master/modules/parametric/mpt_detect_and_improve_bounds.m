@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [lb,ub,redundant] = detect_and_improve_bounds(Matrices,lb,ub,binary_var_index,options);
 
 A = [ Matrices.G -Matrices.E];

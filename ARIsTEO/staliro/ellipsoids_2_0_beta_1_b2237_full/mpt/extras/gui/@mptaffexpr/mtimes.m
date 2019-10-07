@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function expr = mtimes(expr1, expr2)
 %MTIMES Multiplication operator for MPTAFFEXPR objects
 

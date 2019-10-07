@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [p,feasible,vol_reduction] = domain_reduction(p,upper,lower,lpsolver,xmin);
 % This is just too expensive
 LU = [p.lb p.ub];

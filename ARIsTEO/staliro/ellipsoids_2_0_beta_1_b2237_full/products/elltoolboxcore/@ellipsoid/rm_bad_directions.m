@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function clrDirsMat = rm_bad_directions(q1Mat, q2Mat, dirsMat,absTol)
 %
 % RM_BAD_DIRECTIONS - remove bad directions from the given 

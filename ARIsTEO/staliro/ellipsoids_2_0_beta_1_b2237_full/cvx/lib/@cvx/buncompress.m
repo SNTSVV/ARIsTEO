@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = buncompress( xR, x, sx )
 error( nargchk( 2, 3, nargin ) );
 

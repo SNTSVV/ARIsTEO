@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resRelObj = union(varargin)
 % UNION produces a relation which cosists of a union of tuples from all the
 % relations passed as the input arguments

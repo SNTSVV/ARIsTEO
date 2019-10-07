@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [lb,ub,cand_rows_eq,cand_rows_lp] = findulb(F_struc,K,lb,ub)
 %FINDULB Internal function to extract upper and lower variable bounds
 

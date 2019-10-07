@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function nbytes = sizeof(precision)
 %sIZEOF  return the number of bytes of a builtin data type.
 %   NBYTES = SIZEOF(PRECISION) returns the number of bytes of a single

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 curPath=fileparts(which('RQ1.m'));
 mainpath = strrep(curPath,'RQs','');
 addpath(genpath(mainpath));

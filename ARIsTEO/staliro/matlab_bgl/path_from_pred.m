@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [path P] = path_from_pred(pred,d,varargin)
 % PATH_FROM_PRED Convert a predecessor array into a path to a vertex.
 %

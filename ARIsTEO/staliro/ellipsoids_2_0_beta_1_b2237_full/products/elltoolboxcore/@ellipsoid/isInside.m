@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function res = isInside(ellArr, objArr)
 % ISINSIDE - checks if given ellipsoid(or array of
 %            ellipsoids) lies inside given object(or array

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function h = fplot(obj, varargin)
 %
 % Union/fplot() plots functions defined over a union (or over a derived class)

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function dXdt = ell_eedist_ode(t, X, l0, mydata, n, back, absTol)
 %
 % ELL_EEDIST_ODE - ODE for the shape matrix of the external 

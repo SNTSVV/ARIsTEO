@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function rev=getrevisionbypath(ReferencePath,varargin)
 import modgen.common.throwerror;
 UNVERSIONED_MESSAGE='unversioned';

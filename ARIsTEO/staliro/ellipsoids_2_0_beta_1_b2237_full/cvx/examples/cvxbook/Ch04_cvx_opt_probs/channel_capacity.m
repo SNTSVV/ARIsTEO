@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Exercise 4.57: Capacity of a communication channel 
 % Boyd & Vandenberghe "Convex Optimization" 
 % Joëlle Skaf - 04/24/08 

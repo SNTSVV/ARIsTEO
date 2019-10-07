@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [xopt,lambda,flag,fval]=esp_LP(f,H,He,x0)
 %
 % [xopt,lambda,flag,fval]=esp_LP(f,H,He,x0)

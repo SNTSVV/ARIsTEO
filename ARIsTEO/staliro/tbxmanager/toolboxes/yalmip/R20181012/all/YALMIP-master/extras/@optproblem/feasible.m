@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function diagnostics = feasible(OptimizationProblem,Options)
 %FEASIBLE  Computes feasible solution of in an optimization problem
 %

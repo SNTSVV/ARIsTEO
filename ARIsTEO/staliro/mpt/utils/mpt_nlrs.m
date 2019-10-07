@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [V,R,H,K] = mpt_nlrs(method,VP,Options)
 %MPT_LRS Matlab implementation of the LRS algorithm
 %

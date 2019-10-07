@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function output = createoutput(primal,dual,slack,problem,tag,input,output,time)
 
 if nargin == 1

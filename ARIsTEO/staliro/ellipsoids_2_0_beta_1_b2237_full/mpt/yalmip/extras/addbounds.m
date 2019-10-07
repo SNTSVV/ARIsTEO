@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F_struc,K] = addbounds(F_struc,K,ub,lb)
 %ADDBOUNDS Internal function to add variable bounds to an F_struc
 

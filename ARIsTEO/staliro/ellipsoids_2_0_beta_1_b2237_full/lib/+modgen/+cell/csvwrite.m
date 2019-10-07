@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function csvwrite(fileName,dataCMat)
 % CSVWRITE writes a specified cell array into a comma-separated file
 % specified by name

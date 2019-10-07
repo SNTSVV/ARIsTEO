@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout=isMemberTuples(self,other,keyFieldNameList)
 % ISMEMBER - performs ismember operation for tuples of two relations by key
 %            fields given by special list

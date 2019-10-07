@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function modifycopyright(pathName,markerName)
 % MODIFYCOPYRIGHT - inserts a copyright statement into a line in help  
 %                   header. The line is identified based on a presence of

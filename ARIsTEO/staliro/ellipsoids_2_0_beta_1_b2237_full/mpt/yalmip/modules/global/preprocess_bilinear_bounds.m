@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = preprocess_bilinear_bounds(p)
 
 if ~isempty(p.integer_variables)

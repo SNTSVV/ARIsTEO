@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function perm=topological_order(A,varargin)
 % TOPOLOGICAL_ORDER Returns the topological ordering of vertices in a dag
 %

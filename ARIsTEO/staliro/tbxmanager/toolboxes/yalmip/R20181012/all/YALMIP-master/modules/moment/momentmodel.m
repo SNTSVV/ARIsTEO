@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Fnew, obj, M,k,x,u,n,deg,linears,nonlinears,vecConstraints,isinequality,ulong] = momentmodel(F,obj,k,keepnonlinears)
 
 if nargin < 2

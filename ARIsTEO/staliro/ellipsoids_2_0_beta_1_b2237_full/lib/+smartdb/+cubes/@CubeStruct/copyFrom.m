@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function copyFrom(self,obj)
 % COPYFROM - reconstruct CubeStruct object within a current object using the 
 %            input CubeStruct object as a prototype

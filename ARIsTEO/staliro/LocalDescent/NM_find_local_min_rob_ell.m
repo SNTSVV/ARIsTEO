@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outargv = NM_find_local_min_rob_ell(argv)
 % See interface find_local_min_rob_ell.m
 

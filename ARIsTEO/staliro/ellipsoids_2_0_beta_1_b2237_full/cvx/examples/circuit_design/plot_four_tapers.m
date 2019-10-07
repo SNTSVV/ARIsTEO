@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function plot_four_tapers(w1,w2,w3,w4)
 % Plots four different taper desings on a single graph.
 % Inputs:

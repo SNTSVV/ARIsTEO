@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function callerName=getcallername(nStepsUp,mode)
 % GETCALLERNAME returns a name of caller determined by a number of steps up
 % in the call stacks. 

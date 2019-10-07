@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sysStruct=mpt_verifySysStruct(sysStruct,Options)
 %MPT_VERIFYSYSSTRUCT Verifies the sysStruct structure
 %

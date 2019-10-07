@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                               [d, v,vfrm,y,y0, R] = sdinit(At,b,c,dense,K,pars)
 % SDINIT  Initialize with identity solution, for self-dual model.
 %

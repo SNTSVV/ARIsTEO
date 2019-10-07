@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ A, b ] = addRule6_mr( info )
 %addRule6_mr : Total memory needed for semaphores and communication
 %buffers must be less than total amount of available shared memory

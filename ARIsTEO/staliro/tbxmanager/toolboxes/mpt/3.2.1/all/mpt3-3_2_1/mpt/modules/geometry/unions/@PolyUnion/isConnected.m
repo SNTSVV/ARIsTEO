@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ts = isConnected(obj)
 %
 % check if the polyhedron array forms a connected union

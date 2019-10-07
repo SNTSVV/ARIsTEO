@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function self = sample(self,N)
 %SAMPLE Draw a sample in an optimizer object and instantiates parameter
 %

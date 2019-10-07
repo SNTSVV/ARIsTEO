@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [svnMsg, varargout]=svncall(ParamStr)
 
 % History: 2005-11-30 created

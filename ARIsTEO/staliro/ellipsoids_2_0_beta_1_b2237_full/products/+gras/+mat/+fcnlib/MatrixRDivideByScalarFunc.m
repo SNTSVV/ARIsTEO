@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef MatrixRDivideByScalarFunc<gras.mat.AMatrixBinaryOpFunc
     methods
         function self=MatrixRDivideByScalarFunc(mMatFunc, rScalFunc)

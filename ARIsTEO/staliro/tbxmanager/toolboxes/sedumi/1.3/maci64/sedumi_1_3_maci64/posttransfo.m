@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [xp,yp,K] = posttransfo(x,y,prep,K,pars)
 %                                       [xp,yp] = posttransfo(x,y,prep,K)
 % POSTTRANSFO  Transforms (x,y) from internal SeDuMi format into original

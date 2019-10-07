@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optpnt = lorentz( sx, dim, iscplx )
 
 %LORENTZ   Real second-order cone.

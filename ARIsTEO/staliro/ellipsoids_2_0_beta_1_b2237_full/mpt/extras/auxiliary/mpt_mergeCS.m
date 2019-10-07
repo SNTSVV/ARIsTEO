@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function newCS = mpt_mergeCS(CScell)
 %MPT_GLUECS Merges a cell array of ctrlStruct structures
 %

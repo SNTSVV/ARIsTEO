@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef ConstColFunction<gras.mat.AConstMatrixFunction
     methods
         function self=ConstColFunction(cVec)

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiSetup_export(varargin)
 % MPT_GUISETUP_EXPORT M-file for mpt_guiSetup_export.fig
 %      MPT_GUISETUP_EXPORT, by itself, creates a new MPT_GUISETUP_EXPORT or raises the existing

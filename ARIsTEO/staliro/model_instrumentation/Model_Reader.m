@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [non_linear_blocklist, info] = Model_Reader(modelName,exclusion_list,info)
 % Annotate the simulink model and save the list of blocklists, saturate and
 % switch blocks in the system.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function prevpath = cvx_startup( quiet )
 
 %CVX_STARTUP   Quietly add CVX to your MATLAB path (for startup).

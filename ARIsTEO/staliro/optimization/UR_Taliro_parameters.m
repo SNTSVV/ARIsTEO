@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Class definition for uniform random algorithm parameters 
 % 
 % ur_params = UR_Taliro_parameters

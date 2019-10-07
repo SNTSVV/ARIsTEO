@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function assert(expr, msg)
 % ASSERT checks whether the expr is true or not and throws an error if not.
 %

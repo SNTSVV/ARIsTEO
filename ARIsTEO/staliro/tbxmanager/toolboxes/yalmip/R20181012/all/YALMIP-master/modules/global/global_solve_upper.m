@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [output,timing] = global_solve_upper(p,p_original,x,options,uppersolver,timing)
 
 if ~isempty(p.binary_variables)

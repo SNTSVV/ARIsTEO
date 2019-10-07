@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*******************************************************************
 %% HSDNTrhsfun: compute the right-hand side vector of the 
 %%              Schur complement equation for the NT direction. 

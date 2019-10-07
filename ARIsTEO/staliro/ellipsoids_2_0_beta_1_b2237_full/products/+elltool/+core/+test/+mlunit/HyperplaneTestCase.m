@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef HyperplaneTestCase < mlunitext.test_case
 %$Author: <Zakharov Eugene>  <justenterrr@gmail.com> $    
 %$Date: 2012-10-31 $

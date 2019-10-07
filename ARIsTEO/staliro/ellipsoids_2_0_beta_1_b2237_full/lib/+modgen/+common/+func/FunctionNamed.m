@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef FunctionNamed<modgen.common.func.AFunction
     % FUNCTIONNAMED is a class determining function with scalar values that
     % have its name (or is given by its function handle)

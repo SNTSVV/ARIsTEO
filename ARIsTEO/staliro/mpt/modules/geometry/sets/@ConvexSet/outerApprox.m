@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function approx = outerApprox(obj)
 % OUTERAPPROX Computes an outer approximation of this set.
 %

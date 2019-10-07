@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [SRunProp, SRunAuxProp]=run(confName,varargin)
 import gras.ellapx.uncertcalc.log.Log4jConfigurator;
 import gras.ellapx.uncertcalc.*;

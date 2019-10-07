@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [varargout]=edmonds_maximum_cardinality_matching(A,varargin)
 % EDMONDS_MAXIMUM_CARDINALITY_MATCHING Compute a maximum cardinality matching
 %

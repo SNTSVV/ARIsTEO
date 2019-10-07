@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [cvx_optval,P,q,r,X,lambda] = cheb(A,b,Sigma);
 
 % Computes Chebyshev lower bounds on probability vectors

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function X = addleftfactor(X,L)
 if ~isempty(X.midfactors)
     if length(X.midfactors) >= 25

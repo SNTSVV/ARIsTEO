@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function stackTraceStr = printstack(StackVec,varargin)
 % PRINTSTACK returns a string representation of the stack trace object
 % returned by dbstack

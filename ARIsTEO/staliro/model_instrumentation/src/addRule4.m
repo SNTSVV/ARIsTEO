@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ A, b ] = addRule4( info )
 %addRule4 : Execution of independent blocks that are mapped on same core 
 %cannot overlap

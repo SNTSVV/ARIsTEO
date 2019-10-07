@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
  A1 = [0 1 0 0 0; -2 0 0 0 0; 0 0 -1 0 0; 0 0 0 0 0; 0 0 0 0 1];
  A2 = [-4 0 0 0 0; 0 -3 0 0 0; 0 0 0 0 0; 0 0 0 -1 1; 0 0 0 0 -1];
  A3 = [0 0 0 0 0; -1 0 0 0 0; 0 0 -2 0 0; 0 2 0 0 0; 0 0 0 0 1];

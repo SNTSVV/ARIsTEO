@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function run_helpcollector
 import modgen.logging.log4j.Log4jConfigurator;
 import modgen.common.throwerror;

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,x0,str,ts] = hylink(t,x,u,flag,filename,x_init)
 %HYLINK: HYSDEL models in simulink via S-function
 %

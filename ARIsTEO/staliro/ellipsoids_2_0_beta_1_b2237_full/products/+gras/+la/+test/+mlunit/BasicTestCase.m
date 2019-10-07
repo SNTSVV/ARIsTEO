@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef BasicTestCase < mlunitext.test_case
     % $Author: Vadim Kaushanskiy, Moscow State University by M.V. Lomonosov,
     % Faculty of Computational Mathematics and Cybernetics, System Analysis

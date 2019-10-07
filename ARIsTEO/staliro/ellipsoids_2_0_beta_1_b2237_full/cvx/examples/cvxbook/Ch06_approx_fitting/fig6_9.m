@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figure 6.9: An optimal tradeoff curve
 % Section 6.3.3
 % Boyd & Vandenberghe "Convex Optimization"

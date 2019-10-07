@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [res]=regiondiffXU(Pbnd,Pn,G,W,E,Options)
 %REGIONDIFFXU Computes region difference in lifted XU space
 %

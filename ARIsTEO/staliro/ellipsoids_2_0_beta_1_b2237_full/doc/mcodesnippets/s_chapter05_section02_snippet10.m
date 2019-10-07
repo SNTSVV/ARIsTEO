@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % compute the intersections of ellipsoids in the second column of ellMat
 % with hyperplane firstHypObj: 
 

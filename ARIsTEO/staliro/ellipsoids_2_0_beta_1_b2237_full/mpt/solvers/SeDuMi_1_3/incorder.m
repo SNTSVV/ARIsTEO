@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                            [perm, dz] = incorder(At [,Ajc1,ifirst])
 % INCORDER
 % perm sorts the columns of At greedily, by iteratively picking

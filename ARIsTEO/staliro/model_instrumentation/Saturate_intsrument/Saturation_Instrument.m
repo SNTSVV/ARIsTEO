@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ saturate_block_info] = Saturation_Instrument(modelName,saturate_blocks,block_List )
 % Instruments the saturate blocks in the model with output ports and
 % returns an output struct with satutate block information.

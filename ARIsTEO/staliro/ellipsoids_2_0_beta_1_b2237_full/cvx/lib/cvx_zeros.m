@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = cvx_zeros( s )
 if cvx_use_sparse( s, 0, 1 ),
      x = sparse( s(1), s(2) );

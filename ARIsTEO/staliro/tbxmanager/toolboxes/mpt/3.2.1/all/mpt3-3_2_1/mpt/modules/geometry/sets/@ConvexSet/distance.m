@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ret = distance(obj, x)
 % DISTANCE Compute the distance between the given point and this set.
 %

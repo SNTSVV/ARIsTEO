@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function T = ell_valign(v, x)
 %
 % ELL_VALIGN - given two vectors in R^n, computes 

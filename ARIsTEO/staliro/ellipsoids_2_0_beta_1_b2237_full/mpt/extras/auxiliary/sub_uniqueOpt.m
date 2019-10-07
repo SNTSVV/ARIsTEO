@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function table = sub_uniqueOpt(Fi, Gi, nu)
 % SUB_UNIQUEOPT identifies unique optimizers
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = yalmip2scs(interfacedata);
 
 model.data.A = -interfacedata.F_struc(:,2:end);

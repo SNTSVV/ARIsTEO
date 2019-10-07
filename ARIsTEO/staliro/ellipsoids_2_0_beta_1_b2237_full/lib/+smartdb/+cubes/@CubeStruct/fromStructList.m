@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function relDataObj=fromStructList(catDim,className,structList)
 % FROMSTRUCTLIST creates an object of specified type
 % from a list of structures interpreting each structure

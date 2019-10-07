@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = sosmodel(varargin)
 %SOSMODEL Derive sum-of-squares model without solving it
 %

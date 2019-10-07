@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function codeVec = my_color_table(colorChar)
 %
 % MY_COLOR_TABLE - returns the code of the color

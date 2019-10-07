@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isPositive,isUniqueNames,isThereVec]=isFields(self,fieldList)
 % ISFIELDS - returns whether all fields whose names are given in the input 
 %            list are in the field list of given object or not

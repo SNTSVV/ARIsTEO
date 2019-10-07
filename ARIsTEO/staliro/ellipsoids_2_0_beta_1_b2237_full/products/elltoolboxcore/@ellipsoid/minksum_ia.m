@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function intApprEllVec = minksum_ia(inpEllArr, dirMat)
 %
 % MINKSUM_IA - computation of internal approximating ellipsoids

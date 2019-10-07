@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Compute a random facet
 function [E0,af,bf] = esp_shoot(C,D,b)
 

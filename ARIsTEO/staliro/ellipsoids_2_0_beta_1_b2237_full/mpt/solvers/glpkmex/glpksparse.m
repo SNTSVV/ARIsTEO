@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % A LP example which defines A as a sparse matrix
 
 disp('Solve problem with sparse matrix');

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sout = cvx_precision( flag )
 
 %CVX_PRECISION    Controls CVX solver precision.

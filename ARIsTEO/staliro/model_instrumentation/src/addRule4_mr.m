@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ A, b ] = addRule4_mr( info )
 %addRule4_mr : If there is no dependency from i to j execution of j cannot
 %overlap with execution of i when they are on same core.

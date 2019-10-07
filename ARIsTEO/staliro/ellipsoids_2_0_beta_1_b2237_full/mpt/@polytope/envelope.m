@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function R=envelope(P,Options)
 %ENVELOPE Computes envelope of n polytopes
 %

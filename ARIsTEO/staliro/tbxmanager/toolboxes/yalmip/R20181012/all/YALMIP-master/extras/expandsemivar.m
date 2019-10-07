@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  [F_struc,K,binary_variables] = expandsemivar(F_struc,K,semicont_variables)
 
 model.F_struc = F_struc;

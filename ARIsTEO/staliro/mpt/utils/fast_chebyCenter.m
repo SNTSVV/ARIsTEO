@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sol = fast_chebyCenter(H, He, Rmax)
 % Computes the center and the radius of a chebyball
 %

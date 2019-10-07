@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Matrices,infeasible] = mpt_reduce(Matrices)
 % Projects the whole mp(Q)LP problem on Aeq*U + Beq*x = beq
 % differs from mpt_project_on_equality in the sense that it 

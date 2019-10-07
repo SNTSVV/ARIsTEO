@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [d pred] = bellman_ford_sp(A,u,varargin)
 % BELLMAN_FORD_SP Compute the weighted single source shortest path problem.
 %

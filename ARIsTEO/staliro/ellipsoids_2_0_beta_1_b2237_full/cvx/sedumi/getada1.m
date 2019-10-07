@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                 ADA = getada1(ADA, A,Ajc2,perm, d, blkstart)
 % GETADA1  Compute ADA(i,j) = (D(d^2; LP,Lorentz)*A.t(:,i))' *A.t(:,j),
 %   and exploit sparsity as much as possible.

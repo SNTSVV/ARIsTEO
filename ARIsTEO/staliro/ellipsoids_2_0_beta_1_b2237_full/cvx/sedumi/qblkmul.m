@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                y = qblkmul(mu,d,blkstart)
 % QBLKMUL  yields length(y)=blkstart(end)-blkstart(1) vector with
 %    y[k] = mu(k) * d[k]; the blocks d[k] are partitioned by blkstart.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [UncertainModel,Uncertainty,VariableType,ops,failure] = decomposeUncertain(F,h,w,ops)
 
 failure = 0;

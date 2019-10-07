@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [g,geq,dg,dgeq,xevaled] = fmincon_con_liftlayer(x,model,xevaled)
 
 if isempty(model.lift)    

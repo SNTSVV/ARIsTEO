@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % SimFunctionMdl reproduces the input signals, state trajectory and output 
 % signals of a model specified as a function handle or a state space (ss) 
 % system given the initial conditions and input signal control points.

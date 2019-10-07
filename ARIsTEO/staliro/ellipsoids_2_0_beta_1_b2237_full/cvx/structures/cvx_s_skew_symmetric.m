@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_s_skew_symmetric( m, n )
 %CVX_S_SKEW_SYMMETRIC Skew-symmetric matrices.
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Maximize stopband attenuation of a lowpass IIR filter
 % "Linear Programming Design of IIR Digital Filters with Arbitrary
 %  Magnitude Functions" by L.R. Rabiner, N.Y. Graham, and H.D. Helms

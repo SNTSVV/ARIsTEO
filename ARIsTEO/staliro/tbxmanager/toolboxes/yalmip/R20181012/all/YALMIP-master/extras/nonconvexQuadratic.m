@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function problematicQP = nonconvexQuadratic(Q)
 problematicQP=0;
 % Try to figure out if the quadratic part is convex or not.

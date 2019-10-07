@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef MetricEngineDataLogger<modgen.logging.DataLogger
     % METRICENGINEDATALOGGER allows to log performance of functions within
     % metrics of metric engine and also save contents of their local

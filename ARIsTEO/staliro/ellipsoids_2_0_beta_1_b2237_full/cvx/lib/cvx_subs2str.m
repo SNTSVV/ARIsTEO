@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_subs2str( x, mask, fieldalt )
 if nargin < 2,
     mask = [ 1, 1, 1 ];

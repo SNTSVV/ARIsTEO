@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrlStruct = mpt_optInfControlPWA(sysStruct, probStruct, Options)
 %MPT_OPTINFCONTROLPWA Solves the infinite-time constrained optimal control problem for PWA systems
 %

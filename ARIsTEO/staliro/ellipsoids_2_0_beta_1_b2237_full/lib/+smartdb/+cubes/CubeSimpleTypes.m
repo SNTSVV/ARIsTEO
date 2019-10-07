@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef CubeSimpleTypes<smartdb.cubes.Cube
     methods
         function self=CubeSimpleTypes(varargin)

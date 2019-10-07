@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function fieldMetaData=checkFieldValue(self,isConsistencyChecked,fieldName,actionType,reg,varargin)
 % CHECKFIELDVALUE checks a consistency between a value
 % vector for a certain field and is-null vector for the same

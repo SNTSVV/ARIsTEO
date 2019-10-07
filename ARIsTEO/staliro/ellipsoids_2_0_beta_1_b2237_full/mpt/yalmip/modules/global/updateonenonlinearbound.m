@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % *************************************************************************
 % Code for setting the numerical values of nonlinear terms
 % *************************************************************************

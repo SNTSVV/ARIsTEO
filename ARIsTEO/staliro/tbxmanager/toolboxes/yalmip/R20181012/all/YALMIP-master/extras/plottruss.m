@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function plottruss(where,text,p,x)
 try
     subplot(2,2,where)

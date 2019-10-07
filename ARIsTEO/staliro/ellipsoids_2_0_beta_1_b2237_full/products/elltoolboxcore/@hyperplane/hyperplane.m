@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef hyperplane < elltool.core.AGenEllipsoid
     %HYPERPLANE - a class for hyperplanes
     properties (Access=private)

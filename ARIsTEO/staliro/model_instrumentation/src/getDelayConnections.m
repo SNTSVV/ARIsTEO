@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function delayConns = getDelayConnections(blockIndex, info, direction)
 %direction = 1: incoming connections from delay introducing blocks
 %direction = 0: outgoing connections to delay introducing blocks.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef test_test_suite < mlunitext.test_case&mlunit_test.AuxChecker
     % TEST_TEST_SUITE tests the class test_suite.
     %

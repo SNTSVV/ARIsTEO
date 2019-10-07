@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Combined wire sizing and spacing
 % Section 5.5,  L. Vandenberghe, S. Boyd, and A. El Gamal
 % "Optimizing dominant time constant in RC circuits"

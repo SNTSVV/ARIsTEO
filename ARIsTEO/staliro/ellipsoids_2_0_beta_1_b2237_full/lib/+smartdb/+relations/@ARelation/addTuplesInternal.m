@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function addTuplesInternal(self,varargin)
 % ADDTUPLESINTERNAL adds a set of new tuples to the relation
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info ] = generateExecutionRanges_mr(infoIn)
 %generateExecutionRanges_mr: Calculates best and worst case start times for
 %blocks in every sampleTime.

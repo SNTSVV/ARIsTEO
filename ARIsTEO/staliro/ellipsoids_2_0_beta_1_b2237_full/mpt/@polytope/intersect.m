@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [R,fulldim] = intersect(P1,P2,Options)
 %INTERSECT Intersection of 2 polytopes or polytope arrays
 %

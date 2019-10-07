@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Chapter 6: Approximation and fitting
 %
 %  deadzone.m             - Section 6.1.2: Residual minimization with deadzone penalty

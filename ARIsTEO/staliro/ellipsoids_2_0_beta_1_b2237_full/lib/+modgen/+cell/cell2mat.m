@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function m = cell2mat(c)
 %CELL2MAT Convert the contents of a cell array into a single matrix.
 %   M = CELL2MAT(C) converts a multidimensional cell array with contents of

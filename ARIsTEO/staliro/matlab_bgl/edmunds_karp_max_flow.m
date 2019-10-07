@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [varargout]=edmunds_karp_max_flow(A,u,v,varargin)
 % EDMUNDS_KARP_MAX_FLOW Edmunds-Karp max flow algorithm
 %

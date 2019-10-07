@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Sizing of clock meshes
 % Section 4, L. Vandenberghe, S. Boyd, and A. El Gamal
 % "Optimal Wire and Transistor Sizing for Circuits with Non-Tree Topology"

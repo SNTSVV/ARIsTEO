@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef test_text_test_runner < mlunitext.test_case
     %test_text_test_runner tests the class text_test_runner.
     %

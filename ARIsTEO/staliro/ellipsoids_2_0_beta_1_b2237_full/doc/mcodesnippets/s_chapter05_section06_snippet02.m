@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 aMat = [0 1 0 0; -1 0 1 0; 0 0 0 1; 0 0 -1 0];
 bMat = [0; 0; 0; 1];
 uBoundsEllObj = ellipsoid(1);

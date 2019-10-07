@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outHypArr = uminus(inpHypArr)
 %
 % UMINUS - switch signs of normal vector and the shift scalar

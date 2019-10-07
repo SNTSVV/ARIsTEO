@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ok = PWAwelldefined(pwa, Hdom, Kdom, lpsolver, plot)
 
 % 1.) check if the polyhedral partition covers the whole xr-ur space defined

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout=binaryunionstruct(leftStruct,rightStruct,fieldOpCell,...
     leftFieldOpCell,rightFieldOpCell)
 % BINARYUNIONSTRUCT applies a set of binary operations to the fields of two

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [U,feasible,region,cost,details]=mpt_getInput(ctrl,x0,Options)
 %MPT_GETINPUT For a given state, extracts the (optimal) output from a controller structure
 %

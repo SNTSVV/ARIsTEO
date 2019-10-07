@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef test_result<handle
     % TEST_RESULT collects test results of executed tests. As
     %  in the other testing frameworks of the xUnit family the framework

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = evaluate_nonlinear(p,x,qq)
 
 % FIX: We have to apply computations to make sure we are evaluating

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figure 8.11: Approximate linear discrimination via support vector classifier
 % Section 8.6.1, Boyd & Vandenberghe "Convex Optimization"
 % Original by Lieven Vandenberghe

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optpnt = convex_poly_coeffs( deg, mm ) %#ok
 
 %CONVEX_POLY_COEFFS   Coefficients of convex degree-n polynomials. 

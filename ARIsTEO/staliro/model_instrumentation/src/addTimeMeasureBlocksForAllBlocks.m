@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ listOfMeasureBlocks ] = addTimeMeasureBlocksForAllBlocks( info )
 %addTimeMeasureBlocksForAllBlocks add Time Measure Blocks For All Blocks in
 %merged list

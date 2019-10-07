@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ portTypeEnum ] = getPortTypeEnum( portType )
 %getPortTypeEnum Returns port type enumerated value for representing in
 %ports graph. DO NOT USE FOR OUTPUT PORTS

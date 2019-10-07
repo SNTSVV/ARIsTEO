@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [obj,isThereVec]=getTuplesFilteredBy(self,filterFieldName,filterValueVec,...
     varargin)
 % GETTUPLESFILTEREDBY - selects tuples from given relation such that a

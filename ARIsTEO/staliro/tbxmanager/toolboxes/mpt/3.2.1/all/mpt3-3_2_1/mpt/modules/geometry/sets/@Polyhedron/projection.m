@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function q = projection(P, dims, method, solver)
 % PROJECTION Orthogonal projection of a polyhedron
 %

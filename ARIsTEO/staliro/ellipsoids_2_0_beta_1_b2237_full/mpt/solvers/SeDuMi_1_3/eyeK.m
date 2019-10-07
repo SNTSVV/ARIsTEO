@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % eyeK    Identity w.r.t. symmetric cone.
 %    x = eyeK(K) produces the identity solution w.r.t. the symmetric cone,
 %    that is described by the structure K. This is the vector for which

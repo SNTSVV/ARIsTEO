@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%***************************************************************
 %% linsysolve: solve linear system to get dy, and direction
 %%             corresponding to unrestricted variables. 

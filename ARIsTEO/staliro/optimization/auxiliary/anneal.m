@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [minimum,fval] = anneal(loss, parent, options)
 % ANNEAL  Minimizes a function with the method of simulated annealing
 % (Kirkpatrick et al., 1983)

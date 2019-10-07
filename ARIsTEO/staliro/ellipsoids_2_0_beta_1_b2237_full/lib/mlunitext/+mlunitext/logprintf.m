@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function logprintf(logLevel, varargin)
 % LOGPRINTF passes a printf-formatted message to a log4j logger
 %

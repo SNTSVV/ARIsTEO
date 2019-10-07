@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function result = mpt_isnoise(noise)
 %MPT_ISNOISE Checks if noise object is not empty
 %

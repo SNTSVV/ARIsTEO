@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isOk=checkvaluematchisnull_aux(value,valueIsNull)
 isOk=iscell(valueIsNull)||islogical(valueIsNull);
 isOk=isOk&&isequal(size(value),size(valueIsNull));

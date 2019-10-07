@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function loadObjInternal(self,SObjectData,varargin)
 % LOADOBJINTERNAL updates properties of given CubeStruct object
 % object from structure containing its internal representation

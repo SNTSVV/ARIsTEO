@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sz = cvx_size_check( varargin )
 
 %CVX_SIZE_CHECK   Verifies size compatability.

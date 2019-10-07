@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Chapter 4: Convex optimization problems
 %
 %  chebyshev_center_2D.m       - Section 4.3.1: Compute and display the Chebyshev center of a 2D polyhedron

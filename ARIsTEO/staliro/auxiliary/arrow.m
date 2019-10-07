@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % arrow - plot a simple arrow from x0 to x1
 %       srrow(x0,x1,dum)
 % where dum is a dummy value for backward compatibility.

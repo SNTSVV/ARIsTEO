@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  exponent_m = separable(exponent_m,exponent_p,options);
 %SEPARABLE Internal function, not used
 

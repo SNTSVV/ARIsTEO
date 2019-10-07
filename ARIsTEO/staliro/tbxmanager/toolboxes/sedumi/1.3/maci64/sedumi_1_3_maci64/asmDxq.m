@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                           y = asmDxq(d, x, K [, ddotx])
 % ASMDXQ  Assemble y = D(d)x for x in Lorentz part of K.
 % [y,t] = AasmDxq(d, x, K [, ddotx]) then y[k]+t(k)*d[k] = D(dk)xk.

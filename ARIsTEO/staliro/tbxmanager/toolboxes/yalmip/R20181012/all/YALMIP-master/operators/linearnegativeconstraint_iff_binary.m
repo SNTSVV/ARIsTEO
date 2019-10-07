@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function F = linearnegativeconstraint_iff_binary(f,X,M,m,eps);
 % Big-M for f<=0 iff X==1. Assumes f and X vectors of same size
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function options = pruneOptions(options)
 
 % Mosek is easy to check since there are no inf parameters...

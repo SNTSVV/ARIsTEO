@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function staliro_run_calibration(mDuration, mGI)
 % This is the main file to run S-Taliro on the insulin glucose simulation
 % problem.

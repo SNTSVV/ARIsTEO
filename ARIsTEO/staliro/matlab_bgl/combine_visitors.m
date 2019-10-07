@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cv = combine_visitors(varargin)
 % COMBINE_VISITORS Generate a new visitor by combining existing visitors
 %

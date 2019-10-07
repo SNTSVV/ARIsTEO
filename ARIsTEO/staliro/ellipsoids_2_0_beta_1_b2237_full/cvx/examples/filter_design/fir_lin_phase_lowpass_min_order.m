@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Minimize order of a linear phase lowpass FIR filter
 % "Filter design" lecture notes (EE364) by S. Boyd
 % (figures are generated)

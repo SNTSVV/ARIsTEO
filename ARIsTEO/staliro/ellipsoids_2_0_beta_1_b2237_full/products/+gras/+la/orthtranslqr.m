@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function oMat = orthtranslqr(srcVec, dstVec)
 % ORTHTRANSLQR generates an orthogonal matrix that translates a specified
 % vector to another vector that is collinear to the second specified vector

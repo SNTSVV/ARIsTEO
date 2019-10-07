@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function results=run_tests()
 import modgen.configuration.*;
 import modgen.configuration.test.*;

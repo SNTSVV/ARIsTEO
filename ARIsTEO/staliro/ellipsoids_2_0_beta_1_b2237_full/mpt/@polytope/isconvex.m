@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [status, Pconv] = isconvex(P,Options)
 %ISCONVEX Checks if a polytope array forms a convex union
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SInput = patch_002_remove_redundant_stuff(~,SInput)
 if isfield(SInput.op_iap.op_par,'pvec');
     SInput.op_iap.op_par.goodDirSpace=SInput.op_iap.op_par.pvec;

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resCVec=toFieldListInternal(self,fieldNameList,structNameList,isGroupByStruct)
 if nargin<4
     isGroupByStruct=true;

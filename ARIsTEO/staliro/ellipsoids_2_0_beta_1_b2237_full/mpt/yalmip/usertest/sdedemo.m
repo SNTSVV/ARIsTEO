@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sdedemo;
 %sdeDemo tests SDE with a simple spiral consisting of 100 points.
 %please accustom the code to your SDP solver (CSDP/SEDUMI)

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function slide=mpt_demo1
 %MPT_DEMO1 Explains basic manipulation with polytopes
 %

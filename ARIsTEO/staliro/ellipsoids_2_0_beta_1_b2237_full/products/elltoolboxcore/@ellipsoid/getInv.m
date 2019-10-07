@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function invEllArr = getInv(myEllArr)
 %
 % GETINV - do the same as INV method: inverts shape matrices of ellipsoids 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [model,recoverdata,diagnostic,interfacedata] = export(varargin)
 %EXPORT  Exports YALMIP problem to solver specific format
 %

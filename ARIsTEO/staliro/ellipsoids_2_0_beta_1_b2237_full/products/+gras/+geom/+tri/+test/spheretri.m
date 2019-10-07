@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [vertMat,faceMat,edgeMidMat]=spheretri(depth)
 % SPHERETRI builds a triangulation of a unit sphere based on recursive
 % partitioning each of Icosahedron faces into 4 triangles with vertices in

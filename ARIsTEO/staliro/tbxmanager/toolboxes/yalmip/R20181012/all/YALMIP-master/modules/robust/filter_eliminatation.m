@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F_xw,F_robust] = filter_eliminatation(F_xw,w,order,ops)
 F_robust = ([]);
 Fvars = getvariables(F_xw);

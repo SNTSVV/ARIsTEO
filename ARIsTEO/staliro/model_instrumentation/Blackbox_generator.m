@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ bbox_filename ] = Blackbox_generator( switch_block_info,saturate_block_info,CLG,modelname,New_Modelname,projection_mode)
 % Generates the .m blackbox file to intereface with S-Taliro.
 %

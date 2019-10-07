@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ isOk, pPar] = getIsGoodDirForMat( ellQ1Mat, ellQ2Mat,dirVec,...
     absTol )
 % GETISGOODDIRFORMAT - check whether specified direction is appropriate for

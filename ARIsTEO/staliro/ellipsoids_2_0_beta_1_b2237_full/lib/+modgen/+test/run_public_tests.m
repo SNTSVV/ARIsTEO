@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function results=run_public_tests(varargin)
 resList{1}=modgen.containers.test.run_tests();
 resList{2}=modgen.configuration.test.run_tests();

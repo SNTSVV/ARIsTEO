@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isEqualVec,reportStr]= structcomparevec(SX,SY,absTol,relTol)
 % STRUCTCOMPARE compares two structures using the specified tolerance
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function opt = setMPT26Data(opt, mat)
 %
 %  Convert from old MPT2.6 format

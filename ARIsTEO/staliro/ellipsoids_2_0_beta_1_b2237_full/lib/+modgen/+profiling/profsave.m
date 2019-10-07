@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function profsave(profInfo, dirname, subdirname)
 %PROFSAVE  Save a static version of the HTML profile report
 %   PROFSAVE(PROFINFO) saves HTML files that correspond to each of the

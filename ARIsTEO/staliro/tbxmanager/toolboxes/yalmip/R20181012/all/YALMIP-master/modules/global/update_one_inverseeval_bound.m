@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = update_one_inverseeval_bound(p,i);
 
 arg = p.evalMap{i}.variableIndex;

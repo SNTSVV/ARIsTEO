@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPositive=isequalcellelemsize(value1,value2)
 isPositive=false;
 nDimVec1=cellfun('ndims',value1);

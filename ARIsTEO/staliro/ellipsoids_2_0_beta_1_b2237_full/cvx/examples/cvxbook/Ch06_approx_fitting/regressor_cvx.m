@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Example 6.4: Regressor selection problem
 % Section 6.3.1, Figure 6.7
 % Original by Lieven Vandenberghe

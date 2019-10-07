@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % CVX: Definitions of common convex sets.
 %   complex_lorentz         - Complex second-order cone.                        {(x,y): norm(x)<=y}
 %   convex_poly_coeffs      - Coefficients of convex degree-n polynomials.      {p: p(x) convex}

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [SData,SIsNull,SIsValueNull]=generateEmptyDataSet(self,...
     minDimSizeVec,varargin)
 % GENERATEEMPTYDATASET generates an empty data set in form of

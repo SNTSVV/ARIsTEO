@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F,failure,cause,ALREADY_MODELLED] = expandmodel(F,h,options,w)
 
 % FIX : Current code experimental, complex, conservative, has issues with

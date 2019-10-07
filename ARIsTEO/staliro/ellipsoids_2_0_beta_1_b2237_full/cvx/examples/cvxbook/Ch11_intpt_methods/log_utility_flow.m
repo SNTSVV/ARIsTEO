@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Section 11.8.4: Network rate optimization
 % Boyd & Vandenberghe "Convex Optimization" 
 % Argyrios Zymnis - 05/03/08

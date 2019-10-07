@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Matrices]=mpt_blockingMatrices(Matrices,sysStruct,probStruct,Options)
 %MPT_BLOCKINGMATRICES Constructs matrices for the CFTOC problem for move blocking strategies
 %

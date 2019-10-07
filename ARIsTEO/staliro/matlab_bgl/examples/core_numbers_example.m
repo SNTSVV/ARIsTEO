@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %% Core numbers in MatlabBGL
 % This example illustrates the concept of the core number of a vertex.
 % Mathematically, the core number of a vertex v is the largest integer c

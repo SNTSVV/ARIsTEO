@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sys = duffing_oscillator(flag, x, u, mode)
 % Duffing Oscillator example (nonlinear system)
 %

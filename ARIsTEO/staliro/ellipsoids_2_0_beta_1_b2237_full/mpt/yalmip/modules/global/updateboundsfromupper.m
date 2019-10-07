@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  p = updateboundsfromupper(p,upper,ppoly);
 if ~isinf(upper)
     LU = [p.lb p.ub];

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ xR, x, sx ] = bcompress( x, mode, nsrt )
 error( nargchk( 1, 3, nargin ) );
 

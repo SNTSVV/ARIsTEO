@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                K = statsK(K)
 % STATSK  Collects statistics (max and sum of dimensions) of cone K
 %

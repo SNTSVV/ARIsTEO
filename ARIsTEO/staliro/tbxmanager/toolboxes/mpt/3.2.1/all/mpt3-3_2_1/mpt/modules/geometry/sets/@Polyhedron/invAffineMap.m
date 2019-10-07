@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Pnew = invAffineMap(P, T, t)
 % Compute the inverse image of the polyhedron under the affine map T*x+t
 %

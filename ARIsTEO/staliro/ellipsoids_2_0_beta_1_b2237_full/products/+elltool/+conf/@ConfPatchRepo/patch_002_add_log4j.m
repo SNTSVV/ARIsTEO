@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SInput=patch_002_add_log4j(~,SInput)
     if(~isfield(SInput, 'logging'))
         SInput.logging = struct;

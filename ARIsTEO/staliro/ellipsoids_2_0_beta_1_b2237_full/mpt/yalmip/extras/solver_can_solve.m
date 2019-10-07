@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function s = solver_can_solve(solver,problem)
 
 % This file is currently very rudimentary, and will be much more general in

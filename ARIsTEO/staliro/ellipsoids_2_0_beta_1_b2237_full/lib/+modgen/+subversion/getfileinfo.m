@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [SInfo,isVersioned]=getfileinfo(fullFileName)
 % GETFILEINFO generates a structure with svn file methadata including
 % revision, last modification date etc.

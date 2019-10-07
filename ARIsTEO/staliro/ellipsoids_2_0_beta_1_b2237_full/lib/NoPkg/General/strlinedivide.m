@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function res=strlinedivide(str)
 % STRLINEDIVIDE - divide string to cell array of strings by line-feed
 % character (code 10)

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = solvemp(P,x,y,options)
 %SOLVEMP Computes solution to multi-parametric optimization problem
 %

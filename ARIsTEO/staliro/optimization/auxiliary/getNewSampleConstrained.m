@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % newSample - returns a new sample for monteCarloTaliro
 
 % (C) 2010, Sriram Sankaranarayanan, University of Colorado

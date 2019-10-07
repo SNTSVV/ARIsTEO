@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info ] = findDataTimings( infoIn )
 %findDataTimings Finds the time for each port when the data at this port
 %will be ready.

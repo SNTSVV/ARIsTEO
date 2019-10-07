@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [f,df,xevaledout,dx] = fmincon_fun(x,model)
 
 global latest_xevaled

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function obj=getTuplesIndexedBy(self,indexFieldName,indexValueVec)
 % GETTUPLESINDEXEDBY - selects tuples from given relation such that fixed 
 %                      index field contains given in a specified order  

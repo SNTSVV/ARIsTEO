@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Model generated from hydro.gms
 % Created 24-Jul-2007 13:32:20 using YALMIP R20070523
 

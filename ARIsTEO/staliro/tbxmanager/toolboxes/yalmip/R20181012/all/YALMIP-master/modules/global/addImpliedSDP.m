@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = addImpliedSDP(p)
 if p.K.q(1)==0 && p.K.s(1) > 0
     % Search for rows where there is a constant, and a diagonal term 

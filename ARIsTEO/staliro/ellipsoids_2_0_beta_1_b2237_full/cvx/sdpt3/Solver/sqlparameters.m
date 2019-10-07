@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*************************************************************************
 %% parameters.m: set OPTIONS structure to specify default
 %%               parameters for sqlp.m

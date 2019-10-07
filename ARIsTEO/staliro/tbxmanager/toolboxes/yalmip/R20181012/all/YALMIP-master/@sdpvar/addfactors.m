@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Z = addfactors(Z,X,Y)
 if isnumeric(X) || isa(X,'logical')
     if length(Y.midfactors)==0

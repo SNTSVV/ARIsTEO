@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ts = isFullDim(obj)
 %
 % check if all polyhedra in the set are full-dimensional

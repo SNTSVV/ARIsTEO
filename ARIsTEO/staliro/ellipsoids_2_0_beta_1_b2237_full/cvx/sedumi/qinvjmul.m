@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                          y = qinvjmul(labx,frmx,b,K)
 % QINVJMUL  Inverse of Jordan multiply for Lorentz blocks
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function createDemoWithParameters( demoParams )
 
    % demoParams.fileID : the fileID to print into. Use matlab file open

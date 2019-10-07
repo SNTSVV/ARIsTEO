@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function r = cvx_remap( varargin )
 
 %CVX_REMAP   CVX expression type map generator.

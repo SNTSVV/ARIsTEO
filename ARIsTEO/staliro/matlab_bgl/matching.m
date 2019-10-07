@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [m,max_card_matching]=matching(A,varargin)
 % MATCHING Compute a maximum cardinality matching
 %

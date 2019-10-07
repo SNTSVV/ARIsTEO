@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [C,A,b,blk] = sedumi2dsdp(F_struc,c,K)
 %SEDUMI2DSDP Internal function to convert SeDuMi structure to format needed in DSDP
 

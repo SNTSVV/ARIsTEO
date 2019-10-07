@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function minDimensionSizeVec=getMinDimensionSizeInternal(self,varargin)
 % GETMINDIMENSIONSIZE returns a size vector for the specified
 % dimensions. If no dimensions are specified, a size vector for

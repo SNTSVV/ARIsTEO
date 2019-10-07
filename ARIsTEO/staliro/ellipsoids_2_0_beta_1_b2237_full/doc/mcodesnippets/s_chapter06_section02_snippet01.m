@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 k1 = 24;  k2 = 32;
 m1 = 1.5; m2 = 1;
 % define matrices aMat, bMat, and control bounds uBoundsEll:

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ cost ] = calculateCommCost( dataAmount, sendOrReceive, fromCore, toCore)
 %calculateCommCost Time takes to send/receive ('S'/'R') dataAmount bytes of data from
 %fromCore to toCore

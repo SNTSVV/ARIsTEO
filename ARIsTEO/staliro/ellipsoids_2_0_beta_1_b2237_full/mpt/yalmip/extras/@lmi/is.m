@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function YESNO = is(F,property)
 %IS   Check property of constraint.
 %   d = IS(x,property) returns 1 if 'property' holds

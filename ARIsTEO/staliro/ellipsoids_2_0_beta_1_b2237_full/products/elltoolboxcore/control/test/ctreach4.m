@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
   T = 5;
   A = [0 1 0 0; -1 0 1 0; 0 0 0 1; 0 0 -1 0];
   B = [0; 0; 0; 1];

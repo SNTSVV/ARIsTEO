@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [methodName className]=getcallernameext(indStack)
 % GETCALLERNAME determines function/script name or method name of caller
 % together with class name in the case it is method of class for element

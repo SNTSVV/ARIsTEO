@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % nondegenerate ellipsoid in R^2
 firstEllObj = ellipsoid([2; -1], [9 -5; -5 4]); 
 secEllObj = firstEllObj.polar();% secEll is polar ellipsoid for firstEllObj

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Oinf,tstar,fd,isemptypoly] = mpt_infset(A,X,tmax,Pnoise,Options)
 %MPT_INFSET Calculates the maximal positively invariant set for an LTI system
 %

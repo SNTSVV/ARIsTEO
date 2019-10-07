@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function pwafcn = mpt_norm2pwa(P,l,Options)
 % MPT_NORM2PWA  transformes a linear norm into an equivalent PWA fcn representation
 %

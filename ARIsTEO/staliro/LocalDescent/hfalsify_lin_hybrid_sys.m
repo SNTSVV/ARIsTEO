@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outargv = hfalsify_lin_hybrid_sys(argv)
 % Find a descent direction by solving Prob[W].
 %

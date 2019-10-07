@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function rval=rtest_7_karsi
 % Test the flow-graph that Karci identified as causing a problem with the
 % min-cut computation.  The min-cut value should always be equal to the

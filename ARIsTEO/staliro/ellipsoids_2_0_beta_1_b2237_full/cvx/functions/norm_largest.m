@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = norm_largest( x, k )
 
 %NORM_LARGEST Sum of the k largest magnitudes of a vector.

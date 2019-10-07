@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 absTol = getAbsTol(firstEllObj);
 % find out which of the directions in dirsMat are bad
 firstEllObj.isbaddirection(fourthEllObj, dirsMat, absTol)  

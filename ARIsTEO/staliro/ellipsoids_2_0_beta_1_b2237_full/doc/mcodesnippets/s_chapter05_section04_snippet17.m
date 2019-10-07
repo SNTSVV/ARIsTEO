@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % target set in the form of ellipsoid
 yEllObj = ellipsoid([8; 2], [4 1; 1 2]);
 tbTimeVec = [10 5];  % backward time interval

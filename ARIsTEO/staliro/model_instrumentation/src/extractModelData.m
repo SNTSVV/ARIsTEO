@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info, errStatus ] = extractModelData( infoIn )
 %extractModelData Reads all connection data and creates related graphs
 

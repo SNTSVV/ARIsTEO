@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [hx] = mpt_qphess(n,nrowh,ncolh,jthcol,hess,x)
 %MPT_QPHESS Computes the Hessian
 %

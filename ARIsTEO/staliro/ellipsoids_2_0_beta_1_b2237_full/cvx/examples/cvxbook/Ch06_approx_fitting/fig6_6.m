@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Example 6.3: Optimal input design
 % Section 6.3.2, Figure 6.6
 % Boyd & Vandenberghe "Convex Optimization"

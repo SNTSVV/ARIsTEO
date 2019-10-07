@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isEqualArr = eq(ellFirstArr, ellSecArr, varargin)
 % EQ - compares two arrays of ellipsoids
 %

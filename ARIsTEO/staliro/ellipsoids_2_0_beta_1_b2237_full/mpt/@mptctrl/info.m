@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function info(ctrl)
 %INFO Displays more detailed information a given MPT controller
 %

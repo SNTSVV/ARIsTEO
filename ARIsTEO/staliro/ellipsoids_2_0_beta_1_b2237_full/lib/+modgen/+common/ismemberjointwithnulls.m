@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isMemberVec,indMemberVec]=ismemberjointwithnulls(...
     leftCVec,leftIsNullCVec,rightCVec,rightIsNullCVec,dim)
 % ISMEMBERJOINTWITHNULLS perform joint ismember operation for two cell

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [reg,isSpecified]=reconstructFieldValues(self,reg,isSpecified,isNullInferred)
 %
 if numel(self)~=1

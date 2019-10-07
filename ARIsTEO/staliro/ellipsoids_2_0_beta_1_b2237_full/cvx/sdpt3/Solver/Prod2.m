@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*******************************************************************
 %% Prod2: compute the block diagonal matrix A*B
 %%

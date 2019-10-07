@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function NewStruct = unionstructsalongdim(catDimension, varargin)
 % UNIONSTRUCTS unites structures with the same fields by concatenating the
 % corresponding fields along the specified dimension

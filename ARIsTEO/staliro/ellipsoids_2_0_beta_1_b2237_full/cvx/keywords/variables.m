@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function variables( varargin )
 
 %VARIABLES Declares one or more CVX variables.

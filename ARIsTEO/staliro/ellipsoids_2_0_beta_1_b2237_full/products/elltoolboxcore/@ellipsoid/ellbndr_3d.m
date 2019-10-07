@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [bpMat, fMat] = ellbndr_3d(myEll,nPoints)
 %
 % ELLBNDR_3D - compute the boundary of 3D ellipsoid.

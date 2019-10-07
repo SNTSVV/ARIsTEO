@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [cin, ceq] = feasability_constr(x, ha, n,locHis, tt, B)
 
 x0 = x(1:n); % initial continuous state of system, in X0

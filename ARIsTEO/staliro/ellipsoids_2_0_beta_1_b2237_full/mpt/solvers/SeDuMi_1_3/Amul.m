@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                y = Amul(At,dense,x,transp)
 % AMUL  Computes A*x (transp=0) or A'*x (transp=1), taking care of dense.A.
 %

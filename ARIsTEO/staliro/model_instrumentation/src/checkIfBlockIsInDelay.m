@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ blockIsInDelay ] = checkIfBlockIsInDelay(info, blockIndex)
 %checkIfBlockIsInDelay Check if any of the ancestors contains a delay.
 

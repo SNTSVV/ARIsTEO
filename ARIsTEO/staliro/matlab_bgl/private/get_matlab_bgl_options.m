@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [trans check full2sparse] = get_matlab_bgl_options(varargin)
 % 
 % Internal private function.

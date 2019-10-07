@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cost = buildCost(obj, f, hess)
 % Build a cost function to match the optMat structure
 % Convert min x'*hess*x + f'*x

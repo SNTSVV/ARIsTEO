@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Fi,Gi] = mpt_clean_optmizer(Fi,Gi);
 if length(Fi)>0
     for i = 1:length(Fi)

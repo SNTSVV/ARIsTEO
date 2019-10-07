@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Chapter 7: Statistical estimation
 %
 %  counting_problem_poisson.m - Section 7.1.1: Counting problems with Poisson distribution

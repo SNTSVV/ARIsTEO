@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function regress_sos
 
 ops1 = sdpsettings('solver','sdpt3','sos.cong',0,'sos.model',1,'verbose',0);

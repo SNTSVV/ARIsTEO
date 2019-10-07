@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
   A0 = [0.2 0 -0.4; 0 0 -0.6; 0 0.5 -1];
   A1 = [0.54 0 0.4; 0.06 0 0.6; 0.6 0 1];
   A  = [zeros(3, 3) eye(3); A0 A1];

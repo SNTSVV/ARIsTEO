@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                         Ablk = findblks(At,Ablkjc,blk0,blk1,blkstart)
 % FINDBLKS  Find nonzero blocks
 %   in A, with subscripts per column bounded bij Ablkjc([blk0,blk1]),

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [K, P, E] = mpt_dlqr(A, B, Q, R)
 %MPT_DLQR Linear-quadratic regulator design for discrete-time systems.
 %

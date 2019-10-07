@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function s = cvx_where
 
 %CVX_WHERE    Returns the location of the CVX system.

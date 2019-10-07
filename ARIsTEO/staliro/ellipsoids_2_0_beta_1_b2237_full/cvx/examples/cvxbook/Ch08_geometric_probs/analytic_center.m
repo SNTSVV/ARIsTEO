@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Section 8.5.3: Analytic center of a set of linear inequalities
 % Boyd & Vandenberghe "Convex Optimization" 
 % Joëlle Skaf - 04/29/08 

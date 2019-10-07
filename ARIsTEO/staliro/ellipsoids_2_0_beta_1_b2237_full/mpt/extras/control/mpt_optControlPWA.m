@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrlStruct = mpt_optControlPWA(sysStruct, probStruct, Options)
 % MPT_OPTCONTROLPWA Solves the CFTOC problem for a given PWA system
 %

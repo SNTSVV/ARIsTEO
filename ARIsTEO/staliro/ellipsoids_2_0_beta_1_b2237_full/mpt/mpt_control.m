@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrl=mpt_control(sysStruct,probStruct,ctrltype,Options)
 %MPT_CONTROL Main control routine. Computes explicit controller for a given problem
 %

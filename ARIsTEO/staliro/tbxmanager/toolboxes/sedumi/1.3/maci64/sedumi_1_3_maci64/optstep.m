@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %             [x,y] = optstep(A,b,c, y0,y,d,v,dxmdz, K,L,symLden,...
 %                        dense,Ablkjc,Aord,ADA,DAt, feasratio, R,pars)
 % OPTSTEP Implements Mehrotra-Ye type optimality projection for

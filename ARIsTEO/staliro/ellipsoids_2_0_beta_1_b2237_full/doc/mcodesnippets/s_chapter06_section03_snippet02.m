@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 mEllObj  = ellipsoid(0.01*eye(3));  % terminating set
 termTime = 3;  % terminating time
 

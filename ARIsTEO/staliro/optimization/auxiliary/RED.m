@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [h_sol, comptt, periter, end_opt] = RED(descentargv, nbellipsoids)
 % Applies Algorithm 1 (RED) to solve successive Prob[Wi] to find a local min of 
 % the robustness function, starting at input point h0. Iterations stop when

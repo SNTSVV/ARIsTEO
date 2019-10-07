@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Note: need to check the zero bounds
 
 function out = IsEllipsoidInPolytope(cc,dd,e0,MM,rr)

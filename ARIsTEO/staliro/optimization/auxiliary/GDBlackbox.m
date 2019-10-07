@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [T, XT, YT, LT, CLG, Guards] = GDBlackbox(X0,simT,TU,U) %#ok<INUSL>
 % script created for S-Taliro to simulate its input model 
 % the BlackBox interface is fixed.

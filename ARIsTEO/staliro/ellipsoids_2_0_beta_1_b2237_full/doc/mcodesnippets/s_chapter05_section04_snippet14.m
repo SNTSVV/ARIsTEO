@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % define new directions, in this case one, but could be more
 newDirsMat = [1; -1];
 % compute approximations for the new directions

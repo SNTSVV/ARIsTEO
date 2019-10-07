@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function catWithInternal(self,other,varargin)
 % CATWITHINTERNAL concatenates two relations by unting their column lists
 % Usage: self.catWith(other)

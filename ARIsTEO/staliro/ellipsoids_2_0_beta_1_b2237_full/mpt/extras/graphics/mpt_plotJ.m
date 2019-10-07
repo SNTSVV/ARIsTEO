@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_plotJ(ctrl,gridpoints,Options)
 %MPT_PLOTJ Plots value function associated to a given controller
 %

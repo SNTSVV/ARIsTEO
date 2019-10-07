@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef AMatrixOperations<gras.mat.IMatrixOperations
     methods(Access=private)
         function isOk = isMatFuncConst(self,varargin)

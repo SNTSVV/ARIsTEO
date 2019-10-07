@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,x0,str,ts] = mpt_simSys_sfunc(t,x,u,flag,sysStruct,X0,Ts,nx,nu,ny,constr)
 %MPT_SIMSYS_SFUNC S-function to simulate sysStruct system in Simulink
 %

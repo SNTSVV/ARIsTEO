@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Example 7.4: Binary hypothesis testing
 % Figure 7.4
 % Boyd & Vandenberghe "Convex Optimization"

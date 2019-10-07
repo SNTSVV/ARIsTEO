@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isEqual, absDiff, isRelDiffTriggered, relDiff, absMRelDiff, ...
     reportStr] = absrelcompare(leftArr, rightArr, absTol, relTol, fNormOp)
 % ABSRELCOMPARE - compares two numerical arrays by user defined norm. For 

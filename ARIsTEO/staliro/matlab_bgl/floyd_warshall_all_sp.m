@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [D,P] = floyd_warshall_all_sp(A,varargin)
 % FLOYD_WARSHALL_ALL_SP Compute the weighted all-pairs shortest path problem.
 %

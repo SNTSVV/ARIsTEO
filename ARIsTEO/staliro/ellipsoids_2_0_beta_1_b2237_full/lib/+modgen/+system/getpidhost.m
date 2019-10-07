@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [pidHostStr,pidVal,hostName]=getpidhost()
 %GETPIDHOST returns process id (PID) of current Matlab instance along with
 %a host name it is running on

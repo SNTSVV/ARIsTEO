@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sd, dirType] = compute_direction(Z, H, gf, nvars, f)
 %
 % COMPUTE_DIRECTION - computes a search direction in a 

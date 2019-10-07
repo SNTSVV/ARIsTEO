@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = update_monomial_bounds(model,these)
 
 if nargin == 1 & all(model.variabletype<=2) & any(model.variabletype)

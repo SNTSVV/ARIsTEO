@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ts = eq(U1,U2)
 %
 % test if two unions of polyhedra cover the same set

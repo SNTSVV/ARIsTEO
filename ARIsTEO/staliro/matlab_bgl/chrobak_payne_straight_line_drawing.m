@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [X p ei ej] = chrobak_payne_straight_line_drawing(A,varargin)
 % CHROBAK_PAYNE_STRAIGHT_LINE_DRAWING Draw planar graphs with straight lines
 %

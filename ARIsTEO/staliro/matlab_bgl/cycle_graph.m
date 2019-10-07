@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A xy] = cycle_graph(n,varargin)
 % CYCLE_GRAPH Generate the cycle graph of order n
 %

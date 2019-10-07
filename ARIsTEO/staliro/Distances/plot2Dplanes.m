@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % function plot2Dplanes(A,b,ax,sp,cl)
 %   Plots a set of halfspaces defined by the constraints Ax<=b
 %

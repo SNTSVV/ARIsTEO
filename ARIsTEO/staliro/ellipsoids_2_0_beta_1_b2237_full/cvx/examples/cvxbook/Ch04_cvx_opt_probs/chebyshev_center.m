@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 % Section 4.3.1: Compute the Chebyshev center of a polyhedron
 % Boyd & Vandenberghe "Convex Optimization"
 % Joëlle Skaf - 08/16/05

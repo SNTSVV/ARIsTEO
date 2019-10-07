@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = yalmip2dsdp(interfacedata);
 
 [C,A,b,blk] = sedumi2dsdp(interfacedata.F_struc,interfacedata.c,interfacedata.K);

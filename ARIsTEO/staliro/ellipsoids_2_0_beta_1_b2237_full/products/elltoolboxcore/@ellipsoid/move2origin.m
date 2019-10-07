@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function inpEllArr = move2origin(inpEllArr)
 %
 % MOVE2ORIGIN - moves ellipsoids in the given array to the origin. Modified 

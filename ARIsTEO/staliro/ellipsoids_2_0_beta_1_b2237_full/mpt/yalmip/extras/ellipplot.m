@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [xe,ye]=ellipplot(P,gamma,ecolor,xc)
 %DUAL2CELL Internal function for plotting ellipsoid
 

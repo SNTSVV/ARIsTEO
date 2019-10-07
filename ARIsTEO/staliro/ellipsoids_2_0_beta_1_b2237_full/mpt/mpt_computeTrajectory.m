@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [X,U,Y,D,cost,trajectory,feasible,dyns,reason,details]=mpt_computeTrajectory(ctrlStruct,x0,horizon,Options)
 %MPT_COMPUTETRAJECTORY Calculates time evolution of state trajectories subject to control
 %

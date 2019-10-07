@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F_struc,F_blksz,G_struc,G_blksz]  = sedumi2maxdet(F_struc,K)
 %SEDUMI2MAXDET Internal function to convert SeDuMi structure to format needed in MAXDET
 

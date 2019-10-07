@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y=validate_vartype(varargin)
 %
 % check if the argument belongs to C-continuous, I-integer, B-binary,

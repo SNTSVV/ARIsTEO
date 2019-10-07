@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function display( x )
 long = ~isequal(get(0,'FormatSpacing'),'compact');
 if long, disp( ' ' ); end

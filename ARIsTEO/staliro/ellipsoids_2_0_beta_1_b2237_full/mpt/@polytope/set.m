@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function P = set(varargin)
 %SET Used to modify internal properties of a given polytope object
 %

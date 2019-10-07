@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function defineFieldsAsProps(self,fieldNameList)
 % DEFINEFIELDSASPROPS adds dynamic properties for all fields of
 % given CubeStruct object

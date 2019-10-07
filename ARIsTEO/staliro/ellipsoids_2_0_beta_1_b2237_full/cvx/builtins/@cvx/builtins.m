@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % CVX: Built-in operators and functions supported in CVX models.
 %   
 %    The following operators and functions are included with MATLAB but

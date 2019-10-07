@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [PolyOut,details] = mpt_greedyMerging(PolyIn, Options)
 % MPT_GREEDYMERGING Greedy merging of polyhedra
 %===============================================================================

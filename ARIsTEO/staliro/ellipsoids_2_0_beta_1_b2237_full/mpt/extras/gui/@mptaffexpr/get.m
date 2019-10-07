@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function value = get(expr,name)
 %GET Access to internal properties of MPTAFFEXPR objects
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function C = intvpower(A,p)
 if p>0
     if nnz(rem(full(p),2))==0

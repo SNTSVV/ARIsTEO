@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function data = mpt_mexData(ctrl)
 %MPT_MEXDATA Prepares input data for mex_getInput
 %

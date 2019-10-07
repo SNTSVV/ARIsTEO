@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiTextLabels(varargin)
 % MPT_GUITEXTLABELS M-file for mpt_guiTextLabels.fig
 %      MPT_GUITEXTLABELS, by itself, creates a new MPT_GUITEXTLABELS or raises the existing

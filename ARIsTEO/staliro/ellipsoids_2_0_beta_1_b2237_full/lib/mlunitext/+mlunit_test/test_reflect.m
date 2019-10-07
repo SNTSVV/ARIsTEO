@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef test_reflect < mlunitext.test_case
     %   TEST_REFLECT tests the class reflect.
     %

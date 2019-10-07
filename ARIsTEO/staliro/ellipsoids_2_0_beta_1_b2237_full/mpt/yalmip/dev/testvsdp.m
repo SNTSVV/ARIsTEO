@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 DELTA = 1e-4;
 
 y = sdpvar(4,1);

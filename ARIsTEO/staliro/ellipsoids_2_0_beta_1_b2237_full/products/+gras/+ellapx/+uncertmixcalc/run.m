@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SRunProp=run(confName,varargin)
 import gras.ellapx.uncertmixcalc.log.Log4jConfigurator;
 import gras.ellapx.uncertmixcalc.*;

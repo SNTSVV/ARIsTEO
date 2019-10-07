@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [P,keptrows]=reduce(P,Options,lambda)
 %REDUCE Reduces the polytope by removing redundant inequalities
 %

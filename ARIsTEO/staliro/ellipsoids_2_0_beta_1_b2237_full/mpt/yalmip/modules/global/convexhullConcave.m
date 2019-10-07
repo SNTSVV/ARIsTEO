@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Ax,Ay,b,K] = convexhullConvex(varargin)
 
 %function [Ax,Ay,b] = convexhullConcave(xL,xU,fL,fU,dfL,dfU)

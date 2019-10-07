@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function schurtmp = schurgateway(X,Z,userdata)
 
 % Send slack, dual and user-data to the Hessian compiler

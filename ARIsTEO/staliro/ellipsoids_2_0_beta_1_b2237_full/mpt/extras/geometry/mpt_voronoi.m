@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Pn]=mpt_voronoi(points,Options)
 %MPT_VORONOI Computes the voronoi diagram via mpLP
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function myEllArr = inv(myEllArr)
 %
 % INV - inverts shape matrices of ellipsoids in the given array,

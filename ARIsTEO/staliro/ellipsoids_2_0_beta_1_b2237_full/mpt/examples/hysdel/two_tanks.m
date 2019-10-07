@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % HYSDEL 2.0.5 (Build: 20060803)
 % Copyright (C) 1999-2002  Fabio D. Torrisi
 % 

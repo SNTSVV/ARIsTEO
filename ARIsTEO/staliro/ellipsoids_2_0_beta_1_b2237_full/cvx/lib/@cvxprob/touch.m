@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = touch( p, x, iseq )
 global cvx___
 if nargin < 3, iseq = false; end

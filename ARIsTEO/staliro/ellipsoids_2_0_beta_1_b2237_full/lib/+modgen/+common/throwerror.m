@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function meObj=throwerror(msgTag,varargin)
 % THROWERROR works similarly to built-in ERROR function in case 
 % when there is no output arguments but simpler to use

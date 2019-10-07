@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sol,info] = solvebilevel(OuterConstraints,OuterObjective,InnerConstraints,InnerObjective,InnerVariables,options)
 %SOLVEBILEVEL Simple global bilevel solver
 %

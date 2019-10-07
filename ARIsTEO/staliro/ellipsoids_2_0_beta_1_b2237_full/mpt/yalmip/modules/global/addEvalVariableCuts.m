@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function pcut = addEvalVariableCuts(p)
 
 temp = p.F_struc(1:p.K.f,:);

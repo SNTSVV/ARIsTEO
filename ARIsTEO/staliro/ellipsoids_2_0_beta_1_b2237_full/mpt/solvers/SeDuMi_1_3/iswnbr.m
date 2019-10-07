@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                            [delta,h,alpha] = iswnbr(vSQR,thetaSQR)
 % ISWNBR  Checks feasibility w.r.t. wide region/neighborhood of Sturm-Zhang.
 %   vTAR:= (1-alpha)*max(h,v) projection v onto theta-central region

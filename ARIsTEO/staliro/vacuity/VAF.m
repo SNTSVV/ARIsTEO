@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % VAF will perform the Vacuity Aware Falsification which improves the
 % falsification of Request Response Metric Temporal Logic (MTL) formulas.
 %

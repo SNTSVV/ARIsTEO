@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function optMat = buildSetRepresentation(obj)
 %
 % Compute matrices representing the set for the purposes of

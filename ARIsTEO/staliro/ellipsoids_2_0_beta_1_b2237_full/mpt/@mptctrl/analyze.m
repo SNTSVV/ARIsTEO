@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function analyze(ctrl)
 %ANALYZE Analyzes a given explicit controller and suggests further actions
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Data=genteststruct(inpNum)
 % GENTESTSTRUCT generates a complex test structure using input number to
 % guarantee a uniqueness

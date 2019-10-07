@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F,changed] = convertlogics(F)
 %CONVERTLOGICS Internal function to convert logic constraints to mixed integer constraints
 

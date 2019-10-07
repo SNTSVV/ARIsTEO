@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Options = mpt_defaultOptions(Options, varargin)
 %MPT_DEFAULTOPTIONS Sets default values of undefined fields of Options structure
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resRel=getJoinWith(self,otherRel,keyFieldNameList,varargin)
 % GETJOINWITH - returns a result of INNER join of given relation with 
 %               another relation by the specified key fields 

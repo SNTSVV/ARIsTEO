@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SInput = patch_004_multiple_int_ell_apx_schemas(~,SInput)
 STmp=SInput.ellipsoidalApxProps;
 SInput=rmfield(SInput,'ellipsoidalApxProps');

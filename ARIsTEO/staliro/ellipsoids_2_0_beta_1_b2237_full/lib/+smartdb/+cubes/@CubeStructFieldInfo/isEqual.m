@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPositive=isEqual(self,obj,isCubeStructCompared,cubeStructCompareParamList)
 % ISEQUAL compares a given object with a specified one
 if nargin<4

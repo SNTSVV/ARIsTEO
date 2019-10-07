@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function res=mpt_issysstruct(sysStruct)
 %MPT_ISSYSSTRUCT Returns true if input argument is a sysStruct structure
 %

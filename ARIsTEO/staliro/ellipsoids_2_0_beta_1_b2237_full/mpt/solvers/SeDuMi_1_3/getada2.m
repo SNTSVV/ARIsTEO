@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                       ADA = getada2(ADA, DAt,Aord, K)
 % GETADA2  Compute ADA += DAt.q'*DAt.q
 %   IMPORTANT: Updated ADA only on triu(ADA(Aord.qperm,Aord.qperm)).

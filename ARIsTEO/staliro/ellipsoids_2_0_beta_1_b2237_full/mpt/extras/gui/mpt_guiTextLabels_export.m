@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiTextLabels_export(varargin)
 % MPT_GUITEXTLABELS_EXPORT M-file for mpt_guiTextLabels_export.fig
 %      MPT_GUITEXTLABELS_EXPORT, by itself, creates a new MPT_GUITEXTLABELS_EXPORT or raises the existing

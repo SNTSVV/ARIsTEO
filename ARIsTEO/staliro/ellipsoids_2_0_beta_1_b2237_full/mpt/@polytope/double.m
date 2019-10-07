@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [H,K] = double(P)
 %DOUBLE Function used to access internal properties of the given polytope
 %

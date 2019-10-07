@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [normVec, hypScal] = double(myHyp)
 %
 % DOUBLE - return parameters of hyperplane - normal vector and shift.

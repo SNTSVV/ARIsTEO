@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resStr=splitpart(inpStr,delimStr,fieldNum)
 % SPLITPART splits string on delimiter and 
 % return the given field (counting from one) 

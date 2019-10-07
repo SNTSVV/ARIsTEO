@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_clearspath
 
 %CVX_CLEARSPATH   Clears the cvx solver path.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 % Section 5.2.4: Solves a simple QCQP
 % Boyd & Vandenberghe, "Convex Optimization"
 % Joëlle Skaf - 08/23/05

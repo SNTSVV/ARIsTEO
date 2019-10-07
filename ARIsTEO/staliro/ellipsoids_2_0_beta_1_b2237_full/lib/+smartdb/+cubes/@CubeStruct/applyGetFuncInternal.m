@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resVec=applyGetFuncInternal(self,varargin)
 % APPLYGETFUNC applies a function to the specified fields as columns, i.e.
 % the function is applied to each field as whole, not to each cell

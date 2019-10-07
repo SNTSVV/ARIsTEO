@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout=getData(self,varargin)
 % GETDATA - returns an indexed projection of CubeStruct object's content
 %

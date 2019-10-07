@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [SDataArr, SFieldNiceNames, SFieldDescr] = toStruct(hpArr, isPropIncluded)
 % toStruct -- converts hyperplanes array into structural array.
 %

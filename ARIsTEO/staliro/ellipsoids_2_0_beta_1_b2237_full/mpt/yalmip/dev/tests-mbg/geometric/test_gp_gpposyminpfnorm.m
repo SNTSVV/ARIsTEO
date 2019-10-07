@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function test_gp_gpposyminpfnorm
 
 sdpvar lambda b(4,1) s(3,1) v(4,1) c(2,1)

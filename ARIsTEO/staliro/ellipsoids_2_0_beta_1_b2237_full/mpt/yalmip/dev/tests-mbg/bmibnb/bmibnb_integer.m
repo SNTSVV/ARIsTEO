@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function bmibnb_integer
 
 clear sin % To avoid aby problems from code above 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [run, history] = SA_Cold_Stoch(inpRanges,opt)
 % SA_Cold_Stoch - Performs stochastic optimization using Simulated Annealing
 % with hit and run Monte Carlo sampling where the cost function is the

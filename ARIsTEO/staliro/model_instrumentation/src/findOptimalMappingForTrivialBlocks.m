@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info ] = findOptimalMappingForTrivialBlocks( infoIn )
 %findOptimalMappingForTrivialBlocks Finds the core to assign trivial blocks
 

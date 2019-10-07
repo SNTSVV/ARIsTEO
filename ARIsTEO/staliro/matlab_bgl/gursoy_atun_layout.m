@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function X = gursoy_atun_layout(A,varargin)
 % GURSOY_ATUN_LAYOUT Layout a graph by uniformly distributing vertices
 % 

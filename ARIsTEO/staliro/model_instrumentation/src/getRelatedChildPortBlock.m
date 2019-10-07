@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [index, type, portNumber] = getRelatedChildPortBlock(info, blockIndex, blockPortIndex)
 %getRelatedChildPortBlock Searches in the children of the block and returns
 %the port information of related Inport/Outport block.

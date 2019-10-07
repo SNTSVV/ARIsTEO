@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ blockContainsDelay ] = checkIfBlockContainsDelay(info, blockIndex)
 %checkIfBlockContainsDelay Check if block contains a delay.
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef CubeStructFieldStaticType<smartdb.cubes.ACubeStructFieldType
     properties (GetAccess=protected,Constant)
         UNKNOWN_TYPE_KIND_NAME='no';

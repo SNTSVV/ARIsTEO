@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [x,R]=facetcircle(P,ind,Options)
 %FACETCIRCLE Returns largest circle inside facet 'ind' of polytope P
 %

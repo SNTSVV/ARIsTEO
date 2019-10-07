@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ts = isEmptyFunction(obj)
 %
 %  if the object contains no function handle, then it is considered as

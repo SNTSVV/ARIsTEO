@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Pn]=mpt_delaunay(P,Options)
 %MPT_DELAUNAY Computes the delaunay triangulation of a polytope 
 %             (in H or V representation)

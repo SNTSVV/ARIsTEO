@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function h=plot3adv(xVec,yVec,zVec,colorMat,varargin)
 % PLOT3ADV works similarly to the built-in plot3 function but based on
 % build-in "patch" function instead

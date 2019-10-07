@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function P=mpt_plotArrangement(H,K,BBox,Options)
 %MPT_PLOTARRANGEMENT Plots hyperplane arrangement of a polytope in H-representation
 %

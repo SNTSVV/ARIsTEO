@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function distmap = test_depth_first_search(A,u)
 
 distmap = -1*ones(size(A,1),1);

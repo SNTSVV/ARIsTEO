@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = mpt_de_mpmilp(Matrices,options,model)
                         
 % Since we are recursively fixing binaries, big-M

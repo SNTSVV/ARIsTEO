@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function intApprEllVec = minkmp_ia(fstEll, secEll, sumEllArr, dirMat)
 %
 % MINKMP_IA - computation of internal approximating ellipsoids

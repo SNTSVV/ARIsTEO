@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef EllAuxTestCase < mlunitext.test_case
     properties (Access=private)
         ABS_TOL = 1e-8;

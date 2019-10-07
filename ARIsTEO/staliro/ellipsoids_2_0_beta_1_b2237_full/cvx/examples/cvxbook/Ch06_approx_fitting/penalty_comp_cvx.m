@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figure 6.2: Penalty function approximation
 % Section 6.1.2
 % Boyd & Vandenberghe "Convex Optimization"

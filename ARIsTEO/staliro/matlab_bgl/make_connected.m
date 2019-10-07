@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout= make_connected(A,varargin)
 % MAKE_CONNECTED Add edges to construct a connected graph
 %

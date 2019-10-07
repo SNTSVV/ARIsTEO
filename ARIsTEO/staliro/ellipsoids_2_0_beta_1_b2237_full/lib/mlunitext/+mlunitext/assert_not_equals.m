@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function assert_not_equals(expectedVal, actualVal, msg)
 % ASSERT_NOT_EQUALS checks whether expected ~= actual and raises an error
 % if not.

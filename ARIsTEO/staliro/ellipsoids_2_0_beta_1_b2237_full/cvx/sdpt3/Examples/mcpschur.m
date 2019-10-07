@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%****************************************************
 %% mcpschur: compute schur matrix of HKM or NT direction
 %%           for MCP and maxG problems.  

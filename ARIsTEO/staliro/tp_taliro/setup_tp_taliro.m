@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % setup_tp_taliro would automatically compile all the files needed for
 % running tp-taliro
 

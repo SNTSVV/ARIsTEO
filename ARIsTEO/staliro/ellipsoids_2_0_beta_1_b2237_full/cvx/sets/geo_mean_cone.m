@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ cvx_optpnt, mode ] = geo_mean_cone( sx, dim, w, mode )
 
 %GEO_MEAN_CONE    Cones involving the geometric mean.

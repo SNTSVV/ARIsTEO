@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                y = makereal(x,K,cpx)
 % MAKEREAL  Converts matrix in MATLAB-complex format to internal
 %  SeDuMi format.

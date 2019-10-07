@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function result = isstabilizable(ctrl)
 %STABILIZES Decides if a given controller is stabilizable
 %

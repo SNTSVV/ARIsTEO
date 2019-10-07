@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef test_case<handle
     % TEST_CASE is the base class for all tests. It defines a
     %  fixture to run multiple tests. The constructor is called as follows:

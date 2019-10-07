@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [W,fail,Q,CPU] = mpt_dlyap_infnorm(A,Options)
 % Lyapunov equation with inf-norm for discrete-time LTI systems
 %

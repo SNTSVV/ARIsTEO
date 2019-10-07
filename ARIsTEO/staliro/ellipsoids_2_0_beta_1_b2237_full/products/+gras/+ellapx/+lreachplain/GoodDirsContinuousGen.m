@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef GoodDirsContinuousGen<gras.ellapx.lreachplain.AGoodDirs
     properties (Constant, GetAccess = protected)
         ODE_NORM_CONTROL = 'on';

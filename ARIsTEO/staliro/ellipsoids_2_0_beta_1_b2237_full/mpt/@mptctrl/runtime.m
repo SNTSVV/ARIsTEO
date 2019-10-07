@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function secs = runtime(ctrl)
 %RUNTIME returns runtime needed to compute a given explicit controller
 %

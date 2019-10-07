@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [adjList] = mpt_buildAdjacency(Pi,Options)
 %MPT_BUILDADJACENCY Builds adjacency information
 %

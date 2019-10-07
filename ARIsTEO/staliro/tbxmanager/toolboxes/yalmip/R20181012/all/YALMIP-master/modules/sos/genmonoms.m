@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function monom = genmonoms(newton_m,x);
 %GENMONOMS Internal function used in SOS programs
 

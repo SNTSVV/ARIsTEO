@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef MPTController < elltool.exttbx.IExtTBXController
     properties (GetAccess=private,Constant)
         MPT_SETUP_FUNC_NAME='mpt_init';

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%********************************************************************
 %% scaling: scale the SDP data so that A_k,C,b have unit norm. 
 %%

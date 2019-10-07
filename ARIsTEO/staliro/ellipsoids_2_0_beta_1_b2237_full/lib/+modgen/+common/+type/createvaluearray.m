@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function valueArray=createvaluearray(className,value,sizeVec)
 % CREATEVALUEARRAY is designed for creating arrays of a specified type and
 % size filled with a specified value

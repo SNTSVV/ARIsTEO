@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function diagnostics = optimize(OptimizationProblem,Options)
 %OPTIMIZE  Minimize the objective in an optimization problem
 %

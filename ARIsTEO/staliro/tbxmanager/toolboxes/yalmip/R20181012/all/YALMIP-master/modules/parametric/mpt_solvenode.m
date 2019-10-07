@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = mpt_solvenode(Matrices,lower,upper,OriginalModel,model,options)
 % This is the core code. Lot of pre-processing to get rid of strange stuff
 % arising from odd problems, big-M etc etc

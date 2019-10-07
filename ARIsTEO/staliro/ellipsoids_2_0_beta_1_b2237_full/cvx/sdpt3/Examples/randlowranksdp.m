@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%******************************************************************
 %% randlowranksdp.m : creates random feasible SDP problems where the 
 %%                constraint matrices are low-rank matrices of the 

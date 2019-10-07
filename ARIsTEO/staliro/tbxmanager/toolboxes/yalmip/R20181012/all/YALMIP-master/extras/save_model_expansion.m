@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function done = save_model_expansion(method,goal_vexity,F_graph,properties)
 global ALREADY_MODELLED REMOVE_THESE_IN_THE_END ALREADY_MODELLED_INDEX
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                        Ablkjc = partitA(At,blkstart)
 % PARTITA  Partition columns of A according to the subscripts listed in blkstart.
 %

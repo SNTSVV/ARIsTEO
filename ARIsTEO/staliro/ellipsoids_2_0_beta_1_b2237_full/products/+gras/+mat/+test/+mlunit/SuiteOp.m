@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef SuiteOp < mlunitext.test_case
     properties (Constant, Hidden, Access = private)
         SYMCHECK_MAX_DIM = 5;

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [supArr, bpMat] = rhomat(ellShapeMat, dirsMat,absTol,ellCenterVec)
 %
 % RHOMAT - computes the values of the support function for given

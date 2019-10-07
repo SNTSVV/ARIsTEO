@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function value = mpt_defaultField(structure, fieldname, defaultvalue)
 %MPT_DEFAULTFIEL Sets default value of field of a structure
 %

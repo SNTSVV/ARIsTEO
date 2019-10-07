@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function depth_first_search(A,u,dfs_visitor,varargin)
 % DEPTH_FIRST_SEARCH Fully wrap the Boost depth_first_search call
 % including the dfs_visitor.

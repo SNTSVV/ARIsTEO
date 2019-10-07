@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function reorderFields(self,newFieldNameList)
 % REORDERFIELDS reorders CubeStruct fields to according to 
 % a specified filed list

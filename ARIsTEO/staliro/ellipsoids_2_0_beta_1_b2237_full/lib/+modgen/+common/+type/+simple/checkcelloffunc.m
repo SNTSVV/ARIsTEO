@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function inpArray=checkcelloffunc(inpArray,isEmptyAllowed)
 % CHECKCELLOFFUNC checks that input variable is either a function_handle 
 % of cell of function_handle (char is converted to a cell), 

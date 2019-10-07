@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function f = int_sdpvar(f,x,from,to)
 
 if length(f)>1

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function R = flipud(P)
 %FLIPUD Flips array of polytopes
 %

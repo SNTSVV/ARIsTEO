@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = compress_evaluation_scheme(model);
 scalars = {'exp','log','sin','cos','log2','log10','inverse_internal2'};
 for i = 1:length(model.evaluation_scheme)

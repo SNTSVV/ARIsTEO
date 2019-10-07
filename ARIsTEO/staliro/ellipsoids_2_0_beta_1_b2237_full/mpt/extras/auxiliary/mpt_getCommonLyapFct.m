@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [lP,feasible]=mpt_getCommonLyapFct(Fi,Ain,Bin,Options)
 %MPT_GETCOMMONLYAPFCT Computes common Lyapunov function for PWA system
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function fail = regress_bmibnb_gamsrobot(ops)
 
 Q = 100*eye(10);

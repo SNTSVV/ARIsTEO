@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Test for discrete-time lin. system forward reachability.
 
   Ad = [cos(1) -sin(1); sin(1) cos(1)];

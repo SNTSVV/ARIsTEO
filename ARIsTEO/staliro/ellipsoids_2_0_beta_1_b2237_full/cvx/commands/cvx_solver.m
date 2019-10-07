@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ sout, slist ] = cvx_solver( sname )
 
 %CVX_SOLVER    CVX solver selection.

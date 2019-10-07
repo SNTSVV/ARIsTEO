@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ A_cell,b_cell,proj_cell ] = DNF_CLG( DNF_string, predicate_table,guardsize,projection_mode )
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here

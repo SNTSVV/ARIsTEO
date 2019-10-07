@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function dXdt = ell_eesm_ode(t, X, l0, mydata, n, back,absTol)
 %
 % ELL_EESM_ODE - ODE for the shape matrix of the external

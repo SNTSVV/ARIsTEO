@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 aMat = [cos(1) sin(1); -sin(1) cos(1)];
 uBoundsEllObj = ell_unitball(2);  % control bounds
 % define linear discrete-time system

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = dof( x )
 y = size( cvx_basis( cvxaff( x ) ), 2 );
 

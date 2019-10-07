@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sol = yalmip2mptflag(diagnostic)
 %
 % Convert from a YALMIP optimization error type to an MPT type

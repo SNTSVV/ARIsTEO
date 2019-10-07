@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % distance from ellipsoid firstEllObj to each of the hyperplanes in hypVec
 firstEllObj.distance(hypVec)  
 

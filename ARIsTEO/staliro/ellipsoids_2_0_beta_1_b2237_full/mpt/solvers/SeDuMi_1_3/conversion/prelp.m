@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % PRELP  Loads and preprocesses LP from an MPS file.
 %
 % > [A,b,c,lenx,lbounds] = PRELP('problemname')

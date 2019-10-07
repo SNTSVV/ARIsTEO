@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                            y = bwdpr1(Lden, b)
 % BWDPR1  Solves "PROD_k L(pk,betak)' * y = b", where
 %     L(p,beta) = eye(n) + tril(p*beta',-1).

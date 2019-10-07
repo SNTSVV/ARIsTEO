@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function out=mpt_options(varargin)
 %MPT_OPTIONS Read / modify solver settings for MPT
 %

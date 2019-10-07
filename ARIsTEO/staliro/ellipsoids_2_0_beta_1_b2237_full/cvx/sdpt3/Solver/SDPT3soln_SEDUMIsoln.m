@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%**********************************************************
 %% SDPT3soln_SEDUMIsoln: convert SQLP solution in SDPT3 format to 
 %%                       SeDuMi format

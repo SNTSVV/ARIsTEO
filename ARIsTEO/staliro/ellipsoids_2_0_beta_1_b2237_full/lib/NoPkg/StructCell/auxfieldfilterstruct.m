@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ResStruct=auxfieldfilterstruct(InpStruct,field2KeepList,isCheckField)
 % AUXFIELDFILTERSTRUCT leaves in input structure array only specified
 % fields

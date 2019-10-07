@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef TopsTestCaseReportRel<mlunitext.rels.TypifiedByFieldCodeRel
     properties (Constant)
         FCODE_TEST_RUN_TIME        

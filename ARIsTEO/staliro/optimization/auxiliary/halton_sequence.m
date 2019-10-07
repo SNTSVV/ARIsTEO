@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function r = halton_sequence ( dim_num, n, step, seed, leap, base )
 %% was originally I4_TO_HALTON_SEQUENCE: N elements of an DIM_NUM-dimensional Halton sequence.
 %

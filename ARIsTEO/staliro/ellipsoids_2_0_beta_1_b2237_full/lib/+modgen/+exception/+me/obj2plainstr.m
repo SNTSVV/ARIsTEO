@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resStr=obj2plainstr(meObj)
 %OBJ2PLAINSTR does the same as OBJ2STR but without using the
 %hyper-references and via a legacy function errst2str

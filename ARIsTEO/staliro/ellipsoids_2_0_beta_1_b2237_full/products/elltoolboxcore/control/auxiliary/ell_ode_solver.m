@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [tt, xx] = ell_ode_solver(fn, t, x0, varargin)
 %
 % ELL_ODE_SOLVER - caller for particular ODE solver.

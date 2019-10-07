@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sparsity=spars(x)
 %Returns the sparsity of the matrix/vector x. It works for sparse and dense
 %storage, too.

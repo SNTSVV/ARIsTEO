@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [myEllCenterVec, myEllShapeMat] = parameters(myEll)
 %
 % PARAMETERS - returns parameters of the ellipsoid.

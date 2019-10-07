@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [propArr, propVal] = getProperty(ellArr,propName,fPropFun)
 % GETPROPERTY - gives array the same size as ellArr with values of
 %               propName properties for each ellipsoid in ellArr.

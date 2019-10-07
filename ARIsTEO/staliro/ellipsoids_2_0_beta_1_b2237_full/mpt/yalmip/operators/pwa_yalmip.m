@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = pwa_yalmip(varargin)
 %PWA_YALMIP Defines a piecewise function using data from MPT
 %

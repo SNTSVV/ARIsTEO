@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [X, metaData] = xmlparse(str, att_switch, X, level,typeOnTop)
 % XMLPARSE parses XML string str and returns matlab variable/structure.
 % This is a non-validating parser!

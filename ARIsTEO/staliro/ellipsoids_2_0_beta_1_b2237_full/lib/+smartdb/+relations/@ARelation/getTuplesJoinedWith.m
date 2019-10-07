@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout=getTuplesJoinedWith(self,otherRel,...
     keyFieldNameList,varargin)
 % GETTUPLESJOINEDWITH - returns the tuples of the given relation 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [cn rt] = core_numbers(A,varargin)
 % CORE_NUMBERS Compute the core numbers of the vertices in the graph.
 %

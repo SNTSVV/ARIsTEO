@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ centroid ] = computeRandomVectorCentroid( biasWeight, curSample, distribution, P )
 %COMPUTERANDOMVECTORCENTROID Returns the vector to be used as a bias in
 %generating random unit vector.

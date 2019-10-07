@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef VersionedConfRepoManager<modgen.configuration.AdaptiveConfRepoManager&modgen.struct.changetracking.StructChangeTracker
     % VERSIONEDCONFREPOMANAGER is a simple extension of
     % AdaptiveConfRepoManager that provides an ability to define

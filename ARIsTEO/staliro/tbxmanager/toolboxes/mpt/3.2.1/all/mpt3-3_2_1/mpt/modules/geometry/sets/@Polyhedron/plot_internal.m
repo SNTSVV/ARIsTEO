@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function h = plot_internal(P, options)
 % Plots a single polyhedron.
 %

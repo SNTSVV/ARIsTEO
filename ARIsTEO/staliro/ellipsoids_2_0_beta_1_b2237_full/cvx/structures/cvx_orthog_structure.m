@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function xi = cvx_orthog_structure( x )
 
 %CVX_ORTHOG_STRUCTURE   Computes the orthogonal basis to a matrix structure.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function results = run_cont_tests(varargin)
 % RUN_MOST_CONT_TESTS runs most of the tests based on specified patters
 % for markers, test cases, tests names

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function obj=getTuples(self,subIndVec)
 % GETTUPLES - selects tuples with given indices from given relation and  
 %             returns the result as new relation

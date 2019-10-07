@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef mock_test_failed_tear_down < mlunit_test.mock_test
     % MOCK_TEST_FAILED_SET_UP is a mock test_case with a broken tear_down
     %   used for the tests in test_test_case.

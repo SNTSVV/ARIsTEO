@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [dist,distHis,MM] = computeMinDist(HA,hh,locHis,opt, ignore_unsafe)
 % INPUTS:
 %   HA - hybrid automaton as defined in hasimulate

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ cost, ind, cur_par, rob ] = globalBridge( gls, curSample )
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here

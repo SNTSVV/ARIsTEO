@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info ] = createSampleTimeGraphs( infoIn )
 %createSampleTimeGraphs Create port and block dep graphs for each sample
 %time

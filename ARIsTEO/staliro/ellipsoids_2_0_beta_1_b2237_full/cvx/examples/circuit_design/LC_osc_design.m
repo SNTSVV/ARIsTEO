@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % LC oscillator design (GP)
 % Boyd, Kim, and Mohan, "Geometric programming and its
 % applications to EDA Problems", (DATE Tutorial 2005), pp.102-113.

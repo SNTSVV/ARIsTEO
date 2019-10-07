@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Section 7.5.2: Experiment design
 % Boyd & Vandenberghe, "Convex Optimization"
 % Original version by Lieven Vandenberghe

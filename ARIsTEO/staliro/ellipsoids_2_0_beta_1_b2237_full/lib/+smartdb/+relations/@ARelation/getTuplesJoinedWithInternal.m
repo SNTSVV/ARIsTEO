@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [resRel,resOtherRel]=getTuplesJoinedWithInternal(self,otherRel,...
     keyFieldNameList,varargin)
 % GETTUPLESJOINEDWITHINTERNAL returns the tuples of the given relation

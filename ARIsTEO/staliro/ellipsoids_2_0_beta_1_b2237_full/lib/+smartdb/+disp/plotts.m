@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function plotts(rel,varargin)
 % PLOTTS plots a content of ARelation object as a set of time series
 % grouping them by certain attributes of an input relation

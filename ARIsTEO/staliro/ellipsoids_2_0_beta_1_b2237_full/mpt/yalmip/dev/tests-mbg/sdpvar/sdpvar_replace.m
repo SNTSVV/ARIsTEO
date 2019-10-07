@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sdpvar_replace
 
 % Checks that the 0^0 bug in MATLAB6.5 LINUX

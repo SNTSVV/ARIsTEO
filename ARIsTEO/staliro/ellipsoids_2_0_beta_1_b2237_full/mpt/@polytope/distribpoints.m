@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x = distribpoints(P, n, yalmipoptions)
 %DISTRIBPOINTS Distribute n points such that distances between them are maximized
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ info ] = createFullDataDependencyGraph( infoIn )
 %createFullDataDependencyGraph Full data dependency graph for ports data.
 %Connects inports of a block to outport blocks (except delays)

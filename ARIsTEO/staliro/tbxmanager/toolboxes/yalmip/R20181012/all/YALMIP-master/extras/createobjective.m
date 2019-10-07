@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [c,Q,f,onlyfeasible] = createobjective(h,G,options,quad_info)
 %CREATEOBJECTIVE Internal function to extract data related to objective function
 

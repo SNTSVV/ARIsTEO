@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function F = lmi(X,handlestring,dummy,noprune,symmetryKnown)
 % The command lmi is obsolete, see help sdpvar/set
 

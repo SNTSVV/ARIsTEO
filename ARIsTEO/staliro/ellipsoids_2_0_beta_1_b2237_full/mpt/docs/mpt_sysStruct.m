@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %MPT_SYSSTRUCT System structure description
 %
 % System structure (sysStruct) is a structure which describes the system to be

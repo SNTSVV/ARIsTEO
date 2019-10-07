@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Weighted analytic center of a set of linear inequalities
 % Joëlle Skaf - 04/29/08 
 %

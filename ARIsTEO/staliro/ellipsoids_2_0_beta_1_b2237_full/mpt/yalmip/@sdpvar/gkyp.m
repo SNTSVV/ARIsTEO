@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sys = gkyp(K,S,P,M)
 %KYP Create generalized KYP matrix variable
 %

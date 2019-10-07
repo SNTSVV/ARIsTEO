@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cone(x)
 %CONE Defines a low-level exponential cone constraint x(2)*exp(x(1)/x(2)) <= x(3)
 %

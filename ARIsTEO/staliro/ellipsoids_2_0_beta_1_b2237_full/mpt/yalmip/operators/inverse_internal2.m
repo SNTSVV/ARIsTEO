@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = power_internal2(varargin)
 %power_internal2 (overloaded)
 % Used for cases such as x^x and 2^x, which is treated as evaluation-based

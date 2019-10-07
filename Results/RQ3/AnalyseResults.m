@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Performs the analysis described in the paper and generates the boxplot
 % related with RQ3
 staliroIndex=[7 9 12 14 16 19];

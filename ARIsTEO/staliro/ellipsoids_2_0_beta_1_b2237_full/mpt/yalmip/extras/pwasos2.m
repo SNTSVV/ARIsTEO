@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [y,F] = pwasos2(fi,xi,x)
 
 fi = fi(:);

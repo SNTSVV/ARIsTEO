@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = presolve_bounds_from_domains(model);
 
 % Sigmonial with non-integer powers must be positive

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [s, inits] = map2struct(m, inits, master_component, master_key)
 % converts a containers.Map to a structure (operates recursively)
 

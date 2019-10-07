@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = sum_square_abs( x, varargin )
 
 %SUM_SQUARE_ABS   Internal cvx version.

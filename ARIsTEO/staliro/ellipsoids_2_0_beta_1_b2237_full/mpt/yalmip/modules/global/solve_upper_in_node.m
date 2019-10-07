@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [upper,x_min,info_text,numglobals] = solve_upper_in_node(p,p_upper,x,upper,x_min,uppersolver,info_text,numglobals);
 
 output = global_solve_upper(p,p_upper,x,p.options,uppersolver);

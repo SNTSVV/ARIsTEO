@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout=removeDuplicatesAlongDimInternal(self,varargin)
 % REMOVEDUPLICATESALONGDIM removes duplicates in CubeStruct object 
 % along a specified dimension 

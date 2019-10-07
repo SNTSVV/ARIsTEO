@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %              Apart = extractA(At,Ajc,blk0,blk1,blkstart[,blkstart2])
 % EXTRACTA  Fast alternative to
 %  Apart = At(blkstart(1):blkstart(2)-1,:).

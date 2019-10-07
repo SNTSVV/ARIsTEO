@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function boolstr=producestring(modelName,blockList,bool_blocklist,bool_conn_matrix,boolsourceblock,initialpos)    
      %global bool_final;
      %global boolstring;

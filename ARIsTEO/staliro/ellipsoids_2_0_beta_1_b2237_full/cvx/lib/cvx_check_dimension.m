@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_check_dimension( x, zero_ok )
 
 %CVX_CHECK_DIMENSION   Verifies that the input is valid dimension.

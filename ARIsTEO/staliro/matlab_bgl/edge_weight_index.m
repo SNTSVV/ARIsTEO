@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ei Ei] = edge_weight_index(A,varargin)
 % EDGE_WEIGHT_INDEX Build a conformal matrix of edge index values for a graph.
 %

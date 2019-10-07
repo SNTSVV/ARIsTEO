@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [S1, S2, S3, F1, F2, F3, c1, c2, c3, IntIndex, Ext] = mpc_buildmatFAST(horizon, ...
               SYSTEM, WEIGHT, x1, u1, d1, z1, y1, eps2, xtt, Options) 
 

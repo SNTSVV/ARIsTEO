@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Matrices, feasible] = mpt_addTset(sysStruct,Matrices,Tset,nx,nu,dyn)
 %MPT_ADDTSET Adds terminal set constraint to Matrices
 %

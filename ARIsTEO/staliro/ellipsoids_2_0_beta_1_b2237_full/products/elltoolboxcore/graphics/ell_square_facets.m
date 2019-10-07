@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function facets = ell_square_facets(epoints_num, points_num)
 %
 % ELL_SQUARE_FACETS - generates square facets to be used

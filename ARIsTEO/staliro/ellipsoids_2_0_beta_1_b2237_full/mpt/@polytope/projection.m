@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [P]= projection(PA,dim,Options)
 %PROJECTION Projection of a polytope or a polytope array
 %

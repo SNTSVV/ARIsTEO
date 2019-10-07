@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [lyapunovL,lyapunovC,feasible,drho]=mpt_getPWALyapFct(ctrl,Options)
 %MPT_GETPWALYAPFCT Calculates PWA Lyapunov function
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [varargout] = kruskal_mst(A,varargin)
 % KRUSKAL_MST Compute a minimum spanning with Kruskal's algorithm.
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function r = gen_rand_hash(k,n,m);
 persistent buffer
 persistent loc

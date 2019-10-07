@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function F = binary_implies_linearequality(f,X,M,m,eps);
 
 if nargin < 3 || isempty(M)

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_convhulln(V)
 %MPT_CONVHULL Internal helper for convhulln
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Section 7.4.3: Probability bounds example with Voronoi diagram
 % Boyd & Vandenberghe "Convex Optimization"
 % Original version by Lieven Vandenberghe

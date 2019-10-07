@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 
 A1 = randn(8,2);
 b1 = rand(8,1)*2-A1*[3;3];

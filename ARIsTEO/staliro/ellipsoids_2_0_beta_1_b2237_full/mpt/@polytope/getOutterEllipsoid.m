@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function E=getOutterEllipsoid(P,Options)
 %GETOUTTERELLIPSOID Computes the smallest ellipsoid which covers the polytope P
 %

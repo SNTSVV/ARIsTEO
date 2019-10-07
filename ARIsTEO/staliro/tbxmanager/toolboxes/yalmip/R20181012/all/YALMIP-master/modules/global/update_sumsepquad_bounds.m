@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p = update_sumsepquad_bounds(p);
 % Looking for case z = b+ q1(x1) + q2(x2) + ... where q quadratic
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [reg, prop]=parseparams(args,propNameList,nRegExpected,nPropExpected)
 % PARSEPARAMS behaves exactly as a built-in Matlab function apart from the
 % incorrect behavior of Matlab function in cases when the regular argument

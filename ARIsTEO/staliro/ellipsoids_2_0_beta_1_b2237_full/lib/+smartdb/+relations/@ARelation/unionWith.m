@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function unionWith(self,varargin)
 % UNIONWITH - adds tuples of the input relation to the set of tuples of the
 %             original relation

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figure 8.9: Robust linear discrimination problem
 % Section 8.6.1, Boyd & Vandenberghe "Convex Optimization"
 % Original by Lieven Vandenberghe

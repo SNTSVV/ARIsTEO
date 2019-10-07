@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef ContinuousReachRefineTestCase < mlunitext.test_case
     properties (Access = private, Constant)
         SIZE_LIST = {[2 2], [2 2 3], [0 0 1 0 1]};

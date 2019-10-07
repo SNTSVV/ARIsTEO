@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function pathList=genpathexclusive(pathToIncludeCVec,pathPatternToExclude)
 % GENPATHEXCLUSIVE recursively generates a list of path based on a list of 
 % root path and a regular expression exclusion pattern. 

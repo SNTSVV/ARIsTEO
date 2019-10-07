@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outEllArr = intersection_ia(myEllArr, objArr)
 %
 % INTERSECTION_IA - internal ellipsoidal approximation of the

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function output = callmaxdet(interfacedata);
 
 [F_struc,F_blksz,G_struc,G_blksz] = sedumi2maxdet(interfacedata.F_struc,interfacedata.K); 

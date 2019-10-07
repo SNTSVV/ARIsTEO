@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function pwa = hys2pwa(S, verbose, constr, plot)
 % HYS2PWA Transformation of HYSDEL model into PWA model
 %===============================================================================

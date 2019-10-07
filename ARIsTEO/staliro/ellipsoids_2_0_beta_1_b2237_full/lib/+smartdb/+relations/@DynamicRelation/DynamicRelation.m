@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef DynamicRelation<smartdb.relations.ARelation&...
         smartdb.cubes.FixedDimDynCubeStructAppliance
     %DYNAMICRELATION class is designed as an extension of ARelation class

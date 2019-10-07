@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function obj = Zonotope(c, G)
 % Constructs a zonotope based on the center point and generators
 %

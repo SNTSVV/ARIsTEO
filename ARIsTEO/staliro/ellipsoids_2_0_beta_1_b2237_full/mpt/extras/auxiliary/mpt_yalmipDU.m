@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sysStruct, probStruct] = mpt_yalmipDU(sysStruct, probStruct, verOpt)
 %MPT_YALMIPDU Augmentes the system to cope with deltaU constraints
 %

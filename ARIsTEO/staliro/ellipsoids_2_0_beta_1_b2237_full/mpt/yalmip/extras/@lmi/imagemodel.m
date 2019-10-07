@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Fimage,objimage,x,y] = imagemodel(F,obj,options)
 % IMAGEMODEL Explicitely removes equality constraints from model.
 %

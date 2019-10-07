@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [outdic,f,ci,ce,cs,g,ai,ae] = sqplab_simul(indic,x,lm,v)
 
 switch indic

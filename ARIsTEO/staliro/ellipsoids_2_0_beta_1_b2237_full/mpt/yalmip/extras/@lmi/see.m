@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function see(F)
 %see               Displays internal structure of matrix variable in a constraint
 

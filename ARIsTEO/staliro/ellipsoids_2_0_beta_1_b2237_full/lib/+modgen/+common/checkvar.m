@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function checkvar(x,typeSpec,varargin)
 % CHECKVAR checks a generic condition provided by typeSpec string in the
 % following format: 'isnumeric(x)&&isa(x,'int32')||isscalar(x)' etc

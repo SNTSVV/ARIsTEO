@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.luÂ  
 % Exercise 4.3: Solve a simple QP with inequality constraints
 % From Boyd & Vandenberghe, "Convex Optimization"
 % Joëlle Skaf - 09/26/05

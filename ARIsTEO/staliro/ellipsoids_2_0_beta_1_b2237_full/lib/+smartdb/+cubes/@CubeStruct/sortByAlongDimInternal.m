@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sortByAlongDimInternal(self,sortFieldNameList,sortDim,varargin)
 % SORTBY sorts data of given CubeStruct object along the specified
 % dimension using the specified fields

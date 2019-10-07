@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Elmore delay sizing for a straight wire (GP)
 % Boyd, "Problems in VLSI design" (Lecture)
 % Written for CVX by Almir Mutapcic 02/08/06

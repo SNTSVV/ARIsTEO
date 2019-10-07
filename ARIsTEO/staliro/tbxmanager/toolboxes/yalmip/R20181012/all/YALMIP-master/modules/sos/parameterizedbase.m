@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function p_base_parametric = parameterizedbase(p,z, params,ParametricIndicies,exponent_p,p_base)
 
 % Check for linear parameterization

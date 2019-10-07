@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function x_extract = extractsolution(momentdata,options)
 %EXTRACTSOLUTIONS Tries to extract solutions from moment matrices
 %

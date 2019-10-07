@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % hydisc2m used for converting a cell of hydis objects to an array of
 % hybrid objects
 

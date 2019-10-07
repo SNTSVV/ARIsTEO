@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function output = callbaron(model)
 
 % This sets up everything and more. Can be simplified significantly since

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiLoadWorkspace(varargin)
 % MPT_GUILOADWORKSPACE M-file for mpt_guiLoadWorkspace.fig
 %      MPT_GUILOADWORKSPACE, by itself, creates a new MPT_GUILOADWORKSPACE or raises the existing

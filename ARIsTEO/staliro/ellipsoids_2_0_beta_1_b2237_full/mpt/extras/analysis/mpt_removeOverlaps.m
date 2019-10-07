@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [newCtrlStruct]=mpt_removeOverlaps(Partition,Options)
 %MPT_REMOVEOVERLAPS Removes overlaps from (a set of) polyhedral partitions with associated linear cost
 %

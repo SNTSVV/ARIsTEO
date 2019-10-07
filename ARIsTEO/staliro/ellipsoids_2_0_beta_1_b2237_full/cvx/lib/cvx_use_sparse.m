@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function tf = cvx_use_sparse( sz, nz, isr )
 
 %CVX_USE_SPARSE   Sparse/dense matrix efficiency test.

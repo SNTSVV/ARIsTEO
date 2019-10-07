@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % define disturbance:
 gMat = [0 0; 0 0; 1 0; 0 1];
 vEllObj = 0.05*ell_unitball(2);

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function itslinear=islinear(F)
 %ISLINEAR Check if all constraints are linear       
 %

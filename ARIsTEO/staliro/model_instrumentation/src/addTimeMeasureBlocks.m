@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ isSuccess ] = addTimeMeasureBlocks( info, blockId, sFuncBlockNo )
 %addTimeMeasureBlocks Adds start and finish time measurements for all 
 %blocks inside mergedBlockId.

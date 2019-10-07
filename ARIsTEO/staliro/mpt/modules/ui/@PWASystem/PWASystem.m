@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef PWASystem < AbstractSystem
     % Object representation of a PWA system
     %

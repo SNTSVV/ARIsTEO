@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [gX, gU, gC] = double(expr)
 %DOUBLE Convert MPTAFFEXPR object to matrix form
 

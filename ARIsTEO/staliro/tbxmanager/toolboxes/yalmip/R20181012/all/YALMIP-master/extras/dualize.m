@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Fdual,objdual,X,t,err,complexInfo] = dualize(F,obj,auto,extlp,extend,options)
 % DUALIZE Create the dual of an SDP given in primal form
 %

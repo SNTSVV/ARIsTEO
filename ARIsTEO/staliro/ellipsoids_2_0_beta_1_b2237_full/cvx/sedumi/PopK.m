@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                          [y, ddotx, Dx, xTy] = PopK(d,x,K,lpq)
 % POPK  Implements the quadratic operator for symmetric cones K.
 %

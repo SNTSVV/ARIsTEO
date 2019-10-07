@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Xn, V] = mpt_reachXU(X0, U0, A, B, f, Options)
 %MPT_REACHXU One-step reachability computation for an affine system
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function indMat = ind2submat(sizeVec,indVec)
 % IND2SUBMAT works similarly to the built-in ind2sub function but returns
 % all the indices in a single matrix

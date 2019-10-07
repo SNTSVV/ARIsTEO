@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %% Reweighted graphs in MatlabBGL
 % Matlab sparse matrices only support non-zero values. Because the
 % structure of the sparse matrix is used to infer the edges of an

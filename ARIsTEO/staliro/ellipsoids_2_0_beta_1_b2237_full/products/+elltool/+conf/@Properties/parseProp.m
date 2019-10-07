@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = parseProp(args,neededPropNameList)
 % PARSEPROP - parses input into cell array with values of properties listed
 %            in neededPropNameList.

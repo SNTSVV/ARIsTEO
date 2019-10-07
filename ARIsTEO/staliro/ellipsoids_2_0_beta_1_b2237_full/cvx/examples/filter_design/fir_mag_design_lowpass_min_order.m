@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Minimize order of a lowpass FIR filter (magnitude design)
 % "FIR Filter Design via Spectral Factorization and Convex Optimization"
 % by S.-P. Wu, S. Boyd, and L. Vandenberghe

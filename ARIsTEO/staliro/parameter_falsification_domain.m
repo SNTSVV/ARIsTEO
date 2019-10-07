@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [results] ...
     = parameter_falsification_domain(model, init_cond, input_range, cp_array, phi, preds, TotSimTime, opt)
 

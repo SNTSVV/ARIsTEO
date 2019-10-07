@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function status = ge(P,Q,Options)
 %GE Checks if polytope P is a superset of polytope Q
 %

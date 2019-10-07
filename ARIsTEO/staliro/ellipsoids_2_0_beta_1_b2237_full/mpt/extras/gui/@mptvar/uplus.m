@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function var = uplus(var)
 %UPLUS Unary plus operator for MPTVAR objects
 

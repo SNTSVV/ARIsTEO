@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Exercise 4.47: Maximum determinant PSD matrix completion
 % Boyd & Vandenberghe "Convex Optimization"
 % Almir Mutapcic - Jan 2006

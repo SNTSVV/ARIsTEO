@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrlStruct=mpt_dummyCS(Pn,Pfinal)
 %MPT_DUMMYCS Returns a dummy controller structure
 %

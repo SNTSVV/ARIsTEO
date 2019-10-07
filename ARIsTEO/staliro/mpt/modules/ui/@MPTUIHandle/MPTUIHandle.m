@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef MPTUIHandle < dynamicprops & matlab.mixin.Copyable
     % Class representing a storage of components and filters
    

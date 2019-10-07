@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function E = ell_enclose(V)
 %
 % ELL_ENCLOSE - computes minimum volume ellipsoid that

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [KKTConstraints, details] = kkt(F,h,parametricVariables,ops);
 %KKT Create KKT system
 %

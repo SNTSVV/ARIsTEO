@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
  A = {'0' '-2' '0' '0' '0' '0' '0' '0' '0' '0'
       '2' '0'  '0' '0' '0' '0' '0' '0' '0' '0'
       '0' '0'  'cos(t)' '0' '0' '0' '0' '0' '0' '0'

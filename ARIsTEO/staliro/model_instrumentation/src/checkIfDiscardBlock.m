@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ discardBlock ] = checkIfDiscardBlock( info, blockIndex )
 %checkIfDiscardBlock Check if this block should be discarded.
 %Blocks discarded:

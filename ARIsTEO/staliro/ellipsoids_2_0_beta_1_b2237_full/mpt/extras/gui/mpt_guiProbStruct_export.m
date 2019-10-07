@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiProbStruct_export(varargin)
 % MPT_GUIPROBSTRUCT_EXPORT M-file for mpt_guiProbStruct_export.fig
 %      MPT_GUIPROBSTRUCT_EXPORT, by itself, creates adyn new MPT_GUIPROBSTRUCT_EXPORT or raises the existing

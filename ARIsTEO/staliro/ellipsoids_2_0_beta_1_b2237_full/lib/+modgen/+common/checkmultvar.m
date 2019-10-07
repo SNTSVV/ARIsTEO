@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function checkmultvar(typeSpec,nPlaceHolders,varargin)
 % CHECKMULTVAR checks a generic condition provided by typeSpec string in the
 % following format: 'isnumeric(x1)&&isa(x2,'int32')||isscalar(x2)' etc

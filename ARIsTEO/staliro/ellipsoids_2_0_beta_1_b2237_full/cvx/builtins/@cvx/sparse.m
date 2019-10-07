@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function z = sparse( i, j, x, m, n )
 
 %   Disciplined convex/geometric programming information for SPARSE:

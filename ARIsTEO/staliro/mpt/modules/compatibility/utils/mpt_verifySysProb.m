@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sysStruct,probStruct]=mpt_verifySysProb(sysStruct,probStruct,Options)
 %MPT_VERIFYSYSPROB Verifies system and problem structures
 %

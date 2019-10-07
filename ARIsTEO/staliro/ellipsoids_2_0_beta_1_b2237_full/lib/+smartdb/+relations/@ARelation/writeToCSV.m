@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function writeToCSV(self,filePath)
 % WRITETOCSV - writes a content of relation into Excel spreadsheet file
 % Input:

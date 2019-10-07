@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%********************************************************************
 %% blkbarrier: calculate 
 %% [-v(p)*logdet(X{p}),   v(p)*logdet(Z{p}) + n*v(p)*(1-log(v(p)))]

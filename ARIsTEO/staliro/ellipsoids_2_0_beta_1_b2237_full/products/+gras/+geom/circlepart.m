@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [xMat,yVec]=circlepart(nPoints,angleRangeVec)
 % CIRCLEPART builds a partition of unit circle into a specified number of
 % points within a specified angle range

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ A, b, info ] = addRule7( infoIn )
 %addRule7 : Delay block and its predecessors will be on same core
 % Creates Aeq and beq matrices for rule 7

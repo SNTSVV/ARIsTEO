@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function is_sldrawing = is_straight_line_drawing(A,X,varargin)
 % IS_STRAIGHT_LINE_DRAWING Test if coordinates are a straight line drawing
 %

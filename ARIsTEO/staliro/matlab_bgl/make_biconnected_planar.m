@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout= make_biconnected_planar(A,varargin)
 % MAKE_BICONNECTED_PLANAR Add edges to construct a biconnected planar graph
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ellArr = projection(ellArr, basisMat)
 %
 % PROJECTION - computes projection of the ellipsoid onto the given subspace.

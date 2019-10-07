@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function appendYALMIPvariables(lmi_variables,mt,variabletype,hashed_monoms,current_hash);
 
 if nargin == 1

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function sys = updatelmi(F,thelmi)
 %updatelmi         (OBSOLETE) Updates the numerical content of a symbolic LMI
 %   

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Section 8.2.2: Separating polyhedra in 2D
 % Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf - 10/09/05

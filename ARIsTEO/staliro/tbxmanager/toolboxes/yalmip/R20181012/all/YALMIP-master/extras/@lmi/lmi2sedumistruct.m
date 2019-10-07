@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [F_struc,K,KCut,schur_funs,schur_data,schur_variables] = lmi2sedumistruct(F)
 %lmi2sedumistruct   Internal function: Converts LMI to format needed in SeDuMi
 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  [sys,x0,str,ts] = two_tanks_sim(t,x,u,flag,xinit)
 %TWO_TANKS_SIM S-function of the two tank system
 %

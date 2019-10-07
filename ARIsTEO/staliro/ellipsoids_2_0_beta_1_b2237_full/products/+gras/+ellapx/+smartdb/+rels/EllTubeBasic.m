@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef EllTubeBasic<gras.ellapx.smartdb.rels.EllTubeTouchCurveBasic
     %TestRelation Summary of this class goes here
     %   Detailed explanation goes here

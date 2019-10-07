@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [constants,general,singles,pairs] = classifyfactors(L,M,R)
 
 nfac = length(L);

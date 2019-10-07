@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ y, x ] = cvx_check_dimlist( x, emptyok )
 
 % CVX_CHECK_DIMLIST Verifies the input is a valid dimension list.

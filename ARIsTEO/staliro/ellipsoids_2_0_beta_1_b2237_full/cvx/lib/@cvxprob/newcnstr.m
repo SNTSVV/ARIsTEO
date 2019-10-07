@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outp = newcnstr( prob, x, y, op )
 persistent map_eq map_le map_ge map_ne
     

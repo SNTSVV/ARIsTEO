@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function nElems=getNElemsInternal(self,varargin)
 % GETNELEMSINTERNAL returns a number of elements in a given object
 %

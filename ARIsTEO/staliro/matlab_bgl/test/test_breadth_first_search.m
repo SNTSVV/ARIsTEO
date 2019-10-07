@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function distmap = test_breadth_first_search(A,u)
 
 distmap = ipdouble(zeros(size(A,1),1));

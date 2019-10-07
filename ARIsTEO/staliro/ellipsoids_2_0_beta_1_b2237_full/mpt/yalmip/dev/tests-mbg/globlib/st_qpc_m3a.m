@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Model generated from st_qpc-m3a.gms
 % Created 06-Aug-2007 09:27:04 using YALMIP R20070725
 

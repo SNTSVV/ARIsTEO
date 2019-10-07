@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % CVX: A system for disciplined convex programming.
 %   CVX is a modeling framework for building, constructing, and solving
 %   disciplined convex programs. 

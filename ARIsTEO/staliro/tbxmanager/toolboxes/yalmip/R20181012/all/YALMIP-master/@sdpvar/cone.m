@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cone(Axplusb,cxplusd)
 %CONE Defines a second order cone constraint norm(z,2)<=x
 %

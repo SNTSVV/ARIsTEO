@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  [info] = s2mc(modelName, modelInitFile, debugMode, modelDepth, doMapping, numOfProc)
 %model2multicore - USAGE: model2multicore('modelName', debugMode, modelDepth, doMapping, numOfProc)
 %modelName: without file extension.

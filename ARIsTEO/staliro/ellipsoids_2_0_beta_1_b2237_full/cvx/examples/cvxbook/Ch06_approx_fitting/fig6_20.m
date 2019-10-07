@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Example 6.8: Spline fitting
 % Section 6.5.3, Figure 6.20
 % Boyd & Vandenberghe "Convex Optimization"

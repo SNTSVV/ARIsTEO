@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resRelObj = selfjoin(inpRelObj,joinByFieldList,fieldNameListField,varargin)
 % SELFJOIN performs self join of given relation and returns the
 % result as new relation

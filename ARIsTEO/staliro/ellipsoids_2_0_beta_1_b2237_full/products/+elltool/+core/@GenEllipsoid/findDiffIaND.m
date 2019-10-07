@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resQMat=findDiffIaND(ellQ1Mat, ellQ2Mat,curDirVec,absTol)
 % FINDDIFFIAND - find internal approximation for Minkowsky difference
 %                of ellipsoids with matrices Q1>0, Q2>=0 for any direction

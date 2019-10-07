@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Examples from the CVX Users' guide
 
 has_quadprog = exist( 'quadprog' );

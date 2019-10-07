@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function fieldIsNullCVec=getFieldIsNull(self,fieldName)
 % GETFIELDISNULL - returns for given field a nested logical/cell array 
 %                  containing is-null indicators for cell content

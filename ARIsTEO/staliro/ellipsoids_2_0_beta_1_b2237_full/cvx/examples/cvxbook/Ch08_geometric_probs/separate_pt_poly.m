@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Section 8.1.1: Separating a point from a polyhedron
 % Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf - 10/09/05

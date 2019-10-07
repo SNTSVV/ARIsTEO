@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [x,D_struc,problem,r,res,solvertime,prob] = call_mosek_lpqpsocpsdpdual(model)
 
 % Convert if the caller is bnb or bmibnb which might have appended bounds

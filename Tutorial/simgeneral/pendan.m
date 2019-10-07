@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,x0,str,ts,simStateCompliance] = pendan(t,x,u,flag,RefBlock)
 %PENDAN S-function for making pendulum animation.
 %

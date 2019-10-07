@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [R,l,u,lv,uv]=bounding_box(P,Options,lookahead,A,b)
 %BOUNDING_BOX Compute a bounding box for a given polytope
 %

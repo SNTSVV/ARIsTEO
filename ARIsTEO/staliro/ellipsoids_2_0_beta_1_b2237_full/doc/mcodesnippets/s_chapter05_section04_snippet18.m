@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 timeVec = [0 100];  % represents 100 time steps from 1 to 100
 % reach set for 100 time steps
 secDtrsObj = elltool.reach.ReachDiscrete(dtsys, x0EllObj, dirsMat, timeVec); 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Chapter 5: Duality
 %
 %  qcqp.m            - Section 5.2.4: Solves a simple QCQP

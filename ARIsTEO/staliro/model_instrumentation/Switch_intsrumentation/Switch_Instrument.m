@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [switch_block_info] = Switch_Instrument(modelName,switcharray,blockList,connHandleList,info,num_org_outports)
 % Instruments the switch blocks in the model with output ports and
 % returns an output struct with switch block information.

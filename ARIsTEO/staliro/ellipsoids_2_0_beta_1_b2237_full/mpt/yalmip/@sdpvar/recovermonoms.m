@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function monom = recovermonoms(newton_m,x)
 %RECOVERMONOMS Internal function used in SOS programs
 

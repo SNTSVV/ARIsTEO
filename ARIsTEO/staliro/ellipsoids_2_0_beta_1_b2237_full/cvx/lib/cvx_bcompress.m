@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ xR, x ] = cvx_bcompress( x, mode, num_sorted )
 error( nargchk( 1, 3, nargin ) ); %#ok
 if nargin < 3 || isempty( num_sorted ),

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Optimal doping profile optimization
 % Boyd, Kim, Vandenberghe, and Hassibi, "A tutorial on geometric programming"
 % Joshi, Boyd, and Dutton, "Optimal doping profiles via geometric programming"

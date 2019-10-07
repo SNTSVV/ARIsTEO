@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [isThere indTheres]=isMemberAlongDimInternal(self,other,dimNum,varargin)
 % ISMEMBERALONGDIM - performs ismember operation of CubeStruct data slices
 %                    along the specified dimension

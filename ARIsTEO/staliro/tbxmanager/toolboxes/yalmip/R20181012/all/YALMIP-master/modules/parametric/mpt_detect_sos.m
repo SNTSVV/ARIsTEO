@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [SOS,variables_in_sos] = mpt_detect_sos(Matrices)
 
 binary_var_index = Matrices.binary_var_index;

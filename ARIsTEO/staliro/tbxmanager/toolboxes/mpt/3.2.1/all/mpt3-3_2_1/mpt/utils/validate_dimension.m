@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y=validate_dimension(v)
 %
 % Check if the argument is a proper dimension, otherwise throw an error

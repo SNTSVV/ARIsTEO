@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % 'modifyMatlabFunction' creates a new Simulink model with extra outputs
 % correspond to the internal information of the If-Then-Else blocks inside 
 % the MATLAB embedded codes.

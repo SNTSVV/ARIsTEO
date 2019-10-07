@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [w,rho] = best_const(A)
 % Computes the constant edge weight that yields fastest averaging.
 %

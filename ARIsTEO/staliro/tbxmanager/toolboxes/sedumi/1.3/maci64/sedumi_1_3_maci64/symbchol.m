@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                                          L = symbchol(X)
 % SYMBCHOL Symbolic block sparse Cholesky factorization.
 %   L = symbchol(X) returns a structure L that can be used

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function xstr = xmlformat(V, att_switch, name, level,metaData)
 % XMLFORMAT formats the variable V into a name-based tag XML string xstr
 %

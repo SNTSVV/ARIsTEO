@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %              [t,wr,w] = widelen(xc,zc,y0, dx,dz,dy0,d2y0, maxt,pars,K)
 %
 % WIDELEN  Computes approximate wide-region neighborhood step length.

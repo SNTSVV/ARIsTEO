@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Conversion to SeDuMi.
 %   Conversion routines for reading in problems from SDPPack, SDPA
 %   or MPS formats. Some routines require SDPPACK and/or LIPSOL to

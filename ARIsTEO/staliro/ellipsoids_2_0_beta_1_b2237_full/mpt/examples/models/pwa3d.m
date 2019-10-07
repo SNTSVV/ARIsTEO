@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %PWA3D 3rd order PWA example with 2 PWA dynamics
 %
 % ---------------------------------------------------------------------------

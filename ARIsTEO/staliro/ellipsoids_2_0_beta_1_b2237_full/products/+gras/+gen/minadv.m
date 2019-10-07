@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [minArray,indMinSide]=minadv(leftArray,rightArray)
 % MINADV works in the same way as the built-in min function but returns
 % indMinSize as a second argument which equals 1 if all minimum elements

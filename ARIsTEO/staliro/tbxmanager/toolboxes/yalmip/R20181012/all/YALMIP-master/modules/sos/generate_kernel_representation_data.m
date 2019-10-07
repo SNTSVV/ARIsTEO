@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A,b] = generate_kernel_representation_data(N,N_unique,exponent_m2,exponent_p,p,options,p_base_parametric,ParametricIndicies,MonomIndicies,FirstRun)
 
 persistent saveData

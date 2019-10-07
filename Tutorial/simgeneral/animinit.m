@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [figNumber, cA]=animinit(namestr)
 %ANIMINIT Initializes a figure for Simulink animations.
   

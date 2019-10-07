@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Z = variable_replace(X,Y,W)
 
 % Check so that Y is a simple unit variable

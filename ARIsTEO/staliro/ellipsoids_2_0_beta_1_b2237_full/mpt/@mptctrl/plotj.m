@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function plotj(varargin)
 %PLOTJ Plots value function associated to a given controller
 %

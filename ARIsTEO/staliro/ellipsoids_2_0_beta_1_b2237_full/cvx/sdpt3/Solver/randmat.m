@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%******************************************************
 %% randmat: generate an mxn matrix using matlab's
 %%          rand or randn functions using state = k.

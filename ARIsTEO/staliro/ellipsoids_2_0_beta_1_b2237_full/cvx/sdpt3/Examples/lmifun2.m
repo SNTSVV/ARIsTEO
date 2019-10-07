@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*********************************************************
 %% lmifun2: generate SDP data for the LMI constraint 
 %%         of the form: 

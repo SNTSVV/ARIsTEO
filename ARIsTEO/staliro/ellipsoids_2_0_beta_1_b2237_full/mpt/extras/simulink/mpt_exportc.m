@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function mpt_exportc(ctrl, fname)
 %MPT_EXPORTC Exports an explicit controller to C code
 %

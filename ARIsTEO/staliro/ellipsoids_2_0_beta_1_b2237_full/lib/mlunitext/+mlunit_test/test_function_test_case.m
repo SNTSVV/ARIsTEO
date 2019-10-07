@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef test_function_test_case < mlunitext.test_case
     % TEST_FUNCTION_TEST_CASE tests the class function_test_case.
     %

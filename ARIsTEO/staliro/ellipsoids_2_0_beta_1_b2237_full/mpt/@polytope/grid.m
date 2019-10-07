@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function X = grid(P, gridpoints)
 %GRID Returns equidistantly spaced data points contained in a polytope/polyarray
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function options = selectSOSmodel(F,options,NonLinearParameterization,noRANK,IntegerData,UncertainData);
 switch options.sos.model
     case 0

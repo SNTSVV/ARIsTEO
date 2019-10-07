@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function jobObj = dfevalasync(dfcn, numArgOut, varargin)
 % DFEVALASYNC is a copy of built-in DFEVALASYNC excepnt that it supports an
 % additional property called 'clustersize' which specifies a maximum number

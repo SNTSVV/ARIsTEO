@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function lines = cvx_error( errmsg, widths, useline, prefix, chop )
 
 % CVX_ERROR   Formats text for inclusion in error messages.

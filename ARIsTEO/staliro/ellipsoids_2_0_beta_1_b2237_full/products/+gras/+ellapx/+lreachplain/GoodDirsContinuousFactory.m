@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef GoodDirsContinuousFactory<handle
     methods (Static)
         function goodDirObj = create(pDynObj, sTime, lsGoodDirMat, ...

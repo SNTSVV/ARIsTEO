@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function prob = cher( A, b, Sigma );
 
 % Computes Chernoff upper bounds on probability

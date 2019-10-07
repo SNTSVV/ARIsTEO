@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                                 ddotX = ddot(d,X,blkstart [, Xblkjc])
 % DDOT Given N x m matrix X, creates (blkstart(end)-blkstart(1)) x m matrix
 %   ddotX, having entries d[i]'* xj[i] for each (Lorentz norm bound) block

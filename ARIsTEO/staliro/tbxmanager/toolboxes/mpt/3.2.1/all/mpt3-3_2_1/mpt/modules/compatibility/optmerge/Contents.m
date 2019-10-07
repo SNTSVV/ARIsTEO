@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Optimal Region Merging
 %
 %   mpt_exHyperAdv     - Optimal merging of polyhedra with the same PWA dynamics

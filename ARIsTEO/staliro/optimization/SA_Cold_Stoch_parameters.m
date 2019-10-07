@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Class definition for Simulated Annealing for stochastic system parameters
 %
 % sa_cold_stoch_params = SA_Cold_Stoch_parameters

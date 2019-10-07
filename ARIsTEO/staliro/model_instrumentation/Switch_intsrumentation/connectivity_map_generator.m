@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  [connectivity_matrix] = connectivity_map_generator(modelName,non_linear_blklist)
 
     % Turn off warnings that can arise from model to be opened/loaded

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Matrices = mpt_collect_equalities(Matrices,equalities)
 
 % These were just found

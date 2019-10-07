@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [xmin,fmin,how,exitflag]=mpt_solveMIQP(H,f,A,B,Aeq,Beq,lb,ub,vartype,param,options,solver)
 %MPT_SOLVEMIQP Interface to various MIQP solvers
 %

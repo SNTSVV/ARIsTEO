@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y=validate_realvector(v)
 %
 % check if the argument is a real vector, otherwise throw an error

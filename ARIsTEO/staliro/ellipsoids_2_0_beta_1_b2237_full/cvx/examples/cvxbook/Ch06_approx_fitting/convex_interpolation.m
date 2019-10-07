@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Figure 6.24: Fitting a convex function to given data
 % Section 6.5.5
 % Boyd & Vandenberghe "Convex Optimization"

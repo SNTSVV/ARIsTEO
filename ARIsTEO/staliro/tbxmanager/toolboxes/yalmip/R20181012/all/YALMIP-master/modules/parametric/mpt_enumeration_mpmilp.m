@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function model = mpt_enumeration_mpmilp(Matrices,options)
 % Variable bounds when all binary variables are relaxed
 [global_lower,global_upper] = mpt_detect_and_improve_bounds(Matrices,Matrices.lb,Matrices.ub,Matrices.binary_var_index,options);

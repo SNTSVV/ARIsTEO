@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ randomUnitVector ] = getRandomUnitVector( numOfDimensions, distribution, centroid, limits, dispL )
 %GETRANDOMUNITVECTOR Returns a unit vector with a random direction.
 % INPUTS:

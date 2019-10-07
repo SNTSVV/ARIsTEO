@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function displayInternal(self,typeStr)
 % DISPLAYINTERNAL displays a content of relation object and prints its type
 % using the specified type string

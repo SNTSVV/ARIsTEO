@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function m=maximal_matching(A,varargin)
 % MAXIMAL_MATCHING Compute a maximal matching
 %

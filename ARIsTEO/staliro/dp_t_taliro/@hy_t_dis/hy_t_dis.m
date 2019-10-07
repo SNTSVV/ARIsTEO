@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % hy_t_dis class: Instantiates hy_t_dis objects for time robustness
 % computations.
 % 

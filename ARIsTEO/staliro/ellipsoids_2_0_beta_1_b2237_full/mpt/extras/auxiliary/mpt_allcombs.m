@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function Ucombs = mpt_allcombs(U)
 %MPT_ALLCOMBS All combinations of discrete-valued inputs
 %

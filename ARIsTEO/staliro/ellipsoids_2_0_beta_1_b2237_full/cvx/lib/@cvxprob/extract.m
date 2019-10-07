@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ dbcA, cones, dir, Q, P, ineqs ] = extract( pp, destructive, doineqs )
 if nargin < 3 || nargout < 6, doineqs = true; end
 if nargin < 2 || nargout < 5, destructive = false; end

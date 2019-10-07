@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Maximum function overloaded for hydis class
 
 % (C) 2011 by Georgios Fainekos (fainekos@asu.edu)

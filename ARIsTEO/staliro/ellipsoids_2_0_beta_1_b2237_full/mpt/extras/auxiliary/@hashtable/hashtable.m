@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function obj = hashtable(keys, values)
 %HASHTABLE Constructor for the HASHTABLE object
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function deploytemplateconf(confName)
 %DEPLOYTEMPLAECONF rewrites a local confName configuration with a template
 %with a similar name

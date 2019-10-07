@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %  h = fourier(H,ax,tol,qtol)
 %
 %  C implementation of the fourier elimination algorithm

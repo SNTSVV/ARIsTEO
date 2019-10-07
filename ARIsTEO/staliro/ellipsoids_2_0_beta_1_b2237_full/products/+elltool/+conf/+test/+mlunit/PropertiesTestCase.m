@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef PropertiesTestCase < mlunitext.test_case
 % PUTCOPYRIGHTHERE
 %$Author: <Zakharov Eugene>  <justenterrr@gmail.com> $

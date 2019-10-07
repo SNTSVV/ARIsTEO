@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiProbAdv_export(varargin)
 % mpt_guiProbAdv_export M-file for mpt_guiProbAdv_export.fig
 %      mpt_guiProbAdv_export, by itself, creates a new mpt_guiProbAdv_export or raises the existing

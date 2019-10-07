@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [out,err]=mpt_solverInfo(sclass, stype)
 %MPT_SOLVERINFO returns information about a given solver
 %

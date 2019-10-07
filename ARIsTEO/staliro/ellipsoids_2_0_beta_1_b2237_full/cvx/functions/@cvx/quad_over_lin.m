@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = quad_over_lin( x, y, dim )
 
 %QUAD_OVER_LIN   Internal cvx version.

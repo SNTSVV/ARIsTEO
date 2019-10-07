@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiWeights_export(varargin)
 % MPT_GUIWEIGHTS_EXPORT M-file for mpt_guiWeights_export.fig
 %      MPT_GUIWEIGHTS_EXPORT, by itself, creates a new MPT_GUIWEIGHTS_EXPORT or raises the existing

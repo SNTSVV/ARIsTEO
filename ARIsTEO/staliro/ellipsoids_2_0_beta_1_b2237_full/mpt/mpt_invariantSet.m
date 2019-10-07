@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function invCtrl = mpt_invariantSet(ctrl, Options)
 %MPT_INVARIANTSET Computes (robust) positive invariant subset of an explicit controller
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%***************************************************************************
 %% blkeig: compute eigenvalue decomposition of a cell array
 %%         whose contents are square matrices or the diagonal

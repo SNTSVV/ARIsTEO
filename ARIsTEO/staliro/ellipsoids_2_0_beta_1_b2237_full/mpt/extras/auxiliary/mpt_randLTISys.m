@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sysStructCell]=mpt_randLTISys(maxSys,nx,nu,Options)
 %MPT_RANDLTISYS Generates random LTI systems
 %

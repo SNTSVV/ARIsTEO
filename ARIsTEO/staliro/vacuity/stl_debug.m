@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % 1) Modifying the STL/MTL formula and checking the specifications for
 %    logical inconsistencies (validity, redundancy, vacuity).
 % 2) Creating the Antecedent-Failure mutation for signal vacuity detection.

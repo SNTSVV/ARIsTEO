@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function n=num_edges(A)
 % NUM_EDGES The number of edges in a graph.
 %

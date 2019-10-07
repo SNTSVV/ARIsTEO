@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_s_upper_bidiagonal( m, n )
 %CVX_S_UPPER_BIDIAGONAL Upper bidiagonal matrices.
 y = cvx_s_banded( m, n, 0, 1 );

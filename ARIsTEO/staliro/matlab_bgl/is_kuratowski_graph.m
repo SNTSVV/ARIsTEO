@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function is_kgraph = is_kuratowski_graph(A,varargin)
 % IS_KURATOWSKI_GRAPH Test if a graph can be collapsed to K_3,3 or K_5
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 ellObj = ellipsoid([-17; 0], [4 -1; -1 1]);  % define ellipsoid
 % define 4 hyperplanes
 hypVec = hyperplane([1 1; -1 -1; 1 -1; -1 1]', [2 2 2 2]); 

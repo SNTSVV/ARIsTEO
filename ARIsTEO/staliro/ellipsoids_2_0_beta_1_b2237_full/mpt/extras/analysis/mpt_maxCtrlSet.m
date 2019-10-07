@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [invSet,iterations, Piter] = mpt_maxCtrlSet(sysStruct,Options)
 %MPT_MAXCTRLSET     Computes the maximal  robust control invariant set C_inf
 %                   or the maximal robust attractive set K_inf

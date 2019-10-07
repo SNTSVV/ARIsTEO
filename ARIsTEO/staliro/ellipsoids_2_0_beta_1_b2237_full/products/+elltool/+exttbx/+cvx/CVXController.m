@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef CVXController < elltool.exttbx.IExtTBXController
     properties (GetAccess=private,Constant)
         CVX_SETUP_FUNC_NAME='cvx_setup';

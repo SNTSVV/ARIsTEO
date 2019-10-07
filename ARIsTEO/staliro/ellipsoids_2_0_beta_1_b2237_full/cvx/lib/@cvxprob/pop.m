@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function pop( prob, clearmode )
 if nargin < 2, clearmode = 'clear'; end
 

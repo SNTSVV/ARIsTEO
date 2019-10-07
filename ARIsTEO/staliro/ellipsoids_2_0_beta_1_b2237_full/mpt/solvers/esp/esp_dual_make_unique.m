@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function E = dual_make_unique(star,C,D,b)
 %
 % E0min = dual_make_unique(star,C,D,b)

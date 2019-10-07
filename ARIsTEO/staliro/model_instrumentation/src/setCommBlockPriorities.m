@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [  ] = setCommBlockPriorities( info )
 %setCommBlockPriorities Sets sorted priorities for IC Comm block pairs
 

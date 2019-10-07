@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [sys,values] = value(X,allextended,allevaluators,allStruct,mt,variabletype,solution,values)
 %VALUE Returns current numerical value of an SDPVAR object
 %

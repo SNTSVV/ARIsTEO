@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  x = fiordos_call(solver,param,B0,b0,mask,map,dimout)
 
 mparams.be = b0 + B0*param(mask); 

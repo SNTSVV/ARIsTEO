@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %                            Ad = Adendotd(dense, d, sparAd, Ablk, blkstart)
 % ADENDOTD  Computes d[k]'*Aj[k] for Lorentz blocks that are to be factored
 %  by dpr1fact.

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ hyperPeriod ] = calculateHyperPeriod( sampleTimeArr )
 %calculateHyperPeriod Calculates hyperperiod of sample times
 %Minimum allowed step size is 1 ms

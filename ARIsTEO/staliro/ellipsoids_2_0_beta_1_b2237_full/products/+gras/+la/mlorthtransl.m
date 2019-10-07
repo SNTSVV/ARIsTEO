@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function oArr= mlorthtransl(srcMat,dstArray)
 % MLORTHTRANSL generates a set of orthogonal matrices that translate each of
 % the given vectors into a corresponding another vector from another set

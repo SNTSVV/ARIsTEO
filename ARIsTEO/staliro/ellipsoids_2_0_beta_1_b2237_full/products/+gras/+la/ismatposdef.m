@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function isPosDef = ismatposdef( qMat, absTol, isFlagSemDefOn)
 % ISMATPOSDEF  checks if qMat is positive definite
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function options = merge_options(default_options,varargin)
 % MERGE_OPTIONS Merge a set of default options with options from varargin
 % The set of options in varargin can be a list of key,value pairs, or a

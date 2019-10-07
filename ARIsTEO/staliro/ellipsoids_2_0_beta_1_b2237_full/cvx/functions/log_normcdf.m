@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = log_normcdf( x, approx ) %#ok
 
 %LOG_NORMCDF   Logarithm of the cumulative normal distribution.

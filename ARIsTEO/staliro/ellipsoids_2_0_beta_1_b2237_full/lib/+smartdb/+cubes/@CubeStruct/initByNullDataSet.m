@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function initByNullDataSet(self,dimVec)
 % INITBYDEFAULTDATASET - initializes cube struct object with null value 
 %                        arrays of specified size based on minDimVec 

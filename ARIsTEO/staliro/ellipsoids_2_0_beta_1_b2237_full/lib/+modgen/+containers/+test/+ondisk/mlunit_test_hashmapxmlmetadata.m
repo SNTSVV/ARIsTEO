@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef mlunit_test_hashmapxmlmetadata < modgen.containers.test.mlunit_test_diskbasedhashmap
 
     properties 

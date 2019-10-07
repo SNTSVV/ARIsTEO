@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = gams2yalmip(fileName,filenameOut);
 % GAMS2YALMIP Converts GAMS model to YALMIP
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%*****************************************************************
 %% compute lower and upper bounds for the exact primal
 %%         optimal value. 

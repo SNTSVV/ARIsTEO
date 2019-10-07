@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function lp = create_lp_solve_model(A,b,f,xint,LB,UB,e,options);
 
 [m,n] = size(A);

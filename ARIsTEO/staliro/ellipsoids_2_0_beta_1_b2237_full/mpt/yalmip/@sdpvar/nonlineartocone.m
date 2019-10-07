@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [Fconv,info] = nonlineartocone(F)
 %NONLINEARTOCONE Convert nonlinear constraint to second order cone
 

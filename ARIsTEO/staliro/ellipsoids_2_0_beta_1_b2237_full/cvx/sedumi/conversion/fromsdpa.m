@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [At,b,c,K]=fromsdpa(fname)
 % readsdpa Reads SDP problem from sparse SDPA-formatted input file.
 %    [At,b,c,K] = readsdpa(fname) produces conic optimization problem

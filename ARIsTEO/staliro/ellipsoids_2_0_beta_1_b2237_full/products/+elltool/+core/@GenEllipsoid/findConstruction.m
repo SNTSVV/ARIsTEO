@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [diagQVec, resQMat]=findConstruction(firstEllMat,firstBasMat,...
     secBasMat,firstIndVec,secIndVec,secDiagVec)
 % FINDCONSTRUCTION - construct matrices from two matrices from orthogonal

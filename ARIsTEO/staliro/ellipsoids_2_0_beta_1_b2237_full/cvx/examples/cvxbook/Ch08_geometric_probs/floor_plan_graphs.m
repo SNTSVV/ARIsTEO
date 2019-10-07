@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % Solve a floor planning problem given graphs H & V
 % Section 8.8.1/2, Example 8.7, Boyd & Vandenberghe "Convex Optimization"
 % Joelle Skaf - 11/13/05

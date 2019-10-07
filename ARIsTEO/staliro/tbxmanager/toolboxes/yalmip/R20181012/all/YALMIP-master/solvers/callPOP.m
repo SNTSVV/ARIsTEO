@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function output = callPOP(interfacedata)
 
 % temporarily convert from YALMIP to MPT format

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = mpt_guiSetup(varargin)
 % MPT_GUISETUP M-file for mpt_guiSetup.fig
 %      MPT_GUISETUP, by itself, creates a new MPT_GUISETUP or raises the existing

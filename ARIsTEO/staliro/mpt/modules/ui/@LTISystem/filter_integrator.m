@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function filter = filter_integrator(varargin)
 % Adds a stedy-state-based integrator for LTI systems
 

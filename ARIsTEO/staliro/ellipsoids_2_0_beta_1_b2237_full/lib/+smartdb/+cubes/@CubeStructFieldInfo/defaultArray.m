@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resArray=defaultArray(cubeStructRefList,sizeVec)
 % DEFAULTARRAY creates an array of CubeStructFieldInfo objects
 % of a specified size filled with the default values

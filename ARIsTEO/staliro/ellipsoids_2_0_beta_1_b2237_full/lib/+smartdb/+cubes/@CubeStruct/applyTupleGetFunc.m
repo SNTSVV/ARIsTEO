@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout=applyTupleGetFunc(self,varargin)
 % APPLYTUPLEGETFUNC - applies a function to the specified fields 
 %                     separately to each tuple 

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function newInfo = setStartTimeOfBlocks( info )
 %setStartTimeOfBlocks Set start time of ICComm blocks
 newInfo.modelName = info.modelName;

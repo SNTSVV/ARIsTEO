@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function R = mpt_solvemp(S)
 %
 % a common gateway function for parametric solvers

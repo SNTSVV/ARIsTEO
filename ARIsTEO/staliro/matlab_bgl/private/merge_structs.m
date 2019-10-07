@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function S = merge_structs(A, B)
 % MERGE_STRUCTS Merge two structures.
 %

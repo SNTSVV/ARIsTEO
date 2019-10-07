@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%***************************************************************
 %% degeneracy: determine if an SDP problem is non-degenerate. 
 %%

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function d2fdx2 = hessian(f,x)
 % HESSIAN Hessian of scalar polynomial SDPVAR object
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function removeFields(self,varargin)
 % REMOVEFIELDS removes fields from a given CubeStruct object
 %

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % x = sdpavec(E,K)
 % Takes an SDPA type sparse data description E, i.e.
 %   E(1,:) = block, E(2,:) = row, E(3,:) = column, E(4,:) = entry,

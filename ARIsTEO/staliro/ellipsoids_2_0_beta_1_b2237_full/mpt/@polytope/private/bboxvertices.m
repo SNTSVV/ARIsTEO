@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function boxPoints=bboxvertices(BoxMin, BoxMax, n)
 %BBOXVERTICES Computes all vertices of a bounding box
 %

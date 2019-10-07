@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 classdef ArrayTestPropForSuite<mlunitext.test_case
     properties
       simpleTypeNoCharList={{'int8'},{'int16'},{'int32'},{'int64'},{'double'},...

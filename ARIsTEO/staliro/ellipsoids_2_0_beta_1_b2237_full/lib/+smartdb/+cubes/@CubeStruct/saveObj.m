@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function s=saveObj(obj)
 % SAVEOBJ- transforms given CubeStruct object into structure containing 
 %          internal representation of object properties

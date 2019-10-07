@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function H = fmincon_fun(x,params,what)
 
 xevaled = zeros(1,length(params.interfacedata.c));

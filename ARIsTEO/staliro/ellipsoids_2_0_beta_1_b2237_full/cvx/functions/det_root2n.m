@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function cvx_optval = det_root2n( X )
 
 %DET_ROOT2N 2nth-root of the determinant of an SPD matrix.

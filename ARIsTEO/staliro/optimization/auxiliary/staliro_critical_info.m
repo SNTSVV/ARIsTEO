@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [nearest_point_on_s, tmin, rob, ixmin, critical_point_on_pred] = staliro_critical_info(SP,XT,YT,T,opt)
 
 % This function outputs the critical information that is used for

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%********************************************************************
 %% minEpts: minimum volume ellipsoid containing given 
 %%          points, V(:,1),...,V(:,m). 

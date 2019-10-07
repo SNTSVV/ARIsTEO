@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [errStr, StackVec] = parsemessage(errStr, StackVec)
 % PARSEERROR parses special errors to extract
 % further information for the stacktrace.

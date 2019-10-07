@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function solution = savesdpafile(varargin)
 %SAVESDPAFILE Saves a problem definition in the SDPA format
 %

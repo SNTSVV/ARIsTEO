@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function dblBallaniminit
 %DBLBALLANIMINIT Initializes a figure for sldemo_doublebounce animations.
 

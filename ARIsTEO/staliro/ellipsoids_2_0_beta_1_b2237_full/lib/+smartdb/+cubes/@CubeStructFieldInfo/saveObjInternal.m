@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function SObjectData=saveObjInternal(self)
 % SAVEOBJINTERNAL saves a current object state to a structure,
 %    please note that this function is only used for implementing

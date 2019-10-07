@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [ index, alreadyExisting, ports ] = getIndexOfPort( portsIn, block, type, portNo )
 %getIndexOfPort Searches for a port with given 'block', 'type' and 'portNo'
 %fields in 'portsIn' structure array and returns index of the found entry and

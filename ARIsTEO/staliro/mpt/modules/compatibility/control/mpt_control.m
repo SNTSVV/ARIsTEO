@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function ctrl = mpt_control(sysStruct, probStruct, type, varargin)
 % To import MPC properties from sysStruct and probStruct:
 %   model = mpt_import(sysStruct, probStruct)

@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function y = cvx_value( x )
 global cvx___
 y = cellfun( @cvx_value, x, 'UniformOutput', false );

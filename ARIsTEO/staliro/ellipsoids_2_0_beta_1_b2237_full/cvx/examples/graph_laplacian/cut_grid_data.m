@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [A,xy]= cut_grid_data
 
 % Generate a cut-grid graph for the ICM 2006 talk example

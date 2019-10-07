@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function outEllArr = uminus(ellArr)
 %
 % UMINUS - changes the sign of the centerVec of ellipsoid.

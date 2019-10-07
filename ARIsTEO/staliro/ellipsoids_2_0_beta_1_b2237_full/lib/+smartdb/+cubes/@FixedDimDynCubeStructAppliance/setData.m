@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function  setData(self,varargin)
 % SETDATA - sets data for all fields of CubeStruct object
 %

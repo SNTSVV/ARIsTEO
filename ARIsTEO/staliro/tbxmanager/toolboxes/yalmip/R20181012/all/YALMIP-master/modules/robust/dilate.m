@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = dilate(F,w,options)
 % DILATE  Derives a matrix dilation
 %

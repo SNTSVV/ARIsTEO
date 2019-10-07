@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function varargout = vectorizedlogic(fun,varargin);
 if nargin-1 == 1
     if length(varargin{1})==1

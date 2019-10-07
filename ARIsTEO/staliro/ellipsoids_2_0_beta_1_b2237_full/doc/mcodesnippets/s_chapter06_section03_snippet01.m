@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 % define system 1
 firstAMat = [-1/6 0 -1/3; 0 0 1/7; 1/2 -1/2 -1/2];
 firstBMat = [1/6 1/3; 0 0; 0 0];

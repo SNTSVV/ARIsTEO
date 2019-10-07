@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 %%***********************************************************
 %% lmiexamp1: generate SDP data for the following LMI problem
 %%

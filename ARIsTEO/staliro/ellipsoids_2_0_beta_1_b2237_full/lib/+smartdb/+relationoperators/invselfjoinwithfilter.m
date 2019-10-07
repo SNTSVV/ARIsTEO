@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function resRelObj = invselfjoinwithfilter(inpRelObj,sepByFieldList,...
     combField,valueField,combToFieldRel,varargin)
 % INVSELFJOINWITHFILTER performs inverse operation to self join of given

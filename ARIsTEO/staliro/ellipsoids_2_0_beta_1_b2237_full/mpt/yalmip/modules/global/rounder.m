@@ -1,3 +1,4 @@
+% Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 function [upper,x_min] = rounder(p,relaxedsolution)
 
 % Extremely simple heuristic for finding integer
