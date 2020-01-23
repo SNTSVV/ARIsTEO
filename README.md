@@ -1,5 +1,4 @@
 # ARIsTEO --- AppRoxImation-based TEst generatiOn
-TEst generatiOn
 
 <img src="./Logo.png" alt="ARIsTEO logo" width="96">
 
@@ -36,5 +35,5 @@ Note that ARIsTEO has the same interface of S-Taliro.
 
 ############################################################### <br/>
  Have fun! <br/>
-Take a look at our <a href="https://github.com/SNTSVV/ARIsTEO/tree/master/Tutorial">tutorial</a>
+Take a look at our <a href="https://github.com/SNTSVV/ARIsTEO/tree/master/Tutorial">tutorial</a><br/>
 ###############################################################

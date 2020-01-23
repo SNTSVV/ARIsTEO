@@ -56,4 +56,4 @@ By running the following commands a pendulum will be shown on the screen. Differ
 
 
 
-To see a comparison between ARIsTEO and STaliro execute the file AristeoTutorial.m
+To see a comparison between ARIsTEO and STaliro execute the file ``AristeoTutorial.m``

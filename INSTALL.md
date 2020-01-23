@@ -16,8 +16,7 @@ The pendulum is the simplest mechanical system you can model. This system contai
 
 The input it the applied moment at every time instant (continuous signal representing the momentun applied to the pendulum at different time instants -- See figure on the left)
 
-<img src="./Satisfaction.png" alt="ARIsTEO logo" width="96">
-<img src="./Violation.png" alt="ARIsTEO logo" width="96">
+<img src="./Satisfaction.png" alt="ARIsTEO logo" width="96"><img src="./Violation.png" alt="ARIsTEO logo" width="96">
 
 The property of interest states that the pendulum should remain below the horizontal line that crosses the fixed pivot. When the pendulum goes above the horizontal line the color of the pendulum changes from green to red. <br/>
 
