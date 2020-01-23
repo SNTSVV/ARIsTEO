@@ -1,3 +1,17 @@
+## Prerequisite
+- Matlab R2018a
+- Matlab System Identification Toolbox
+
+## Installation instructions
+- open the folder ARIsTEO with Matlab
+- add the folder ARIsTEO and all of its subfolders on your classpath (right click on the folder > add to path > selected folder and subfolders)
+- open the folder ``staliro``
+- run the command ``setup_staliro``
+
+For a description of the parameters and the Usage of ARIsTEO type "help aristeo"  
+
+## Basic Usage -- The Pendulum Example
+
 The pendulum is the simplest mechanical system you can model. This system contains two bodies, a link and a fixed pivot, connected by a revolute joint.
 
 The input it the applied moment at every time instant (continuous signal representing the momentun applied to the pendulum at different time instants -- See figure on the left)
@@ -11,7 +25,6 @@ The goal of the testing activity is to search for a test input that violates thi
 
 
 By running the following commands a pendulum will be shown on the screen. Different simulations are performed where ARIsTEO searches for a a test input that violates the property. When a test input that violates the property is found  the pendulum changes its color from green to red, meaning that the property is violated and the test case generation stops.
-
 
 ``% Defines a variable that contains the name of the model``<br/>
 ``model='simppend';``<br/>
@@ -53,7 +66,6 @@ By running the following commands a pendulum will be shown on the screen. Differ
 ``% Runs ARIsTEO``<br/>
 ``[resultsaristeo,inputaristeo] = aristeo(model, init_cond, input_range, cp_array, phi, preds, TotSimTime, opt);``<br/>
 
+A pendulum will be shown on the screen. Different simulations are performed where ARIsTEO searches for a a test input (continuous signal representing the momentun applied to the pendulum at different time instants) that showing that the pendulum does not remain below the horizontal line. When the pendulum goes above the horizontal line the color of the pendulum changes from green to red, meaning that the property is violated and the simulation stops.<br/>
 
-
-
-To see a comparison between ARIsTEO and STaliro execute the file AristeoTutorial.m
+Note that, since the algorithm is based on search based testing (in some cases) it can happen that no violation of the property is detected. The user can repeat the experiment of increase the number of refinement rounds to increase the accuracy of ARIsTEO.

@@ -1,4 +1,5 @@
-# ARIsTEO
+# ARIsTEO --- AppRoxImation-based TEst generatiOn
+TEst generatiOn
 
 <img src="./Logo.png" alt="ARIsTEO logo" width="96">
 
@@ -16,16 +17,24 @@ As the faulty input generated for the surrogate model can be spurious, a check o
 - Results: contains the results of our experiments and the scripts that generate the results reported in the paper
 - Tutorial: contains a simple example - a pendulum -  that shows how ARIsTEO works
 
+## Prerequisite
+- Matlab R2018a
+- Matlab System Identification Toolbox
+
 ## Installation instructions
 - open the folder ARIsTEO with Matlab
 - add the folder ARIsTEO and all of its subfolders on your classpath (right click on the folder > add to path > selected folder and subfolders)
 - open the folder ``staliro``
 - run the command ``setup_staliro``
 
+For a description of the parameters and the Usage of ARIsTEO type "help aristeo"  
+
+
 ## Running ARIsTEO
 After ARISTEO is performed type "help aristeo".
 Note that ARIsTEO has the same interface of S-Taliro.
 
-###############################################################
-# Have fun! Install ARIsTEO and take a look at the tutorial
+############################################################### <br/>
+ Have fun! <br/>
+Take a look at our <a href="https://github.com/SNTSVV/ARIsTEO/tree/master/Tutorial">tutorial</a>
 ###############################################################

@@ -26,18 +26,16 @@ function []=RQ2andRQ3(tool,max_MUT_executions)
     % original model
     expnum=100;
 
-    fid = fopen(strcat('../Results/RQ2/rq2results',tool,'.csv'),'w'); % removes old content from rq3results.txt
+    fid = fopen(strcat('./Results/RQ2/rq2results',tool,'.csv'),'w'); % removes old content from rq3results.txt
     fprintf(fid,'%s,%s,%s\n','Experiment','Approach','SuccessPercentage');            
     fclose(fid);
      % creates the header of the file
-    fid = fopen(strcat('../Results/RQ3/rq3resultsIterations',tool,num2str(max_MUT_executions),'.csv'),'w'); 
+    fid = fopen(strcat('./Results/RQ3/rq3resultsIterations',tool,num2str(max_MUT_executions),'.csv'),'w'); 
     fclose(fid);
    
 
     %% Running the experiment
     for experiment=1:1:numberofexamples
-        cd('..');
-        cd(strcat('Benchmarks/',folders{experiment}));
         scriptname=scriptsrunningmodels{experiment};
         disp('*************************************');    
         disp(strcat('Model:  ',scriptname));
@@ -84,7 +82,7 @@ function []=RQ2andRQ3(tool,max_MUT_executions)
         disp(successPercentage);
         
         % writes the results on a file
-        fid = fopen(strcat('../../Results/RQ2/rq2results',tool,'_',num2str(max_MUT_executions),'.csv'),'a');
+        fid = fopen(strcat('./Results/RQ2/rq2results',tool,'_',num2str(max_MUT_executions),'.csv'),'a');
         fprintf(fid,'%s,%s,%s\n',tool,folders{experiment},num2str(successPercentage));            
         fclose(fid);
 
@@ -94,7 +92,7 @@ function []=RQ2andRQ3(tool,max_MUT_executions)
 
        
         a=[results.run(faultyRows).nTests];
-        fid = fopen(strcat('../../Results/RQ3/rq3resultsIterations',tool,num2str(max_MUT_executions),'.csv'),'a');
+        fid = fopen(strcat('./Results/RQ3/rq3resultsIterations',tool,num2str(max_MUT_executions),'.csv'),'a');
         fprintf(fid,'%d\t',a);
         fprintf(fid,'\n');
         fclose(fid);
@@ -102,7 +100,6 @@ function []=RQ2andRQ3(tool,max_MUT_executions)
         
         % clear the variables for the next iterations
         clearvars model init_cond  input_range cp_array phi preds sim_time opt results 
-        cd('..');
         clearvars -except numberofexamples experiment tool max_MUT_executions folders scriptsrunningmodels nTests nTestsInputs nTestsOutputs modelStructure numberofexamples expnum
     end
     cd('..');

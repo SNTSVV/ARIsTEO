@@ -18,10 +18,8 @@ function []=RQ1(selectedexperiment,modelsstructure,currentOrderIndex)
     disp('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%');
     clearvars -except selectedexperiment modelsstructure currentOrderIndex
     close all
-    cd('../ARIsTEO/staliro/');
     %setup_staliro;
-    cd('../../RQs/');
-
+    
     disp('selected experiment:');
     disp(selectedexperiment);
     curPath=fileparts(which('RQ1.m')); 
@@ -52,7 +50,7 @@ function []=RQ1(selectedexperiment,modelsstructure,currentOrderIndex)
     modelsstructures={'arx', 'armax', 'ss', 'bj', 'tf', 'nlarx','hw'};
 
     % writing the header of the result file
-    fid = fopen(strcat('../Results/RQ1/',selectedexperiment,'/',modelsstructure,num2str(currentOrderIndex),'results.csv'),'w');
+    fid = fopen(strcat('./Results/RQ1/',selectedexperiment,'/',modelsstructure,num2str(currentOrderIndex),'results.csv'),'w');
     fprintf(fid,'%s,%s,%s,%s,%s,%s\n','Experiment','Model','Order','Percentage','AvgIterations','Time');            
     fclose(fid);  
 
@@ -62,7 +60,6 @@ function []=RQ1(selectedexperiment,modelsstructure,currentOrderIndex)
         % opening the right folder
         scriptname=scriptsrunningmodels{experiment};
         
-        cd(strcat('../Benchmarks/',folders{experiment}));
         
 
         if(isempty(selectedexperiment) || isequal(selectedexperiment,folders{experiment}))
@@ -141,7 +138,7 @@ function []=RQ1(selectedexperiment,modelsstructure,currentOrderIndex)
                         time=toc(now);
 
                         % saving the results
-                        fid = fopen(strcat('../../Results/RQ1/',selectedexperiment,'/',modelsstructures{modelnumber},num2str(currentOrderIndex),'results.csv'),'a');
+                        fid = fopen(strcat('./Results/RQ1/',selectedexperiment,'/',modelsstructures{modelnumber},num2str(currentOrderIndex),'results.csv'),'a');
                         fprintf(fid,'%s,%s,%d,%4f,%4f,%4f\n',folders{experiment},abstractionModelType,currentOrder,Percentage,AverageIterations,time);
                         fclose(fid);
 
@@ -156,7 +153,7 @@ function []=RQ1(selectedexperiment,modelsstructure,currentOrderIndex)
                     totaltime=toc(totalnow);
                     display(totaltime);
     
-                    fid = fopen(strcat('../../Results/RQ1/',selectedexperiment,'/',modelsstructures{modelnumber},num2str(currentOrderIndex),'Statistics.txt'),'w');
+                    fid = fopen(strcat('./Results/RQ1/',selectedexperiment,'/',modelsstructures{modelnumber},num2str(currentOrderIndex),'Statistics.txt'),'w');
                     fprintf(fid,'%4f\n',totaltime);            
                     fclose(fid);
                 end
