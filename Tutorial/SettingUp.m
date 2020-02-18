@@ -1,7 +1,7 @@
 % Copyright Claudio Menghi, University of Luxembourg, 2018-2019, claudio.menghi@uni.lu  
 
 % defining a variable that contains the name of the model
-model='simppend';
+model='pendulum';
 
 % As we aim to consider the initial conditions of the model, we set init_cond to an empty set
 init_cond = [];
