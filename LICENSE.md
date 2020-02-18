@@ -1,4 +1,5 @@
 Copyright University of Luxembourg, 2019.
+
 Authors: Claudio MENGHI <claudio.menghi@uni.lu>, Shiva NEJATI <shiva.nejati@uni.lu>, Lionel BRIAND <lionel.briand@uni.lu>
 
 The Logo.png was created by Claudio MENGHI and is distributed under CC-BY SA 2.0.
