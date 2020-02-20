@@ -1,5 +1,5 @@
 ## Prerequisite
-- Matlab R2018a
+- Matlab R2018b/R2018a/2016a/2010b
 - Matlab System Identification Toolbox
 
 ## Installation instructions
@@ -7,6 +7,7 @@
 - add the folder ARIsTEO and all of its subfolders on your classpath (right click on the folder > add to path > selected folder and subfolders)
 - open the folder ``staliro``
 - run the command ``setup_staliro``
+- Install the Signal Processing Toolbox to add it "Home > Adds On > Signal Processing Toolbox"
 
 For a description of the parameters and the Usage of ARIsTEO type "help aristeo"  
 

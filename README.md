@@ -59,7 +59,7 @@ By running the following commands a pendulum will be shown on the screen. Differ
 
 
 ``% Defines a variable that contains the name of the model``<br/>
-``model='simppend';``<br/>
+``model='pendulum';``<br/>
 
 ``% Considers the default initial conditions of the model``<br/>
 ``init_cond = [];``<br/>
