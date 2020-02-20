@@ -1,6 +1,8 @@
 ## Prerequisite
 - Matlab R2018b/R2018a/2016a/2010b
 - Matlab System Identification Toolbox
+- For running the tutorial version R2018b is required
+- For mac users Xcode should be installed and properly configured (see https://www.mathworks.com/support/compilers)
 
 ## Installation instructions
 - open the folder ARIsTEO with Matlab

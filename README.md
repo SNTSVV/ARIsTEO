@@ -4,6 +4,7 @@
 <img src="./Logo.png" alt="ARIsTEO logo" width="96">
 </p>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3677209.svg)](https://doi.org/10.5281/zenodo.3677209)
 ARIsTEO (AbstRactIon based TEst generatiOn) is a novel testing framework that generates faulty test inputs for Compute Intensive Cyber-Physical Models in a automatic manner. ARIsTEO is based on an approximation-refinement loop.
 It is a comprehensive framework that uses different existing tools and combines them to solve the test case generation problem in an effective manner.
 Specifically, ARIsTEO learns from the CI-CPS model a non-CI-CPS surrogate model, which is used for generating a (faulty) input.
