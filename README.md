@@ -44,9 +44,9 @@ International Conference on Software Engineering, 2020 <br/>
 - add the folder ARIsTEO and all of its subfolders on your classpath (right click on the folder > add to path > selected folder and subfolders)
 - open the folder ``staliro``
 - run the command ``setup_staliro``
+- Install the Signal Processing Toolbox to add it "Home > Adds On > Signal Processing Toolbox"
 
-For a description of the parameters and the Usage of ARIsTEO type "``help aristeo``"  
-
+For a description of the parameters and the Usage of ARIsTEO type "help aristeo"  
 
 ## Running ARIsTEO --- The pendulum example
 The pendulum is the simplest mechanical system you can model. This system contains two bodies, a link and a fixed pivot, connected by a revolute joint.
