@@ -33,8 +33,11 @@ International Conference on Software Engineering, 2020 <br/>
 - Tutorial: contains a simple example - a pendulum -  that shows how ARIsTEO works
 
 ## Prerequisite
-- Matlab R2018a
+- Matlab R2018b/R2018a/2016a/2010b
 - Matlab System Identification Toolbox
+- Matlab Signal Processing Toolbox
+- For running the tutorial version R2018b is required
+- For mac users Xcode should be installed and properly configured (see https://www.mathworks.com/support/compilers)
 
 ## Installation instructions
 - open the folder ARIsTEO with Matlab
