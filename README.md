@@ -19,7 +19,7 @@ As the faulty input generated for the surrogate model can be spurious, a check o
 The approximation-refinement loop of ARIsTEO relies on the following inputs: a CI-CPS model  (i.e., the model under test—MUT), and the maximum number of iterations MAX_REF that can be executed by ARIsTEO. In the first iteration, an initial surrogate model MS is computed such that it approximates the MUT behavior. At every iteration, the algorithm applies falsification-based testing to the surrogate model in order to find a test input U violating the requirement captured by the test objective TObj. The number MAX of iterations of falsification-based testing is an internal parameter of ARIsTEO, and in general, can be set to a high value since executing MS is not expensive. Once U is found, the algorithm checks whether U leads to a violation when it is checked on the MUT. If the requirement is violated on the MUT U is returned as a failure-revealing test for M. Otherwise, U is spurious and in the next iteration it is used to refine the surrogate model MS. If no failure-revealing test for the MUT is found after MAX_REF iterations the algorithm stops and a null value is returned.
 
 # Publications
-- Approximation-Refinement Testing of Compute-Intensive Cyber-Physical Models: An Approach Based on System Identification<br/>
+- <a href="https://orbilu.uni.lu/handle/10993/41562">Approximation-Refinement Testing of Compute-Intensive Cyber-Physical Models: An Approach Based on System Identification</a><br/>
 <i>Menghi Claudio, Nejati Shiva, Lionel Briand, , Isasi Parache<br/>
 International Conference on Software Engineering, 2020 <br/>
 </i>
